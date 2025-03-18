@@ -44,8 +44,8 @@ Bleach_Bot/
 │   │   └── mainbot.py  # Main chatbot logic
 │   │
 │   ├── evaluation/     # Performance & faithfulness evaluation
-│   │   ├── evaluation.py  # Computes faithfulness & accuracy
-│   │   └── logging.py     # Logs evaluation results
+│   │   ├── faithfulness_evaluation.py  # Computes faithfulness & accuracy (NOT COMPLETED)
+│   │   └── evaluation_logger.py     # Logs evaluation results (NOT MADE YET)
 │   │
 │   ├── frontend/       # Streamlit-based UI for chatbot
 │   │   ├── streamlit_app1.py  # Streamlit UI Version 1
@@ -105,7 +105,6 @@ The embedding module converts text into high-dimensional vector embeddings using
 🔹 **Execution Flow:**
 1️⃣ Run `embed.py` → Generates vector embeddings.
 2️⃣ Run `vector_store.py` → Stores embeddings in ChromaDB.
-3️⃣ Use `retrieval.py` → Retrieves relevant documents.
 
 ---
 
