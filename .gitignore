@@ -1,0 +1,4 @@
+.env
+__pycache__
+bleach_wiki/
+e_reults.txt
