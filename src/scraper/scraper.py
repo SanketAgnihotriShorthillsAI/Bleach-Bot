@@ -176,7 +176,7 @@ class BleachWikiScraper:
 
 # Run the scraper for multiple pages
 if __name__ == "__main__":
-    topics = ["Pernida Parnkgjas"]
+    topics = ["Tokinada Tsunayashiro"]
     scraper = BleachWikiScraper(topics=topics)
     scraper.run()
 
