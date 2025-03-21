@@ -1,0 +1,30 @@
+[
+  {
+    "query": "When is Ichigo Kurosaki's birthday?",
+    "context_recall_cosine": 8.534490466117859,
+    "context_precision_cosine": 8.552627563476562,
+    "context_overlap_rougeL": 0.43343653250773995,
+    "negative_retrieval_cosine": 0.0
+  },
+  {
+    "query": "What race is Ichigo Kurosaki listed as in the Bleach universe?",
+    "context_recall_cosine": 8.367812633514404,
+    "context_precision_cosine": 8.361002802848816,
+    "context_overlap_rougeL": 0.364741641337386,
+    "negative_retrieval_cosine": 0.0
+  },
+  {
+    "query": "What is the name of Ichigo Kurosaki's Zanpakut\u014d in Shikai form?",
+    "context_recall_cosine": 8.707751035690308,
+    "context_precision_cosine": 8.932773470878601,
+    "context_overlap_rougeL": 0.49122807017543857,
+    "negative_retrieval_cosine": 0.0
+  },
+  {
+    "query": "What is the name of Ichigo\u2019s Bankai?",
+    "context_recall_cosine": 8.684580326080322,
+    "context_precision_cosine": 8.458865880966187,
+    "context_overlap_rougeL": 0.472972972972973,
+    "negative_retrieval_cosine": 0.0
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "query": "When is Ichigo Kurosaki's birthday?",
+    "generated_answer": "July 15th\n",
+    "ground_truth_answer": "Ichigo Kurosaki was born on July 15, 1985.",
+    "answer_chunk_similarity": 8.070613145828247,
+    "faithful_coverage": 2.0,
+    "negative_faithfulness": 2.1293811798095703,
+    "faithfulness_llm": 7.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "What race is Ichigo Kurosaki listed as in the Bleach universe?",
+    "generated_answer": "I don't know.  The provided text states Ichigo is neither a Shinigami nor a normal human, but doesn't specify his race.\n",
+    "ground_truth_answer": "Ichigo Kurosaki is a Human (with Quincy heritage).",
+    "answer_chunk_similarity": 7.7580201625823975,
+    "faithful_coverage": 2.5806451612903225,
+    "negative_faithfulness": 1.2287575006484985,
+    "faithfulness_llm": 7.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the name of Ichigo Kurosaki's Zanpakut\u014d in Shikai form?",
+    "generated_answer": "Zangetsu.\n",
+    "ground_truth_answer": "Ichigo\u2019s Zanpakut\u014d in Shikai form is named Zangetsu.",
+    "answer_chunk_similarity": 7.960275411605835,
+    "faithful_coverage": 1.9999999999999998,
+    "negative_faithfulness": 1.5775275230407715,
+    "faithfulness_llm": 2.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of Ichigo\u2019s Bankai?",
+    "generated_answer": "Tensa Zangetsu (\u5929\u9396\u65ac\u6708, Heaven Chain Slaying Moon)\n",
+    "ground_truth_answer": "Ichigo Kurosaki\u2019s Bankai is called Tensa Zangetsu.",
+    "answer_chunk_similarity": 8.246819972991943,
+    "faithful_coverage": 2.8571428571428577,
+    "negative_faithfulness": 1.4398455619812012,
+    "faithfulness_llm": 7.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who are Ichigo Kurosaki\u2019s parents?",
+    "generated_answer": "Ichigo Kurosaki's parents are Isshin Kurosaki and Masaki Kurosaki.\n",
+    "ground_truth_answer": "Ichigo is the son of Isshin Kurosaki and Masaki Kurosaki.",
+    "answer_chunk_similarity": 7.334848642349243,
+    "faithful_coverage": 6.0,
+    "negative_faithfulness": 0.3255873918533325,
+    "faithfulness_llm": 7.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Which characters are Ichigo Kurosaki\u2019s sisters?",
+    "generated_answer": "Ichigo Kurosaki's sisters are Karin Kurosaki and Yuzu Kurosaki.\n",
+    "ground_truth_answer": "Ichigo\u2019s younger twin sisters are Karin Kurosaki and Yuzu Kurosaki.",
+    "answer_chunk_similarity": 7.158135771751404,
+    "faithful_coverage": 8.571428571428573,
+    "negative_faithfulness": 0.7031756639480591,
+    "faithfulness_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Who is Ichigo Kurosaki married to?",
+    "generated_answer": "Orihime.\n",
+    "ground_truth_answer": "Ichigo Kurosaki is married to Orihime Inoue.",
+    "answer_chunk_similarity": 7.976187467575073,
+    "faithful_coverage": 2.5,
+    "negative_faithfulness": 1.975332498550415,
+    "faithfulness_llm": 0.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "What is the name of Ichigo Kurosaki\u2019s child?",
+    "generated_answer": "Kazui Kurosaki\n",
+    "ground_truth_answer": "Ichigo\u2019s son is named Kazui Kurosaki.",
+    "answer_chunk_similarity": 7.371706962585449,
+    "faithful_coverage": 4.444444444444445,
+    "negative_faithfulness": 1.5788394212722778,
+    "faithfulness_llm": 5.0,
+    "faithful_coverage_llm": 8.0
+  }
+]

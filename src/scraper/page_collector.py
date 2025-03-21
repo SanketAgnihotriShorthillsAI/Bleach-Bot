@@ -36,13 +36,13 @@ class BleachCharacterExtractor:
 
         service = Service(ChromeDriverManager().install())
         driver = webdriver.Chrome(service=service, options=options)
-        driver.set_page_load_timeout(180)
+        driver.set_page_load_timeout(30)
         return driver
 
     def extract_character_names(self):
         """Scrapes the Bleach Wiki 'Characters' category page to get all character names."""
         driver = self.setup_selenium()
-        wait = WebDriverWait(driver, 30)
+        wait = WebDriverWait(driver, 3)
 
         driver.get(CHARACTER_PAGE)
 

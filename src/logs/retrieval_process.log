@@ -1,0 +1,36 @@
+2025-03-21 15:37:14,303 - INFO - 📊 Context Recall Score (Cosine): 8.53
+2025-03-21 15:37:14,689 - INFO - 📊 Context Precision Score (Cosine): 8.55
+2025-03-21 15:37:14,693 - INFO - 📊 Context Overlap Score (ROUGE-L): 0.43
+2025-03-21 15:37:15,256 - INFO - 📊 Negative Retrieval Score: 0.00
+2025-03-21 15:37:15,825 - INFO - 📊 Context Precision Score (LLM): 2.00
+2025-03-21 15:37:16,458 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-21 15:37:17,716 - INFO - 📊 Retrieval Precision Score (LLM): 2.00
+2025-03-21 15:37:18,286 - INFO - 📊 Context Overlap Score (LLM): 8.00
+2025-03-21 15:37:18,900 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-21 15:37:20,540 - INFO - 📊 Context Recall Score (Cosine): 8.37
+2025-03-21 15:37:20,938 - INFO - 📊 Context Precision Score (Cosine): 8.36
+2025-03-21 15:37:20,942 - INFO - 📊 Context Overlap Score (ROUGE-L): 0.36
+2025-03-21 15:37:21,466 - INFO - 📊 Negative Retrieval Score: 0.00
+2025-03-21 15:37:21,980 - INFO - 📊 Context Precision Score (LLM): 0.00
+2025-03-21 15:37:23,297 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-21 15:37:23,911 - INFO - 📊 Retrieval Precision Score (LLM): 0.00
+2025-03-21 15:37:24,428 - INFO - 📊 Context Overlap Score (LLM): 2.00
+2025-03-21 15:37:25,036 - INFO - 📊 Negative Retrieval Score (LLM): 10.00
+2025-03-21 15:37:26,257 - INFO - 📊 Context Recall Score (Cosine): 8.71
+2025-03-21 15:37:26,651 - INFO - 📊 Context Precision Score (Cosine): 8.93
+2025-03-21 15:37:26,654 - INFO - 📊 Context Overlap Score (ROUGE-L): 0.49
+2025-03-21 15:37:27,177 - INFO - 📊 Negative Retrieval Score: 0.00
+2025-03-21 15:37:27,746 - INFO - 📊 Context Precision Score (LLM): 7.00
+2025-03-21 15:37:28,268 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-21 15:37:28,801 - INFO - 📊 Retrieval Precision Score (LLM): 6.00
+2025-03-21 15:37:29,333 - INFO - 📊 Context Overlap Score (LLM): 8.00
+2025-03-21 15:37:29,879 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-21 15:37:30,903 - INFO - 📊 Context Recall Score (Cosine): 8.68
+2025-03-21 15:37:31,324 - INFO - 📊 Context Precision Score (Cosine): 8.46
+2025-03-21 15:37:31,328 - INFO - 📊 Context Overlap Score (ROUGE-L): 0.47
+2025-03-21 15:37:31,870 - INFO - 📊 Negative Retrieval Score: 0.00
+2025-03-21 15:37:32,398 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-21 15:37:32,728 - ERROR - ❌ Error generating response: 429 Resource has been exhausted (e.g. check quota).
+2025-03-21 15:37:33,089 - ERROR - ❌ Error generating response: 429 Resource has been exhausted (e.g. check quota).
+2025-03-21 15:37:33,537 - ERROR - Error generating response: 429 Resource has been exhausted (e.g. check quota).
+2025-03-21 15:37:33,949 - ERROR - ❌ Error generating response: 429 Resource has been exhausted (e.g. check quota).
