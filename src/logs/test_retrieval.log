@@ -1,0 +1,1872 @@
+2025-03-24 13:23:19,346 - INFO - 📊 Context Precision Score (Cosine): 8.50
+2025-03-24 13:23:19,347 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.44
+2025-03-24 13:23:19,702 - INFO - 📊 Context Recall Score (Cosine): 8.40
+2025-03-24 13:23:22,220 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.64
+2025-03-24 13:23:22,845 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 13:23:24,179 - INFO - 📊 Context Recall Score (LLM): 10.00
+2025-03-24 13:23:24,995 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 13:23:26,534 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 13:23:28,290 - INFO - 📊 Context Precision Score (Cosine): 8.36
+2025-03-24 13:23:28,291 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.54
+2025-03-24 13:23:28,670 - INFO - 📊 Context Recall Score (Cosine): 8.37
+2025-03-24 13:23:31,033 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.60
+2025-03-24 13:23:31,661 - INFO - 📊 Context Precision Score (LLM): 0.00
+2025-03-24 13:23:32,269 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 13:23:32,835 - INFO - 📊 Retrieval Precision Score (LLM): 0.00
+2025-03-24 13:23:33,392 - INFO - 📊 Negative Retrieval Score (LLM): 10.00
+2025-03-24 13:23:34,691 - INFO - 📊 Context Precision Score (Cosine): 8.93
+2025-03-24 13:23:34,691 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.24
+2025-03-24 13:23:35,061 - INFO - 📊 Context Recall Score (Cosine): 8.71
+2025-03-24 13:23:37,444 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.81
+2025-03-24 13:23:38,011 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 13:23:38,723 - INFO - 📊 Context Recall Score (LLM): 10.00
+2025-03-24 13:23:39,232 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 13:23:39,853 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 13:23:41,222 - INFO - 📊 Context Precision Score (Cosine): 8.47
+2025-03-24 13:23:41,223 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.38
+2025-03-24 13:23:41,636 - INFO - 📊 Context Recall Score (Cosine): 8.64
+2025-03-24 13:23:43,852 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.72
+2025-03-24 13:23:44,458 - INFO - 📊 Context Precision Score (LLM): 10.00
+2025-03-24 13:23:45,008 - INFO - 📊 Context Recall Score (LLM): 10.00
+2025-03-24 13:23:45,584 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 13:23:46,194 - INFO - 📊 Negative Retrieval Score (LLM): 0.00
+2025-03-24 13:23:47,509 - INFO - 📊 Context Precision Score (Cosine): 8.75
+2025-03-24 13:23:47,509 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.47
+2025-03-24 13:23:47,903 - INFO - 📊 Context Recall Score (Cosine): 8.84
+2025-03-24 13:23:50,332 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.89
+2025-03-24 13:23:51,020 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 13:23:51,415 - ERROR - ❌ Error generating response: 429 Resource has been exhausted (e.g. check quota).
+2025-03-24 13:23:51,741 - ERROR - ❌ Error generating response: 429 Resource has been exhausted (e.g. check quota).
+2025-03-24 13:23:52,339 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 14:24:46,714 - INFO - 📊 Context Precision Score (Cosine): 8.63
+2025-03-24 14:24:46,714 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.63
+2025-03-24 14:24:47,074 - INFO - 📊 Context Recall Score (Cosine): 8.31
+2025-03-24 14:24:49,492 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.69
+2025-03-24 14:24:55,209 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:24:55,210 - ERROR - ❌ Error generating response: 'str' object has no attribute 'text'
+2025-03-24 14:25:01,112 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:25:01,113 - ERROR - ❌ Error generating response: 'str' object has no attribute 'text'
+2025-03-24 14:25:06,953 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:25:06,953 - ERROR - ❌ Error generating response: 'str' object has no attribute 'text'
+2025-03-24 14:25:12,581 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:25:12,582 - ERROR - ❌ Error generating response: 'str' object has no attribute 'text'
+2025-03-24 14:25:59,958 - INFO - 📊 Context Precision Score (Cosine): 8.63
+2025-03-24 14:25:59,959 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.63
+2025-03-24 14:26:00,327 - INFO - 📊 Context Recall Score (Cosine): 8.31
+2025-03-24 14:26:02,799 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.69
+2025-03-24 14:26:09,107 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:26:09,107 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 14:26:14,747 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:26:14,748 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-24 14:26:20,473 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:26:20,473 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 14:26:26,105 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:26:26,106 - INFO - 📊 Negative Retrieval Score (LLM): 0.00
+2025-03-24 14:26:29,041 - INFO - 📊 Context Precision Score (Cosine): 8.28
+2025-03-24 14:26:29,042 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.70
+2025-03-24 14:26:29,395 - INFO - 📊 Context Recall Score (Cosine): 8.22
+2025-03-24 14:26:31,759 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.54
+2025-03-24 14:26:37,436 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:26:37,437 - INFO - 📊 Context Precision Score (LLM): 6.00
+2025-03-24 14:26:43,206 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:26:43,206 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 14:26:48,838 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:26:48,839 - INFO - 📊 Retrieval Precision Score (LLM): 6.00
+2025-03-24 14:26:54,470 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:26:54,471 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 14:26:56,587 - INFO - 📊 Context Precision Score (Cosine): 8.81
+2025-03-24 14:26:56,588 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.91
+2025-03-24 14:26:56,960 - INFO - 📊 Context Recall Score (Cosine): 8.62
+2025-03-24 14:26:59,393 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.68
+2025-03-24 14:27:05,018 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:27:05,018 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 14:27:10,854 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:27:10,855 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-24 14:27:16,592 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:27:16,593 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 14:27:22,323 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:27:22,324 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 14:27:25,395 - INFO - 📊 Context Precision Score (Cosine): 8.92
+2025-03-24 14:27:25,395 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.08
+2025-03-24 14:27:25,779 - INFO - 📊 Context Recall Score (Cosine): 8.63
+2025-03-24 14:27:28,251 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.80
+2025-03-24 14:27:33,792 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:27:33,792 - INFO - 📊 Context Precision Score (LLM): 4.00
+2025-03-24 14:27:39,735 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:27:39,736 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 14:27:45,671 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:27:45,671 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 14:27:52,023 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:27:52,023 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 14:27:53,327 - INFO - 📊 Context Precision Score (Cosine): 8.81
+2025-03-24 14:27:53,327 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.75
+2025-03-24 14:27:53,679 - INFO - 📊 Context Recall Score (Cosine): 8.88
+2025-03-24 14:27:56,030 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.90
+2025-03-24 14:28:01,247 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:28:01,248 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 14:28:06,871 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:28:06,872 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 14:28:12,196 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:28:12,196 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 14:28:17,108 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:28:17,108 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 14:45:45,575 - INFO - 📊 Context Precision Score (Cosine): 8.75
+2025-03-24 14:45:45,575 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.14
+2025-03-24 14:45:45,916 - INFO - 📊 Context Recall Score (Cosine): 8.87
+2025-03-24 14:45:48,289 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.09
+2025-03-24 14:45:53,882 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:45:53,882 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 14:45:59,310 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:45:59,311 - INFO - 📊 Context Recall Score (LLM): 6.00
+2025-03-24 14:46:04,648 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:46:04,649 - INFO - 📊 Retrieval Precision Score (LLM): 6.00
+2025-03-24 14:46:10,269 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:46:10,270 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 14:46:11,652 - INFO - 📊 Context Precision Score (Cosine): 8.49
+2025-03-24 14:46:11,653 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.29
+2025-03-24 14:46:11,988 - INFO - 📊 Context Recall Score (Cosine): 8.22
+2025-03-24 14:46:14,473 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.78
+2025-03-24 14:46:19,798 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:46:19,798 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 14:46:25,422 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:46:25,422 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 14:46:30,952 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:46:30,955 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 14:46:35,976 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:46:35,977 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 14:46:39,065 - INFO - 📊 Context Precision Score (Cosine): 8.82
+2025-03-24 14:46:39,065 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.51
+2025-03-24 14:46:39,485 - INFO - 📊 Context Recall Score (Cosine): 8.38
+2025-03-24 14:46:42,092 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.82
+2025-03-24 14:46:47,646 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:46:47,646 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 14:46:54,716 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:46:54,716 - INFO - 📊 Context Recall Score (LLM): 6.00
+2025-03-24 14:47:00,550 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:47:00,551 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 14:47:07,005 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:47:07,005 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 14:47:08,642 - INFO - 📊 Context Precision Score (Cosine): 8.93
+2025-03-24 14:47:08,642 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.80
+2025-03-24 14:47:09,066 - INFO - 📊 Context Recall Score (Cosine): 8.57
+2025-03-24 14:47:13,294 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.95
+2025-03-24 14:47:18,680 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:47:18,680 - INFO - 📊 Context Precision Score (LLM): 6.00
+2025-03-24 14:47:24,414 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:47:24,415 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 14:47:29,948 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:47:29,949 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 14:47:35,383 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:47:35,383 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 14:47:38,257 - INFO - 📊 Context Precision Score (Cosine): 8.47
+2025-03-24 14:47:38,258 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.03
+2025-03-24 14:47:38,609 - INFO - 📊 Context Recall Score (Cosine): 8.13
+2025-03-24 14:47:40,648 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.45
+2025-03-24 14:47:45,420 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:47:45,421 - INFO - 📊 Context Precision Score (LLM): 0.00
+2025-03-24 14:47:50,632 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:47:50,633 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 14:47:56,057 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:47:56,057 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 14:48:01,381 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:48:01,382 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 14:48:02,657 - INFO - 📊 Context Precision Score (Cosine): 8.74
+2025-03-24 14:48:02,658 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.91
+2025-03-24 14:48:03,049 - INFO - 📊 Context Recall Score (Cosine): 8.34
+2025-03-24 14:48:05,717 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.51
+2025-03-24 14:48:11,012 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:48:11,012 - INFO - 📊 Context Precision Score (LLM): 6.00
+2025-03-24 14:48:16,747 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:48:16,748 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 14:48:22,570 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:48:22,571 - INFO - 📊 Retrieval Precision Score (LLM): 7.00
+2025-03-24 14:48:28,111 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:48:28,111 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 14:48:30,968 - INFO - 📊 Context Precision Score (Cosine): 8.61
+2025-03-24 14:48:30,969 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.32
+2025-03-24 14:48:31,380 - INFO - 📊 Context Recall Score (Cosine): 8.00
+2025-03-24 14:48:33,751 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.50
+2025-03-24 14:48:39,481 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:48:39,482 - INFO - 📊 Context Precision Score (LLM): 2.00
+2025-03-24 14:48:44,907 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:48:44,907 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 14:48:50,442 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:48:50,442 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 14:48:56,069 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:48:56,069 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 14:48:57,451 - INFO - 📊 Context Precision Score (Cosine): 8.48
+2025-03-24 14:48:57,451 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.40
+2025-03-24 14:48:57,793 - INFO - 📊 Context Recall Score (Cosine): 8.45
+2025-03-24 14:49:00,106 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.67
+2025-03-24 14:49:05,083 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:49:05,084 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 14:49:10,610 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:49:10,611 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 14:49:15,832 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:49:15,833 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 14:49:21,058 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:49:21,059 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 14:49:22,572 - INFO - 📊 Context Precision Score (Cosine): 8.59
+2025-03-24 14:49:22,573 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.91
+2025-03-24 14:49:23,005 - INFO - 📊 Context Recall Score (Cosine): 8.54
+2025-03-24 14:49:25,654 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.87
+2025-03-24 14:49:31,099 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:49:31,099 - INFO - 📊 Context Precision Score (LLM): 7.00
+2025-03-24 14:49:36,530 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:49:36,530 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 14:49:42,052 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:49:42,052 - INFO - 📊 Retrieval Precision Score (LLM): 7.00
+2025-03-24 14:49:47,885 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:49:47,886 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 14:49:49,314 - INFO - 📊 Context Precision Score (Cosine): 8.50
+2025-03-24 14:49:49,315 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.26
+2025-03-24 14:49:49,718 - INFO - 📊 Context Recall Score (Cosine): 8.33
+2025-03-24 14:49:52,299 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.65
+2025-03-24 14:49:58,228 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:49:58,229 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 14:50:03,966 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:50:03,967 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 14:50:09,803 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:50:09,804 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 14:50:15,842 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:50:15,842 - INFO - 📊 Negative Retrieval Score (LLM): 9.00
+2025-03-24 14:50:17,190 - INFO - 📊 Context Precision Score (Cosine): 8.41
+2025-03-24 14:50:17,191 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.45
+2025-03-24 14:50:17,586 - INFO - 📊 Context Recall Score (Cosine): 8.28
+2025-03-24 14:50:20,161 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.53
+2025-03-24 14:50:25,673 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:50:25,674 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 14:50:31,101 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:50:31,101 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 14:50:36,634 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:50:36,636 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 14:50:42,294 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:50:42,294 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 14:50:44,575 - INFO - 📊 Context Precision Score (Cosine): 8.75
+2025-03-24 14:50:44,575 - INFO - 📊 Context Precision Score (Cosine + BM25): 8.23
+2025-03-24 14:50:44,983 - INFO - 📊 Context Recall Score (Cosine): 9.19
+2025-03-24 14:50:47,605 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.25
+2025-03-24 14:50:53,527 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:50:53,527 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 14:50:59,235 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:50:59,236 - INFO - 📊 Context Recall Score (LLM): 10.00
+2025-03-24 14:51:04,997 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:51:04,997 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 14:51:10,580 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:51:10,580 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 14:51:12,053 - INFO - 📊 Context Precision Score (Cosine): 8.70
+2025-03-24 14:51:12,053 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.16
+2025-03-24 14:51:12,428 - INFO - 📊 Context Recall Score (Cosine): 8.47
+2025-03-24 14:51:14,999 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.91
+2025-03-24 14:51:20,869 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:51:20,870 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 14:51:26,811 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:51:26,812 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 14:51:32,751 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:51:32,751 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 14:51:38,588 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:51:38,589 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 14:51:41,388 - INFO - 📊 Context Precision Score (Cosine): 8.69
+2025-03-24 14:51:41,389 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.17
+2025-03-24 14:51:41,763 - INFO - 📊 Context Recall Score (Cosine): 8.07
+2025-03-24 14:51:44,095 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.73
+2025-03-24 14:51:49,235 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:51:49,236 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 14:51:54,461 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:51:54,461 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-24 14:51:59,931 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:51:59,931 - INFO - 📊 Retrieval Precision Score (LLM): 6.00
+2025-03-24 14:52:05,075 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:52:05,076 - INFO - 📊 Negative Retrieval Score (LLM): 4.00
+2025-03-24 14:52:06,358 - INFO - 📊 Context Precision Score (Cosine): 8.74
+2025-03-24 14:52:06,359 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.51
+2025-03-24 14:52:06,793 - INFO - 📊 Context Recall Score (Cosine): 8.55
+2025-03-24 14:52:09,358 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.99
+2025-03-24 14:52:14,737 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:52:14,737 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 14:52:20,264 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:52:20,264 - INFO - 📊 Context Recall Score (LLM): 10.00
+2025-03-24 14:52:25,793 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:52:25,794 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 14:52:31,221 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:52:31,221 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 14:52:33,685 - INFO - 📊 Context Precision Score (Cosine): 8.41
+2025-03-24 14:52:33,686 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.14
+2025-03-24 14:52:34,094 - INFO - 📊 Context Recall Score (Cosine): 8.18
+2025-03-24 14:52:36,661 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.61
+2025-03-24 14:52:42,722 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:52:42,723 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 14:52:49,053 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:52:49,054 - INFO - 📊 Context Recall Score (LLM): 10.00
+2025-03-24 14:52:55,653 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:52:55,653 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 14:53:01,739 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:53:01,739 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 14:53:03,104 - INFO - 📊 Context Precision Score (Cosine): 8.65
+2025-03-24 14:53:03,105 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.28
+2025-03-24 14:53:03,498 - INFO - 📊 Context Recall Score (Cosine): 8.65
+2025-03-24 14:53:05,919 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.69
+2025-03-24 14:53:11,567 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:53:11,568 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 14:53:17,404 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:53:17,404 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 14:53:23,654 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:53:23,655 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 14:53:29,436 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:53:29,436 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 14:53:32,396 - INFO - 📊 Context Precision Score (Cosine): 8.51
+2025-03-24 14:53:32,397 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.20
+2025-03-24 14:53:32,741 - INFO - 📊 Context Recall Score (Cosine): 8.44
+2025-03-24 14:53:34,961 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.81
+2025-03-24 14:53:40,556 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:53:40,557 - INFO - 📊 Context Precision Score (LLM): 2.00
+2025-03-24 14:53:45,978 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:53:45,978 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 14:53:51,408 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:53:51,409 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 14:53:56,829 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:53:56,830 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 14:53:58,257 - INFO - 📊 Context Precision Score (Cosine): 8.79
+2025-03-24 14:53:58,257 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.75
+2025-03-24 14:53:58,632 - INFO - 📊 Context Recall Score (Cosine): 8.25
+2025-03-24 14:54:00,982 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.81
+2025-03-24 14:54:06,968 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:54:06,968 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 14:54:12,808 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:54:12,808 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-24 14:54:18,526 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:54:18,527 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 14:54:24,994 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:54:24,994 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 14:54:27,856 - INFO - 📊 Context Precision Score (Cosine): 8.79
+2025-03-24 14:54:27,857 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.83
+2025-03-24 14:54:28,288 - INFO - 📊 Context Recall Score (Cosine): 8.97
+2025-03-24 14:54:30,881 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.97
+2025-03-24 14:54:37,283 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:54:37,283 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 14:54:44,143 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:54:44,143 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 14:54:51,004 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:54:51,005 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 14:54:57,350 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:54:57,350 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 14:54:58,698 - INFO - 📊 Context Precision Score (Cosine): 8.12
+2025-03-24 14:54:58,699 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.01
+2025-03-24 14:54:59,087 - INFO - 📊 Context Recall Score (Cosine): 8.08
+2025-03-24 14:55:01,656 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.45
+2025-03-24 14:55:08,515 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:55:08,515 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 14:55:14,770 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:55:14,771 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 14:55:20,801 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:55:20,802 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 14:55:27,098 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:55:27,098 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 14:55:29,917 - INFO - 📊 Context Precision Score (Cosine): 8.05
+2025-03-24 14:55:29,918 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.50
+2025-03-24 14:55:30,341 - INFO - 📊 Context Recall Score (Cosine): 8.22
+2025-03-24 14:55:32,791 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.72
+2025-03-24 14:55:39,344 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:55:39,345 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 14:55:45,683 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:55:45,683 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-24 14:55:52,744 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:55:52,745 - INFO - 📊 Retrieval Precision Score (LLM): 6.00
+2025-03-24 14:55:58,788 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:55:58,789 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 14:56:00,141 - INFO - 📊 Context Precision Score (Cosine): 7.84
+2025-03-24 14:56:00,142 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.06
+2025-03-24 14:56:00,481 - INFO - 📊 Context Recall Score (Cosine): 8.24
+2025-03-24 14:56:02,938 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.68
+2025-03-24 14:56:10,240 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:56:10,241 - INFO - 📊 Context Precision Score (LLM): 6.00
+2025-03-24 14:56:16,068 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:56:16,068 - INFO - 📊 Context Recall Score (LLM): 2.00
+2025-03-24 14:56:22,042 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:56:22,043 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 14:56:27,637 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:56:27,637 - INFO - 📊 Negative Retrieval Score (LLM): 9.00
+2025-03-24 14:56:30,427 - INFO - 📊 Context Precision Score (Cosine): 8.29
+2025-03-24 14:56:30,428 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.69
+2025-03-24 14:56:30,773 - INFO - 📊 Context Recall Score (Cosine): 7.99
+2025-03-24 14:56:33,157 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.64
+2025-03-24 14:56:41,043 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:56:41,044 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 14:56:46,878 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:56:46,879 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-24 14:56:53,362 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:56:53,362 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 14:56:59,685 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:56:59,686 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 14:57:00,910 - INFO - 📊 Context Precision Score (Cosine): 8.54
+2025-03-24 14:57:00,911 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.82
+2025-03-24 14:57:01,277 - INFO - 📊 Context Recall Score (Cosine): 8.08
+2025-03-24 14:57:03,563 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.63
+2025-03-24 14:57:09,745 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:57:09,745 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 14:57:15,786 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:57:15,787 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 14:57:21,725 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:57:21,725 - INFO - 📊 Retrieval Precision Score (LLM): 7.00
+2025-03-24 14:57:27,873 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:57:27,873 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 14:57:30,833 - INFO - 📊 Context Precision Score (Cosine): 8.09
+2025-03-24 14:57:30,834 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.38
+2025-03-24 14:57:31,130 - INFO - 📊 Context Recall Score (Cosine): 7.52
+2025-03-24 14:57:33,213 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.35
+2025-03-24 14:57:42,719 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:57:42,720 - INFO - 📊 Context Precision Score (LLM): 2.00
+2025-03-24 14:57:48,565 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:57:48,565 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 14:57:54,389 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:57:54,389 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 14:58:00,948 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:58:00,949 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 14:58:02,412 - INFO - 📊 Context Precision Score (Cosine): 8.57
+2025-03-24 14:58:02,412 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.18
+2025-03-24 14:58:02,754 - INFO - 📊 Context Recall Score (Cosine): 8.09
+2025-03-24 14:58:05,504 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.77
+2025-03-24 14:58:11,182 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:58:11,183 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 14:58:16,711 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:58:16,712 - INFO - 📊 Context Recall Score (LLM): 4.00
+2025-03-24 14:58:22,571 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:58:22,571 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 14:58:28,087 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:58:28,087 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 14:58:30,943 - INFO - 📊 Context Precision Score (Cosine): 7.99
+2025-03-24 14:58:30,944 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.97
+2025-03-24 14:58:31,356 - INFO - 📊 Context Recall Score (Cosine): 8.46
+2025-03-24 14:58:33,863 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.00
+2025-03-24 14:58:40,365 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:58:40,366 - INFO - 📊 Context Precision Score (LLM): 6.00
+2025-03-24 14:58:46,933 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:58:46,934 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 14:58:53,574 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:58:53,575 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 14:58:59,616 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:58:59,616 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 14:59:01,136 - INFO - 📊 Context Precision Score (Cosine): 8.23
+2025-03-24 14:59:01,137 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.39
+2025-03-24 14:59:01,530 - INFO - 📊 Context Recall Score (Cosine): 8.51
+2025-03-24 14:59:04,311 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.76
+2025-03-24 14:59:12,006 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:59:12,006 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 14:59:17,957 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:59:17,957 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 14:59:24,602 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:59:24,603 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 14:59:30,643 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:59:30,643 - INFO - 📊 Negative Retrieval Score (LLM): 2.00
+2025-03-24 14:59:33,266 - INFO - 📊 Context Precision Score (Cosine): 8.33
+2025-03-24 14:59:33,266 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.44
+2025-03-24 14:59:33,629 - INFO - 📊 Context Recall Score (Cosine): 8.56
+2025-03-24 14:59:35,928 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.72
+2025-03-24 14:59:41,530 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:59:41,530 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 14:59:47,016 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:59:47,017 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 14:59:53,376 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:59:53,376 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 14:59:59,525 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 14:59:59,525 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 15:00:00,986 - INFO - 📊 Context Precision Score (Cosine): 8.46
+2025-03-24 15:00:00,987 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.23
+2025-03-24 15:00:01,349 - INFO - 📊 Context Recall Score (Cosine): 8.50
+2025-03-24 15:00:03,567 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.64
+2025-03-24 15:00:09,336 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:00:09,336 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 15:00:15,467 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:00:15,468 - INFO - 📊 Context Recall Score (LLM): 10.00
+2025-03-24 15:00:25,505 - WARNING - [LMStudio] Attempt 1 failed: HTTPConnectionPool(host='10.99.22.156', port=1235): Read timed out. (read timeout=10)
+2025-03-24 15:00:37,529 - WARNING - [LMStudio] Attempt 2 failed: HTTPConnectionPool(host='10.99.22.156', port=1235): Read timed out. (read timeout=10)
+2025-03-24 15:00:42,223 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:00:42,224 - INFO - 📊 Retrieval Precision Score (LLM): 7.00
+2025-03-24 15:00:47,851 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:00:47,851 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 15:00:49,134 - INFO - 📊 Context Precision Score (Cosine): 8.34
+2025-03-24 15:00:49,135 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.18
+2025-03-24 15:00:49,495 - INFO - 📊 Context Recall Score (Cosine): 8.47
+2025-03-24 15:00:51,811 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.67
+2025-03-24 15:00:57,287 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:00:57,288 - INFO - 📊 Context Precision Score (LLM): 0.00
+2025-03-24 15:01:02,801 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:01:02,802 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 15:01:09,150 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:01:09,151 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 15:01:14,580 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:01:14,581 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 15:01:15,974 - INFO - 📊 Context Precision Score (Cosine): 8.37
+2025-03-24 15:01:15,975 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.03
+2025-03-24 15:01:16,384 - INFO - 📊 Context Recall Score (Cosine): 8.06
+2025-03-24 15:01:18,820 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.63
+2025-03-24 15:01:25,128 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:01:25,128 - INFO - 📊 Context Precision Score (LLM): 3.00
+2025-03-24 15:01:30,964 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:01:30,965 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-24 15:01:38,235 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:01:38,235 - INFO - 📊 Retrieval Precision Score (LLM): 1.00
+2025-03-24 15:01:45,604 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:01:45,605 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 15:01:46,866 - INFO - 📊 Context Precision Score (Cosine): 7.93
+2025-03-24 15:01:46,867 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.04
+2025-03-24 15:01:47,185 - INFO - 📊 Context Recall Score (Cosine): 8.08
+2025-03-24 15:01:49,385 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.57
+2025-03-24 15:01:55,131 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:01:55,132 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 15:02:01,272 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:02:01,272 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 15:02:06,805 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:02:06,806 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 15:02:13,255 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:02:13,256 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 15:02:14,913 - INFO - 📊 Context Precision Score (Cosine): 8.78
+2025-03-24 15:02:14,914 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.07
+2025-03-24 15:02:15,281 - INFO - 📊 Context Recall Score (Cosine): 8.27
+2025-03-24 15:02:17,829 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.71
+2025-03-24 15:02:24,004 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:02:24,005 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 15:02:30,865 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:02:30,865 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 15:02:39,159 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:02:39,159 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 15:02:44,996 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:02:44,997 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 15:02:46,472 - INFO - 📊 Context Precision Score (Cosine): 8.23
+2025-03-24 15:02:46,472 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.17
+2025-03-24 15:02:46,857 - INFO - 📊 Context Recall Score (Cosine): 8.54
+2025-03-24 15:02:50,435 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.79
+2025-03-24 15:02:57,188 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:02:57,188 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 15:03:03,531 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:03:03,531 - INFO - 📊 Context Recall Score (LLM): 2.00
+2025-03-24 15:03:10,606 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:03:10,606 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 15:03:16,748 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:03:16,749 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 15:03:18,079 - INFO - 📊 Context Precision Score (Cosine): 8.87
+2025-03-24 15:03:18,080 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.64
+2025-03-24 15:03:18,393 - INFO - 📊 Context Recall Score (Cosine): 8.14
+2025-03-24 15:03:20,424 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.80
+2025-03-24 15:03:25,751 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:03:25,752 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 15:03:31,178 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:03:31,179 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 15:03:37,731 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:03:37,732 - INFO - 📊 Retrieval Precision Score (LLM): 7.00
+2025-03-24 15:03:43,057 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:03:43,057 - INFO - 📊 Negative Retrieval Score (LLM): 9.00
+2025-03-24 15:03:45,229 - INFO - 📊 Context Precision Score (Cosine): 8.25
+2025-03-24 15:03:45,230 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.70
+2025-03-24 15:03:45,561 - INFO - 📊 Context Recall Score (Cosine): 7.91
+2025-03-24 15:03:47,756 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.52
+2025-03-24 15:03:54,120 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:03:54,120 - INFO - 📊 Context Precision Score (LLM): 0.00
+2025-03-24 15:03:59,851 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:03:59,851 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 15:04:05,892 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:04:05,892 - INFO - 📊 Retrieval Precision Score (LLM): 2.00
+2025-03-24 15:04:11,630 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:04:11,630 - INFO - 📊 Negative Retrieval Score (LLM): 9.00
+2025-03-24 15:04:13,068 - INFO - 📊 Context Precision Score (Cosine): 7.96
+2025-03-24 15:04:13,069 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.20
+2025-03-24 15:04:13,473 - INFO - 📊 Context Recall Score (Cosine): 8.06
+2025-03-24 15:04:16,061 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.63
+2025-03-24 15:04:21,867 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:04:21,867 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 15:04:27,601 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:04:27,602 - INFO - 📊 Context Recall Score (LLM): 10.00
+2025-03-24 15:04:34,053 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:04:34,053 - INFO - 📊 Retrieval Precision Score (LLM): 7.00
+2025-03-24 15:04:42,291 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:04:42,292 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 15:04:44,482 - INFO - 📊 Context Precision Score (Cosine): 8.89
+2025-03-24 15:04:44,483 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.99
+2025-03-24 15:04:44,878 - INFO - 📊 Context Recall Score (Cosine): 8.57
+2025-03-24 15:04:47,462 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.79
+2025-03-24 15:04:54,638 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:04:54,639 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 15:05:01,396 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:05:01,397 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 15:05:08,356 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:05:08,357 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 15:05:15,320 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:05:15,320 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 15:05:16,696 - INFO - 📊 Context Precision Score (Cosine): 8.60
+2025-03-24 15:05:16,697 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.50
+2025-03-24 15:05:17,109 - INFO - 📊 Context Recall Score (Cosine): 8.07
+2025-03-24 15:05:19,995 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.66
+2025-03-24 15:05:26,689 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:05:26,690 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 15:05:35,083 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:05:35,083 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 15:05:42,824 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:05:42,824 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 15:05:50,852 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:05:50,853 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 15:05:52,501 - INFO - 📊 Context Precision Score (Cosine): 8.59
+2025-03-24 15:05:52,502 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.99
+2025-03-24 15:05:52,913 - INFO - 📊 Context Recall Score (Cosine): 8.26
+2025-03-24 15:05:55,437 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.67
+2025-03-24 15:06:01,608 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:06:01,608 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 15:06:08,875 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:06:08,875 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 15:06:15,736 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:06:15,736 - INFO - 📊 Retrieval Precision Score (LLM): 7.00
+2025-03-24 15:06:22,088 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:06:22,089 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 15:06:24,609 - INFO - 📊 Context Precision Score (Cosine): 8.77
+2025-03-24 15:06:24,610 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.85
+2025-03-24 15:06:25,066 - INFO - 📊 Context Recall Score (Cosine): 8.97
+2025-03-24 15:06:27,559 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.05
+2025-03-24 15:06:33,144 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:06:33,144 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 15:06:42,257 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:06:42,258 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-24 15:06:48,634 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:06:48,634 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 15:06:57,423 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:06:57,423 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 15:06:58,947 - INFO - 📊 Context Precision Score (Cosine): 8.96
+2025-03-24 15:06:58,947 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.28
+2025-03-24 15:06:59,397 - INFO - 📊 Context Recall Score (Cosine): 8.26
+2025-03-24 15:07:02,045 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.75
+2025-03-24 15:07:08,165 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:07:08,166 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 15:07:14,209 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:07:14,210 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-24 15:07:20,350 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:07:20,351 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 15:07:26,495 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:07:26,495 - INFO - 📊 Negative Retrieval Score (LLM): 9.00
+2025-03-24 15:07:29,424 - INFO - 📊 Context Precision Score (Cosine): 8.74
+2025-03-24 15:07:29,425 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.50
+2025-03-24 15:07:29,917 - INFO - 📊 Context Recall Score (Cosine): 8.53
+2025-03-24 15:07:33,077 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.78
+2025-03-24 15:07:39,707 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:07:39,708 - INFO - 📊 Context Precision Score (LLM): 7.00
+2025-03-24 15:07:47,387 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:07:47,388 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 15:07:55,586 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:07:55,587 - INFO - 📊 Retrieval Precision Score (LLM): 4.00
+2025-03-24 15:08:02,641 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:08:02,642 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 15:08:04,140 - INFO - 📊 Context Precision Score (Cosine): 8.77
+2025-03-24 15:08:04,141 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.45
+2025-03-24 15:08:04,609 - INFO - 📊 Context Recall Score (Cosine): 8.65
+2025-03-24 15:08:07,318 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.88
+2025-03-24 15:08:13,906 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:08:13,907 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 15:08:21,586 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:08:21,587 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-24 15:08:30,201 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:08:30,202 - INFO - 📊 Retrieval Precision Score (LLM): 6.00
+2025-03-24 15:08:37,151 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:08:37,152 - INFO - 📊 Negative Retrieval Score (LLM): 2.00
+2025-03-24 15:08:40,126 - INFO - 📊 Context Precision Score (Cosine): 8.89
+2025-03-24 15:08:40,127 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.44
+2025-03-24 15:08:40,631 - INFO - 📊 Context Recall Score (Cosine): 8.82
+2025-03-24 15:08:43,420 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.04
+2025-03-24 15:08:49,752 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:08:49,752 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 15:08:57,335 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:08:57,336 - INFO - 📊 Context Recall Score (LLM): 4.00
+2025-03-24 15:09:03,790 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:09:03,790 - INFO - 📊 Retrieval Precision Score (LLM): 7.00
+2025-03-24 15:09:10,127 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:09:10,128 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 15:09:11,575 - INFO - 📊 Context Precision Score (Cosine): 9.05
+2025-03-24 15:09:11,576 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.35
+2025-03-24 15:09:11,988 - INFO - 📊 Context Recall Score (Cosine): 8.58
+2025-03-24 15:09:14,542 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.92
+2025-03-24 15:09:20,023 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:09:20,024 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 15:09:26,935 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:09:26,935 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 15:09:32,763 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:09:32,763 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 15:09:39,411 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:09:39,412 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 15:09:42,211 - INFO - 📊 Context Precision Score (Cosine): 9.09
+2025-03-24 15:09:42,212 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.57
+2025-03-24 15:09:42,544 - INFO - 📊 Context Recall Score (Cosine): 9.14
+2025-03-24 15:09:44,849 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.09
+2025-03-24 15:09:49,960 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:09:49,960 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 15:09:55,181 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:09:55,181 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 15:10:00,199 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:10:00,199 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 15:10:05,379 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:10:05,380 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 15:10:06,723 - INFO - 📊 Context Precision Score (Cosine): 8.97
+2025-03-24 15:10:06,723 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.24
+2025-03-24 15:10:07,097 - INFO - 📊 Context Recall Score (Cosine): 8.69
+2025-03-24 15:10:09,361 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.95
+2025-03-24 15:10:14,644 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:10:14,645 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 15:10:20,376 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:10:20,376 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 15:10:25,904 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:10:25,905 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 15:10:31,127 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:10:31,127 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 15:10:33,156 - INFO - 📊 Context Precision Score (Cosine): 9.09
+2025-03-24 15:10:33,157 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.58
+2025-03-24 15:10:33,552 - INFO - 📊 Context Recall Score (Cosine): 8.87
+2025-03-24 15:10:35,883 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.13
+2025-03-24 15:10:41,262 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:10:41,262 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 15:10:46,694 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:10:46,695 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 15:10:52,532 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:10:52,532 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 15:10:58,061 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:10:58,062 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 15:15:24,879 - INFO - 📊 Context Precision Score (Cosine): 8.45
+2025-03-24 15:15:24,880 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.82
+2025-03-24 15:15:25,293 - INFO - 📊 Context Recall Score (Cosine): 8.03
+2025-03-24 15:15:27,671 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.55
+2025-03-24 15:15:33,015 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:15:33,015 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 15:15:38,548 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:15:38,548 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 15:15:43,785 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:15:43,786 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 15:15:48,716 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:15:48,716 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 15:15:50,866 - INFO - 📊 Context Precision Score (Cosine): 8.76
+2025-03-24 15:15:50,867 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.93
+2025-03-24 15:15:51,280 - INFO - 📊 Context Recall Score (Cosine): 8.69
+2025-03-24 15:15:53,915 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.85
+2025-03-24 15:15:59,032 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:15:59,033 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 15:16:04,328 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:16:04,328 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 15:16:09,884 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:16:09,885 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 15:16:15,107 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:16:15,107 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 15:16:17,234 - INFO - 📊 Context Precision Score (Cosine): 8.90
+2025-03-24 15:16:17,235 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.04
+2025-03-24 15:16:17,645 - INFO - 📊 Context Recall Score (Cosine): 8.64
+2025-03-24 15:16:20,211 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.14
+2025-03-24 15:16:25,855 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:16:25,855 - INFO - 📊 Context Precision Score (LLM): 7.00
+2025-03-24 15:16:31,795 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:16:31,796 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 15:16:37,530 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:16:37,531 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 15:16:43,060 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:16:43,061 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 15:16:46,258 - INFO - 📊 Context Precision Score (Cosine): 8.95
+2025-03-24 15:16:46,258 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.64
+2025-03-24 15:16:46,667 - INFO - 📊 Context Recall Score (Cosine): 8.79
+2025-03-24 15:16:49,492 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.97
+2025-03-24 15:16:54,737 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:16:54,738 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 15:16:59,968 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:16:59,968 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 15:17:05,180 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:17:05,180 - INFO - 📊 Retrieval Precision Score (LLM): 7.00
+2025-03-24 15:17:10,200 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:17:10,201 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 15:17:11,909 - INFO - 📊 Context Precision Score (Cosine): 8.21
+2025-03-24 15:17:11,910 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.60
+2025-03-24 15:17:12,290 - INFO - 📊 Context Recall Score (Cosine): 7.88
+2025-03-24 15:17:14,840 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.37
+2025-03-24 15:17:20,032 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:17:20,032 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 15:17:25,475 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:17:25,475 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 15:17:31,213 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:17:31,216 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 15:17:36,635 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:17:36,636 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 15:17:39,406 - INFO - 📊 Context Precision Score (Cosine): 8.44
+2025-03-24 15:17:39,406 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.22
+2025-03-24 15:17:39,737 - INFO - 📊 Context Recall Score (Cosine): 8.04
+2025-03-24 15:17:42,132 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.75
+2025-03-24 15:17:46,779 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:17:46,797 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 15:17:51,470 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:17:51,470 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 15:17:56,700 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:17:56,701 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 15:18:01,314 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:18:01,314 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 15:18:02,612 - INFO - 📊 Context Precision Score (Cosine): 8.83
+2025-03-24 15:18:02,612 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.43
+2025-03-24 15:18:02,932 - INFO - 📊 Context Recall Score (Cosine): 8.07
+2025-03-24 15:18:05,025 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.74
+2025-03-24 15:18:09,804 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:18:09,805 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 15:18:14,931 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:18:14,932 - INFO - 📊 Context Recall Score (LLM): 7.00
+2025-03-24 15:18:20,275 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:18:20,275 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 15:18:25,062 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:18:25,063 - INFO - 📊 Negative Retrieval Score (LLM): 4.00
+2025-03-24 15:18:27,873 - INFO - 📊 Context Precision Score (Cosine): 8.29
+2025-03-24 15:18:27,874 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.27
+2025-03-24 15:18:28,275 - INFO - 📊 Context Recall Score (Cosine): 8.19
+2025-03-24 15:18:31,130 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.73
+2025-03-24 15:18:36,120 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:18:36,121 - INFO - 📊 Context Precision Score (LLM): 3.00
+2025-03-24 15:18:41,341 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:18:41,342 - INFO - 📊 Context Recall Score (LLM): 3.00
+2025-03-24 15:18:46,612 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:18:46,612 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 15:18:51,503 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:18:51,504 - INFO - 📊 Negative Retrieval Score (LLM): 1.00
+2025-03-24 15:18:52,767 - INFO - 📊 Context Precision Score (Cosine): 8.37
+2025-03-24 15:18:52,767 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.27
+2025-03-24 15:18:53,159 - INFO - 📊 Context Recall Score (Cosine): 8.55
+2025-03-24 15:18:55,437 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.83
+2025-03-24 15:19:00,693 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:19:00,693 - INFO - 📊 Context Precision Score (LLM): 2.00
+2025-03-24 15:19:06,120 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:19:06,120 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 15:19:11,503 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:19:11,503 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 15:19:16,775 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:19:16,776 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 15:19:18,095 - INFO - 📊 Context Precision Score (Cosine): 8.14
+2025-03-24 15:19:18,096 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.66
+2025-03-24 15:19:18,460 - INFO - 📊 Context Recall Score (Cosine): 8.32
+2025-03-24 15:19:21,138 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.82
+2025-03-24 15:19:26,600 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:19:26,601 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 15:19:32,135 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:19:32,136 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 15:19:37,866 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:19:37,867 - INFO - 📊 Retrieval Precision Score (LLM): 6.00
+2025-03-24 15:19:43,354 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:19:43,354 - INFO - 📊 Negative Retrieval Score (LLM): 9.00
+2025-03-24 15:19:45,747 - INFO - 📊 Context Precision Score (Cosine): 8.77
+2025-03-24 15:19:45,748 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.97
+2025-03-24 15:19:46,141 - INFO - 📊 Context Recall Score (Cosine): 9.09
+2025-03-24 15:19:49,084 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.06
+2025-03-24 15:19:54,972 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:19:54,973 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 15:20:01,016 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:20:01,016 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 15:20:07,061 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:20:07,062 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 15:20:12,889 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:20:12,889 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 15:25:16,725 - INFO - 📊 Context Precision Score (Cosine): 8.70
+2025-03-24 15:25:16,726 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.53
+2025-03-24 15:25:17,089 - INFO - 📊 Context Recall Score (Cosine): 8.18
+2025-03-24 15:25:19,681 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.52
+2025-03-24 15:25:25,326 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:25:25,326 - INFO - 📊 Context Precision Score (LLM): 10.00
+2025-03-24 15:25:31,367 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:25:31,368 - INFO - 📊 Context Recall Score (LLM): 10.00
+2025-03-24 15:25:37,303 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:25:37,304 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 15:25:43,038 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:25:43,038 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 15:25:45,497 - INFO - 📊 Context Precision Score (Cosine): 8.94
+2025-03-24 15:25:45,497 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.36
+2025-03-24 15:25:45,808 - INFO - 📊 Context Recall Score (Cosine): 8.72
+2025-03-24 15:25:48,197 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.21
+2025-03-24 15:25:53,592 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:25:53,593 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 15:25:58,910 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:25:58,911 - INFO - 📊 Context Recall Score (LLM): 6.00
+2025-03-24 15:26:04,235 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:26:04,236 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 15:26:09,560 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:26:09,560 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 15:26:11,029 - INFO - 📊 Context Precision Score (Cosine): 8.82
+2025-03-24 15:26:11,029 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.62
+2025-03-24 15:26:11,462 - INFO - 📊 Context Recall Score (Cosine): 8.61
+2025-03-24 15:26:14,442 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.97
+2025-03-24 15:26:20,107 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:26:20,108 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 15:26:26,051 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:26:26,051 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 15:26:31,999 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:26:31,999 - INFO - 📊 Retrieval Precision Score (LLM): 7.00
+2025-03-24 15:26:38,139 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:26:38,139 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 15:26:41,195 - INFO - 📊 Context Precision Score (Cosine): 8.97
+2025-03-24 15:26:41,195 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.46
+2025-03-24 15:26:41,660 - INFO - 📊 Context Recall Score (Cosine): 8.80
+2025-03-24 15:26:44,568 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.06
+2025-03-24 15:26:50,290 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:26:50,291 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 15:26:56,566 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:26:56,567 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 15:27:02,608 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:27:02,608 - INFO - 📊 Retrieval Precision Score (LLM): 6.00
+2025-03-24 15:27:08,653 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:27:08,654 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 15:27:10,548 - INFO - 📊 Context Precision Score (Cosine): 8.76
+2025-03-24 15:27:10,549 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.83
+2025-03-24 15:27:10,947 - INFO - 📊 Context Recall Score (Cosine): 9.07
+2025-03-24 15:27:14,007 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.08
+2025-03-24 15:27:19,307 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:27:19,307 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 15:27:25,441 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:27:25,442 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-24 15:27:31,278 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:27:31,279 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 15:27:37,013 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:27:37,013 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 15:27:40,207 - INFO - 📊 Context Precision Score (Cosine): 8.91
+2025-03-24 15:27:40,208 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.97
+2025-03-24 15:27:40,754 - INFO - 📊 Context Recall Score (Cosine): 8.81
+2025-03-24 15:27:44,162 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.96
+2025-03-24 15:27:50,018 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:27:50,019 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 15:27:56,265 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:27:56,266 - INFO - 📊 Context Recall Score (LLM): 6.00
+2025-03-24 15:28:02,412 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:28:02,413 - INFO - 📊 Retrieval Precision Score (LLM): 7.00
+2025-03-24 15:28:08,347 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:28:08,348 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 15:28:09,885 - INFO - 📊 Context Precision Score (Cosine): 8.96
+2025-03-24 15:28:09,886 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.69
+2025-03-24 15:28:10,320 - INFO - 📊 Context Recall Score (Cosine): 9.01
+2025-03-24 15:28:12,780 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.10
+2025-03-24 15:28:18,179 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:28:18,199 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 15:28:23,708 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:28:23,709 - INFO - 📊 Context Recall Score (LLM): 6.00
+2025-03-24 15:28:29,238 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:28:29,238 - INFO - 📊 Retrieval Precision Score (LLM): 7.00
+2025-03-24 15:28:34,757 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:28:34,758 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 15:28:36,905 - INFO - 📊 Context Precision Score (Cosine): 8.90
+2025-03-24 15:28:36,906 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.69
+2025-03-24 15:28:37,303 - INFO - 📊 Context Recall Score (Cosine): 8.98
+2025-03-24 15:28:39,814 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.13
+2025-03-24 15:28:45,420 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:28:45,421 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 15:28:50,959 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:28:50,960 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 15:28:56,202 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:28:56,202 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 15:29:01,700 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:29:01,700 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 15:29:03,061 - INFO - 📊 Context Precision Score (Cosine): 8.80
+2025-03-24 15:29:03,062 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.82
+2025-03-24 15:29:03,468 - INFO - 📊 Context Recall Score (Cosine): 8.87
+2025-03-24 15:29:06,226 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.97
+2025-03-24 15:29:11,593 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:29:11,593 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 15:29:17,019 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:29:17,019 - INFO - 📊 Context Recall Score (LLM): 7.00
+2025-03-24 15:29:23,003 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:29:23,003 - INFO - 📊 Retrieval Precision Score (LLM): 7.00
+2025-03-24 15:29:28,635 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:29:28,636 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 15:29:31,508 - INFO - 📊 Context Precision Score (Cosine): 8.77
+2025-03-24 15:29:31,509 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.76
+2025-03-24 15:29:31,938 - INFO - 📊 Context Recall Score (Cosine): 8.74
+2025-03-24 15:29:34,922 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.03
+2025-03-24 15:29:40,621 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:29:40,622 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 15:29:46,655 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:29:46,655 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-24 15:29:52,389 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:29:52,390 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 15:29:58,025 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 15:29:58,025 - INFO - 📊 Negative Retrieval Score (LLM): 9.00
+2025-03-24 15:29:58,051 - INFO - Successfully wrote evaluation results to Excel.
+
+2025-03-24 16:33:38,089 - INFO - 📊 Context Precision Score (Cosine): 8.87
+2025-03-24 16:33:38,090 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.34
+2025-03-24 16:33:38,445 - INFO - 📊 Context Recall Score (Cosine): 8.81
+2025-03-24 16:33:41,006 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.22
+2025-03-24 16:33:46,414 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:33:46,414 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 16:33:51,944 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:33:51,944 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-24 16:33:56,863 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:33:56,863 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 16:34:01,966 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:34:01,967 - INFO - 📊 Negative Retrieval Score (LLM): 2.00
+2025-03-24 16:34:04,084 - INFO - 📊 Context Precision Score (Cosine): 8.85
+2025-03-24 16:34:04,084 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.97
+2025-03-24 16:34:04,453 - INFO - 📊 Context Recall Score (Cosine): 8.08
+2025-03-24 16:34:07,002 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.71
+2025-03-24 16:34:12,023 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:34:12,023 - INFO - 📊 Context Precision Score (LLM): 10.00
+2025-03-24 16:34:17,239 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:34:17,239 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 16:34:22,666 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:34:22,666 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 16:34:27,687 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:34:27,687 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 16:34:29,761 - INFO - 📊 Context Precision Score (Cosine): 8.67
+2025-03-24 16:34:29,762 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.57
+2025-03-24 16:34:30,233 - INFO - 📊 Context Recall Score (Cosine): 7.72
+2025-03-24 16:34:33,342 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.40
+2025-03-24 16:34:38,932 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:34:38,932 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 16:34:44,377 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:34:44,377 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 16:34:49,807 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:34:49,808 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 16:34:55,337 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:34:55,337 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 16:34:57,521 - INFO - 📊 Context Precision Score (Cosine): 8.56
+2025-03-24 16:34:57,522 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.69
+2025-03-24 16:34:58,001 - INFO - 📊 Context Recall Score (Cosine): 8.48
+2025-03-24 16:35:00,808 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.02
+2025-03-24 16:35:06,291 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:35:06,292 - INFO - 📊 Context Precision Score (LLM): 0.00
+2025-03-24 16:35:12,027 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:35:12,027 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 16:35:17,761 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:35:17,762 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 16:35:23,496 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:35:23,496 - INFO - 📊 Negative Retrieval Score (LLM): 9.00
+2025-03-24 16:35:26,544 - INFO - 📊 Context Precision Score (Cosine): 8.72
+2025-03-24 16:35:26,545 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.67
+2025-03-24 16:35:26,969 - INFO - 📊 Context Recall Score (Cosine): 8.40
+2025-03-24 16:35:29,889 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.95
+2025-03-24 16:35:35,688 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:35:35,689 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 16:35:41,728 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:35:41,729 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 16:35:47,464 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:35:47,465 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 16:35:53,405 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:35:53,406 - INFO - 📊 Negative Retrieval Score (LLM): 9.00
+2025-03-24 16:35:54,652 - INFO - 📊 Context Precision Score (Cosine): 8.74
+2025-03-24 16:35:54,653 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.68
+2025-03-24 16:35:55,029 - INFO - 📊 Context Recall Score (Cosine): 8.48
+2025-03-24 16:35:57,915 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.93
+2025-03-24 16:36:03,341 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:36:03,341 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 16:36:09,022 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:36:09,022 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 16:36:14,711 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:36:14,711 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 16:36:20,140 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:36:20,140 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 16:36:21,538 - INFO - 📊 Context Precision Score (Cosine): 8.43
+2025-03-24 16:36:21,539 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.88
+2025-03-24 16:36:21,922 - INFO - 📊 Context Recall Score (Cosine): 8.08
+2025-03-24 16:36:24,602 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.71
+2025-03-24 16:36:29,975 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:36:29,975 - INFO - 📊 Context Precision Score (LLM): 6.00
+2025-03-24 16:36:35,404 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:36:35,404 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 16:36:40,630 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:36:40,631 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 16:36:45,847 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:36:45,848 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 16:36:47,183 - INFO - 📊 Context Precision Score (Cosine): 8.45
+2025-03-24 16:36:47,183 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.81
+2025-03-24 16:36:47,509 - INFO - 📊 Context Recall Score (Cosine): 8.46
+2025-03-24 16:36:49,857 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.89
+2025-03-24 16:36:54,656 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:36:54,657 - INFO - 📊 Context Precision Score (LLM): 7.00
+2025-03-24 16:36:59,674 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:36:59,674 - INFO - 📊 Context Recall Score (LLM): 10.00
+2025-03-24 16:37:04,694 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:37:04,694 - INFO - 📊 Retrieval Precision Score (LLM): 2.00
+2025-03-24 16:37:10,019 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:37:10,020 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 16:37:11,344 - INFO - 📊 Context Precision Score (Cosine): 8.88
+2025-03-24 16:37:11,345 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.58
+2025-03-24 16:37:11,672 - INFO - 📊 Context Recall Score (Cosine): 8.42
+2025-03-24 16:37:13,959 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.77
+2025-03-24 16:37:18,831 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:37:18,831 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 16:37:23,744 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:37:23,744 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-24 16:37:28,762 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:37:28,763 - INFO - 📊 Retrieval Precision Score (LLM): 3.00
+2025-03-24 16:37:33,480 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:37:33,481 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 16:37:34,828 - INFO - 📊 Context Precision Score (Cosine): 8.84
+2025-03-24 16:37:34,828 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.69
+2025-03-24 16:37:35,203 - INFO - 📊 Context Recall Score (Cosine): 8.88
+2025-03-24 16:37:37,692 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.24
+2025-03-24 16:37:42,896 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:37:42,897 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 16:37:48,324 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:37:48,325 - INFO - 📊 Context Recall Score (LLM): 7.00
+2025-03-24 16:37:53,548 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:37:53,548 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 16:37:58,566 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:37:58,567 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 16:37:59,905 - INFO - 📊 Context Precision Score (Cosine): 8.89
+2025-03-24 16:37:59,906 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.99
+2025-03-24 16:38:00,292 - INFO - 📊 Context Recall Score (Cosine): 8.25
+2025-03-24 16:38:02,996 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.78
+2025-03-24 16:38:08,500 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:38:08,501 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 16:38:13,929 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:38:13,929 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 16:38:19,357 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:38:19,360 - INFO - 📊 Retrieval Precision Score (LLM): 7.00
+2025-03-24 16:38:25,092 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:38:25,093 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 16:38:28,050 - INFO - 📊 Context Precision Score (Cosine): 8.70
+2025-03-24 16:38:28,051 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.47
+2025-03-24 16:38:28,457 - INFO - 📊 Context Recall Score (Cosine): 8.64
+2025-03-24 16:38:31,266 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.85
+2025-03-24 16:38:36,972 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:38:36,972 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 16:38:42,912 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:38:42,913 - INFO - 📊 Context Recall Score (LLM): 7.00
+2025-03-24 16:38:49,058 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:38:49,058 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 16:38:55,202 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:38:55,203 - INFO - 📊 Negative Retrieval Score (LLM): 2.00
+2025-03-24 16:38:56,603 - INFO - 📊 Context Precision Score (Cosine): 8.54
+2025-03-24 16:38:56,604 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.95
+2025-03-24 16:38:56,966 - INFO - 📊 Context Recall Score (Cosine): 8.22
+2025-03-24 16:38:59,585 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.72
+2025-03-24 16:39:05,144 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:39:05,144 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 16:39:10,974 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:39:10,974 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-24 16:39:16,607 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:39:16,607 - INFO - 📊 Retrieval Precision Score (LLM): 7.00
+2025-03-24 16:39:22,141 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:39:22,141 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 16:39:25,082 - INFO - 📊 Context Precision Score (Cosine): 7.83
+2025-03-24 16:39:25,083 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.40
+2025-03-24 16:39:25,439 - INFO - 📊 Context Recall Score (Cosine): 8.03
+2025-03-24 16:39:28,347 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.60
+2025-03-24 16:39:33,300 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:39:33,301 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 16:39:38,834 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:39:38,835 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 16:39:44,054 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:39:44,054 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 16:39:48,970 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:39:48,970 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 16:39:50,381 - INFO - 📊 Context Precision Score (Cosine): 8.22
+2025-03-24 16:39:50,382 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.45
+2025-03-24 16:39:50,772 - INFO - 📊 Context Recall Score (Cosine): 7.58
+2025-03-24 16:39:53,745 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.33
+2025-03-24 16:39:58,811 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:39:58,812 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 16:40:04,335 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:40:04,335 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 16:40:09,835 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:40:09,836 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 16:40:15,214 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:40:15,214 - INFO - 📊 Negative Retrieval Score (LLM): 9.00
+2025-03-24 16:40:16,561 - INFO - 📊 Context Precision Score (Cosine): 8.21
+2025-03-24 16:40:16,562 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.83
+2025-03-24 16:40:16,918 - INFO - 📊 Context Recall Score (Cosine): 8.80
+2025-03-24 16:40:19,637 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.92
+2025-03-24 16:40:24,926 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:40:24,927 - INFO - 📊 Context Precision Score (LLM): 7.00
+2025-03-24 16:40:30,348 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:40:30,348 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 16:40:35,568 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:40:35,568 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 16:40:41,101 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:40:41,104 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 16:40:42,524 - INFO - 📊 Context Precision Score (Cosine): 8.81
+2025-03-24 16:40:42,524 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.45
+2025-03-24 16:40:42,927 - INFO - 📊 Context Recall Score (Cosine): 8.94
+2025-03-24 16:40:45,657 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.82
+2025-03-24 16:40:51,237 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:40:51,237 - INFO - 📊 Context Precision Score (LLM): 7.00
+2025-03-24 16:40:56,902 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:40:56,902 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-24 16:41:02,809 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:41:02,810 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 16:41:08,749 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:41:08,750 - INFO - 📊 Negative Retrieval Score (LLM): 2.00
+2025-03-24 16:41:10,181 - INFO - 📊 Context Precision Score (Cosine): 7.96
+2025-03-24 16:41:10,182 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.20
+2025-03-24 16:41:10,589 - INFO - 📊 Context Recall Score (Cosine): 8.47
+2025-03-24 16:41:13,258 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.75
+2025-03-24 16:41:19,507 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:41:19,507 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 16:41:25,752 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:41:25,753 - INFO - 📊 Context Recall Score (LLM): 3.00
+2025-03-24 16:41:31,690 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:41:31,690 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 16:41:37,732 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:41:37,732 - INFO - 📊 Negative Retrieval Score (LLM): 1.00
+2025-03-24 16:41:40,098 - INFO - 📊 Context Precision Score (Cosine): 8.41
+2025-03-24 16:41:40,099 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.77
+2025-03-24 16:41:40,436 - INFO - 📊 Context Recall Score (Cosine): 8.13
+2025-03-24 16:41:43,102 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.61
+2025-03-24 16:41:47,825 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:41:47,826 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 16:41:53,204 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:41:53,204 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 16:41:58,214 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:41:58,215 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 16:42:03,744 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:42:03,745 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 16:42:05,245 - INFO - 📊 Context Precision Score (Cosine): 8.94
+2025-03-24 16:42:05,246 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.14
+2025-03-24 16:42:05,619 - INFO - 📊 Context Recall Score (Cosine): 8.82
+2025-03-24 16:42:08,200 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.82
+2025-03-24 16:42:13,166 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:42:13,167 - INFO - 📊 Context Precision Score (LLM): 7.00
+2025-03-24 16:42:18,509 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:42:18,510 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-24 16:42:24,127 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:42:24,128 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 16:42:29,450 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:42:29,450 - INFO - 📊 Negative Retrieval Score (LLM): 1.00
+2025-03-24 16:42:30,901 - INFO - 📊 Context Precision Score (Cosine): 7.94
+2025-03-24 16:42:30,902 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.29
+2025-03-24 16:42:31,265 - INFO - 📊 Context Recall Score (Cosine): 7.85
+2025-03-24 16:42:33,965 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.33
+2025-03-24 16:42:39,694 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:42:39,694 - INFO - 📊 Context Precision Score (LLM): 2.00
+2025-03-24 16:42:45,128 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:42:45,129 - INFO - 📊 Context Recall Score (LLM): 7.00
+2025-03-24 16:42:50,956 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:42:50,956 - INFO - 📊 Retrieval Precision Score (LLM): 6.00
+2025-03-24 16:42:56,589 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:42:56,589 - INFO - 📊 Negative Retrieval Score (LLM): 9.00
+2025-03-24 16:42:58,084 - INFO - 📊 Context Precision Score (Cosine): 8.24
+2025-03-24 16:42:58,084 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.21
+2025-03-24 16:42:58,458 - INFO - 📊 Context Recall Score (Cosine): 7.98
+2025-03-24 16:43:01,123 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.55
+2025-03-24 16:43:06,215 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:43:06,234 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 16:43:11,445 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:43:11,445 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 16:43:16,764 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:43:16,764 - INFO - 📊 Retrieval Precision Score (LLM): 7.00
+2025-03-24 16:43:22,499 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:43:22,499 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 16:43:24,821 - INFO - 📊 Context Precision Score (Cosine): 8.80
+2025-03-24 16:43:24,821 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.19
+2025-03-24 16:43:25,191 - INFO - 📊 Context Recall Score (Cosine): 8.63
+2025-03-24 16:43:28,057 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.64
+2025-03-24 16:43:33,006 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:43:33,007 - INFO - 📊 Context Precision Score (LLM): 7.00
+2025-03-24 16:43:38,270 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:43:38,270 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 16:43:43,493 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:43:43,493 - INFO - 📊 Retrieval Precision Score (LLM): 7.00
+2025-03-24 16:43:48,715 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:43:48,716 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 16:43:50,024 - INFO - 📊 Context Precision Score (Cosine): 7.96
+2025-03-24 16:43:50,025 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.69
+2025-03-24 16:43:50,388 - INFO - 📊 Context Recall Score (Cosine): 8.41
+2025-03-24 16:43:53,053 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.94
+2025-03-24 16:43:58,143 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:43:58,144 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 16:44:03,349 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:44:03,350 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 16:44:08,866 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:44:08,868 - INFO - 📊 Retrieval Precision Score (LLM): 2.00
+2025-03-24 16:44:13,873 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:44:13,874 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 16:44:15,173 - INFO - 📊 Context Precision Score (Cosine): 8.24
+2025-03-24 16:44:15,173 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.46
+2025-03-24 16:44:15,536 - INFO - 📊 Context Recall Score (Cosine): 8.27
+2025-03-24 16:44:17,974 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.67
+2025-03-24 16:44:22,973 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:44:22,973 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 16:44:28,182 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:44:28,182 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 16:44:33,396 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:44:33,396 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 16:44:38,610 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:44:38,611 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 16:44:40,338 - INFO - 📊 Context Precision Score (Cosine): 8.62
+2025-03-24 16:44:40,338 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.99
+2025-03-24 16:44:40,713 - INFO - 📊 Context Recall Score (Cosine): 8.73
+2025-03-24 16:44:43,473 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.04
+2025-03-24 16:44:48,632 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:44:48,632 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 16:44:54,154 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:44:54,154 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 16:44:59,373 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:44:59,374 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 16:45:04,588 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:45:04,588 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 16:45:06,112 - INFO - 📊 Context Precision Score (Cosine): 8.19
+2025-03-24 16:45:06,113 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.14
+2025-03-24 16:45:06,498 - INFO - 📊 Context Recall Score (Cosine): 8.74
+2025-03-24 16:45:09,466 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.90
+2025-03-24 16:45:19,609 - WARNING - [LMStudio] Attempt 1 failed: HTTPConnectionPool(host='10.99.22.156', port=1235): Read timed out. (read timeout=10)
+2025-03-24 16:45:31,843 - WARNING - [LMStudio] Attempt 2 failed: HTTPConnectionPool(host='10.99.22.156', port=1235): Read timed out. (read timeout=10)
+2025-03-24 16:45:37,430 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:45:37,430 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 16:45:43,475 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:45:43,476 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 16:45:49,198 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:45:49,199 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 16:45:55,236 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:45:55,237 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 16:45:56,645 - INFO - 📊 Context Precision Score (Cosine): 8.20
+2025-03-24 16:45:56,646 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.56
+2025-03-24 16:45:57,001 - INFO - 📊 Context Recall Score (Cosine): 7.89
+2025-03-24 16:45:59,421 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.54
+2025-03-24 16:46:04,447 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:46:04,447 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 16:46:09,836 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:46:09,837 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 16:46:15,091 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:46:15,091 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 16:46:20,209 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:46:20,210 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 16:46:21,689 - INFO - 📊 Context Precision Score (Cosine): 8.50
+2025-03-24 16:46:21,690 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.52
+2025-03-24 16:46:22,087 - INFO - 📊 Context Recall Score (Cosine): 9.00
+2025-03-24 16:46:24,954 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.13
+2025-03-24 16:46:29,728 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:46:29,729 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 16:46:34,952 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:46:34,952 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 16:46:40,377 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:46:40,377 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 16:46:45,491 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:46:45,492 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 16:46:46,827 - INFO - 📊 Context Precision Score (Cosine): 8.89
+2025-03-24 16:46:46,827 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.81
+2025-03-24 16:46:47,179 - INFO - 📊 Context Recall Score (Cosine): 9.01
+2025-03-24 16:46:49,993 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.37
+2025-03-24 16:46:55,011 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:46:55,011 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 16:47:00,232 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:47:00,232 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 16:47:05,559 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:47:05,559 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 16:47:10,779 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:47:10,780 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 16:47:12,080 - INFO - 📊 Context Precision Score (Cosine): 8.81
+2025-03-24 16:47:12,081 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.80
+2025-03-24 16:47:12,444 - INFO - 📊 Context Recall Score (Cosine): 8.94
+2025-03-24 16:47:15,021 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.22
+2025-03-24 16:47:20,196 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:47:20,197 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 16:47:25,421 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:47:25,422 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 16:47:30,738 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:47:30,738 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 16:47:35,754 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:47:35,754 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 16:47:38,487 - INFO - 📊 Context Precision Score (Cosine): 8.58
+2025-03-24 16:47:38,488 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.12
+2025-03-24 16:47:38,867 - INFO - 📊 Context Recall Score (Cosine): 9.01
+2025-03-24 16:47:41,622 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.22
+2025-03-24 16:47:47,228 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:47:47,228 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 16:47:52,952 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:47:52,953 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 16:47:58,686 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:47:58,686 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 16:48:04,213 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:48:04,213 - INFO - 📊 Negative Retrieval Score (LLM): 9.00
+2025-03-24 16:48:06,555 - INFO - 📊 Context Precision Score (Cosine): 8.34
+2025-03-24 16:48:06,556 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.03
+2025-03-24 16:48:07,027 - INFO - 📊 Context Recall Score (Cosine): 8.08
+2025-03-24 16:48:09,777 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.68
+2025-03-24 16:48:15,070 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:48:15,071 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 16:48:20,492 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:48:20,492 - INFO - 📊 Context Recall Score (LLM): 6.00
+2025-03-24 16:48:26,020 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:48:26,021 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 16:48:31,552 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:48:31,553 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 16:48:32,917 - INFO - 📊 Context Precision Score (Cosine): 8.81
+2025-03-24 16:48:32,917 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.85
+2025-03-24 16:48:33,296 - INFO - 📊 Context Recall Score (Cosine): 9.01
+2025-03-24 16:48:36,208 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.09
+2025-03-24 16:48:41,803 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:48:41,803 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 16:48:47,544 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:48:47,544 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-24 16:48:53,489 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:48:53,490 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 16:48:59,232 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:48:59,233 - INFO - 📊 Negative Retrieval Score (LLM): 9.00
+2025-03-24 16:49:00,720 - INFO - 📊 Context Precision Score (Cosine): 8.86
+2025-03-24 16:49:00,721 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.74
+2025-03-24 16:49:01,153 - INFO - 📊 Context Recall Score (Cosine): 8.83
+2025-03-24 16:49:03,807 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.95
+2025-03-24 16:49:09,585 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:49:09,585 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 16:49:15,329 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:49:15,329 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 16:49:21,159 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:49:21,160 - INFO - 📊 Retrieval Precision Score (LLM): 7.00
+2025-03-24 16:49:26,682 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:49:26,683 - INFO - 📊 Negative Retrieval Score (LLM): 3.00
+2025-03-24 16:49:27,963 - INFO - 📊 Context Precision Score (Cosine): 8.30
+2025-03-24 16:49:27,964 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.64
+2025-03-24 16:49:28,332 - INFO - 📊 Context Recall Score (Cosine): 8.34
+2025-03-24 16:49:31,857 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.71
+2025-03-24 16:49:37,762 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:49:37,763 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 16:49:43,905 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:49:43,906 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-24 16:49:49,870 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:49:49,871 - INFO - 📊 Retrieval Precision Score (LLM): 6.00
+2025-03-24 16:49:55,788 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:49:55,789 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 16:49:57,789 - INFO - 📊 Context Precision Score (Cosine): 8.65
+2025-03-24 16:49:57,790 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.30
+2025-03-24 16:49:58,237 - INFO - 📊 Context Recall Score (Cosine): 8.55
+2025-03-24 16:50:01,457 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.90
+2025-03-24 16:50:07,007 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:50:07,008 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 16:50:12,690 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:50:12,691 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 16:50:18,324 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:50:18,324 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 16:50:24,373 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:50:24,373 - INFO - 📊 Negative Retrieval Score (LLM): 4.00
+2025-03-24 16:50:27,185 - INFO - 📊 Context Precision Score (Cosine): 8.90
+2025-03-24 16:50:27,186 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.19
+2025-03-24 16:50:27,544 - INFO - 📊 Context Recall Score (Cosine): 8.54
+2025-03-24 16:50:30,092 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.99
+2025-03-24 16:50:35,124 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:50:35,125 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 16:50:41,841 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:50:41,841 - INFO - 📊 Context Recall Score (LLM): 7.00
+2025-03-24 16:50:47,616 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:50:47,617 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 16:50:53,556 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:50:53,557 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 16:50:54,947 - INFO - 📊 Context Precision Score (Cosine): 8.65
+2025-03-24 16:50:54,948 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.41
+2025-03-24 16:50:55,326 - INFO - 📊 Context Recall Score (Cosine): 8.81
+2025-03-24 16:50:57,959 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.13
+2025-03-24 16:51:03,695 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:51:03,696 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 16:51:09,737 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:51:09,738 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 16:51:15,479 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:51:15,479 - INFO - 📊 Retrieval Precision Score (LLM): 7.00
+2025-03-24 16:51:21,412 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:51:21,413 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 16:51:22,944 - INFO - 📊 Context Precision Score (Cosine): 8.61
+2025-03-24 16:51:22,945 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.41
+2025-03-24 16:51:23,356 - INFO - 📊 Context Recall Score (Cosine): 8.35
+2025-03-24 16:51:26,161 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.71
+2025-03-24 16:51:31,960 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:51:31,961 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 16:51:38,723 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:51:38,723 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 16:51:44,965 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:51:44,966 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 16:51:51,212 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:51:51,212 - INFO - 📊 Negative Retrieval Score (LLM): 3.00
+2025-03-24 16:51:52,681 - INFO - 📊 Context Precision Score (Cosine): 8.60
+2025-03-24 16:51:52,682 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.66
+2025-03-24 16:51:53,138 - INFO - 📊 Context Recall Score (Cosine): 8.42
+2025-03-24 16:51:56,005 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.79
+2025-03-24 16:52:01,354 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:52:01,355 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 16:52:07,392 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:52:07,392 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 16:52:13,537 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:52:13,537 - INFO - 📊 Retrieval Precision Score (LLM): 2.00
+2025-03-24 16:52:19,378 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:52:19,378 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 16:52:20,942 - INFO - 📊 Context Precision Score (Cosine): 8.52
+2025-03-24 16:52:20,943 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.52
+2025-03-24 16:52:21,351 - INFO - 📊 Context Recall Score (Cosine): 8.88
+2025-03-24 16:52:23,920 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.95
+2025-03-24 16:52:29,413 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:52:29,413 - INFO - 📊 Context Precision Score (LLM): 6.00
+2025-03-24 16:52:35,246 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:52:35,247 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-24 16:52:41,291 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:52:41,292 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 16:52:47,125 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:52:47,125 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 16:52:48,578 - INFO - 📊 Context Precision Score (Cosine): 8.53
+2025-03-24 16:52:48,579 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.01
+2025-03-24 16:52:48,958 - INFO - 📊 Context Recall Score (Cosine): 8.37
+2025-03-24 16:52:51,502 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.83
+2025-03-24 16:52:56,956 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:52:56,956 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 16:53:02,895 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:53:02,896 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 16:53:08,941 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:53:08,941 - INFO - 📊 Retrieval Precision Score (LLM): 3.00
+2025-03-24 16:53:15,596 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:53:15,597 - INFO - 📊 Negative Retrieval Score (LLM): 9.00
+2025-03-24 16:53:17,009 - INFO - 📊 Context Precision Score (Cosine): 8.48
+2025-03-24 16:53:17,010 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.46
+2025-03-24 16:53:17,390 - INFO - 📊 Context Recall Score (Cosine): 8.25
+2025-03-24 16:53:19,998 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.84
+2025-03-24 16:53:25,834 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:53:25,834 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 16:53:31,875 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:53:31,876 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 16:53:37,930 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:53:37,930 - INFO - 📊 Retrieval Precision Score (LLM): 7.00
+2025-03-24 16:53:43,861 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:53:43,862 - INFO - 📊 Negative Retrieval Score (LLM): 9.00
+2025-03-24 16:53:45,211 - INFO - 📊 Context Precision Score (Cosine): 8.63
+2025-03-24 16:53:45,212 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.84
+2025-03-24 16:53:45,530 - INFO - 📊 Context Recall Score (Cosine): 8.41
+2025-03-24 16:53:47,688 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.76
+2025-03-24 16:53:52,972 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:53:52,972 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 16:53:57,807 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:53:57,808 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 16:54:03,214 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:54:03,215 - INFO - 📊 Retrieval Precision Score (LLM): 6.00
+2025-03-24 16:54:09,047 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:54:09,048 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 16:54:10,483 - INFO - 📊 Context Precision Score (Cosine): 8.94
+2025-03-24 16:54:10,484 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.34
+2025-03-24 16:54:10,892 - INFO - 📊 Context Recall Score (Cosine): 9.03
+2025-03-24 16:54:13,682 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.31
+2025-03-24 16:54:19,492 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:54:19,493 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 16:54:26,547 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:54:26,548 - INFO - 📊 Context Recall Score (LLM): 7.00
+2025-03-24 16:54:33,125 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:54:33,125 - INFO - 📊 Retrieval Precision Score (LLM): 6.00
+2025-03-24 16:54:39,566 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:54:39,567 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 16:54:41,007 - INFO - 📊 Context Precision Score (Cosine): 9.11
+2025-03-24 16:54:41,007 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.22
+2025-03-24 16:54:41,423 - INFO - 📊 Context Recall Score (Cosine): 8.81
+2025-03-24 16:54:44,082 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 6.08
+2025-03-24 16:54:50,012 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:54:50,012 - INFO - 📊 Context Precision Score (LLM): 2.00
+2025-03-24 16:54:56,361 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:54:56,361 - INFO - 📊 Context Recall Score (LLM): 7.00
+2025-03-24 16:55:02,504 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:55:02,505 - INFO - 📊 Retrieval Precision Score (LLM): 7.00
+2025-03-24 16:55:08,748 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:55:08,749 - INFO - 📊 Negative Retrieval Score (LLM): 9.00
+2025-03-24 16:55:10,163 - INFO - 📊 Context Precision Score (Cosine): 8.87
+2025-03-24 16:55:10,163 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.85
+2025-03-24 16:55:10,479 - INFO - 📊 Context Recall Score (Cosine): 8.02
+2025-03-24 16:55:12,820 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.37
+2025-03-24 16:55:17,865 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:55:17,882 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 16:55:24,006 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:55:24,006 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 16:55:29,638 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:55:29,638 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 16:55:35,270 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:55:35,270 - INFO - 📊 Negative Retrieval Score (LLM): 4.00
+2025-03-24 16:55:38,184 - INFO - 📊 Context Precision Score (Cosine): 8.59
+2025-03-24 16:55:38,184 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.74
+2025-03-24 16:55:38,538 - INFO - 📊 Context Recall Score (Cosine): 8.30
+2025-03-24 16:55:41,161 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.51
+2025-03-24 16:55:46,636 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:55:46,637 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 16:55:52,169 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:55:52,169 - INFO - 📊 Context Recall Score (LLM): 10.00
+2025-03-24 16:55:58,085 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:55:58,085 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 16:56:04,556 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:56:04,557 - INFO - 📊 Negative Retrieval Score (LLM): 9.00
+2025-03-24 16:56:06,065 - INFO - 📊 Context Precision Score (Cosine): 8.73
+2025-03-24 16:56:06,065 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.69
+2025-03-24 16:56:06,434 - INFO - 📊 Context Recall Score (Cosine): 7.35
+2025-03-24 16:56:09,086 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.14
+2025-03-24 16:56:14,694 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:56:14,695 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 16:56:20,941 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:56:20,941 - INFO - 📊 Context Recall Score (LLM): 7.00
+2025-03-24 16:56:29,132 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:56:29,133 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 16:56:36,301 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:56:36,301 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 16:56:38,912 - INFO - 📊 Context Precision Score (Cosine): 8.51
+2025-03-24 16:56:38,912 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.59
+2025-03-24 16:56:39,274 - INFO - 📊 Context Recall Score (Cosine): 8.06
+2025-03-24 16:56:41,803 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.43
+2025-03-24 16:56:47,372 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:56:47,373 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 16:56:53,302 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:56:53,303 - INFO - 📊 Context Recall Score (LLM): 8.00
+2025-03-24 16:57:00,979 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:57:00,979 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 16:57:08,045 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:57:08,045 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 16:57:09,503 - INFO - 📊 Context Precision Score (Cosine): 8.64
+2025-03-24 16:57:09,504 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.40
+2025-03-24 16:57:09,887 - INFO - 📊 Context Recall Score (Cosine): 8.12
+2025-03-24 16:57:12,674 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.42
+2025-03-24 16:57:18,704 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:57:18,705 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 16:57:27,124 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:57:27,125 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 16:57:35,286 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:57:35,287 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 16:57:43,171 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:57:43,171 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 16:57:44,571 - INFO - 📊 Context Precision Score (Cosine): 8.55
+2025-03-24 16:57:44,572 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.10
+2025-03-24 16:57:44,931 - INFO - 📊 Context Recall Score (Cosine): 7.46
+2025-03-24 16:57:47,449 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.13
+2025-03-24 16:57:53,104 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:57:53,104 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 16:57:59,654 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:57:59,655 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 16:58:06,925 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:58:06,925 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 16:58:14,195 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:58:14,195 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 16:58:15,681 - INFO - 📊 Context Precision Score (Cosine): 8.88
+2025-03-24 16:58:15,682 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.60
+2025-03-24 16:58:16,035 - INFO - 📊 Context Recall Score (Cosine): 8.41
+2025-03-24 16:58:18,710 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.50
+2025-03-24 16:58:25,561 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:58:25,562 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 16:58:31,808 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:58:31,808 - INFO - 📊 Context Recall Score (LLM): 7.00
+2025-03-24 16:58:39,283 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:58:39,284 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 16:58:46,570 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:58:46,571 - INFO - 📊 Negative Retrieval Score (LLM): 9.00
+2025-03-24 16:58:47,792 - INFO - 📊 Context Precision Score (Cosine): 8.61
+2025-03-24 16:58:47,793 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.34
+2025-03-24 16:58:48,112 - INFO - 📊 Context Recall Score (Cosine): 7.66
+2025-03-24 16:58:50,317 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.22
+2025-03-24 16:58:55,499 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:58:55,499 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 16:59:01,299 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:59:01,299 - INFO - 📊 Context Recall Score (LLM): 10.00
+2025-03-24 16:59:08,061 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:59:08,061 - INFO - 📊 Retrieval Precision Score (LLM): 4.00
+2025-03-24 16:59:14,921 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:59:14,922 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 16:59:16,312 - INFO - 📊 Context Precision Score (Cosine): 8.74
+2025-03-24 16:59:16,313 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.23
+2025-03-24 16:59:16,671 - INFO - 📊 Context Recall Score (Cosine): 7.47
+2025-03-24 16:59:19,589 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.27
+2025-03-24 16:59:25,274 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:59:25,275 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 16:59:31,409 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:59:31,410 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 16:59:38,576 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:59:38,576 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 16:59:45,740 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:59:45,741 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 16:59:47,261 - INFO - 📊 Context Precision Score (Cosine): 8.45
+2025-03-24 16:59:47,262 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.22
+2025-03-24 16:59:47,624 - INFO - 📊 Context Recall Score (Cosine): 7.82
+2025-03-24 16:59:50,254 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.20
+2025-03-24 16:59:56,101 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 16:59:56,102 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 17:00:02,027 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:00:02,040 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 17:00:09,387 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:00:09,388 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 17:00:16,669 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:00:16,669 - INFO - 📊 Negative Retrieval Score (LLM): 7.00
+2025-03-24 17:00:18,071 - INFO - 📊 Context Precision Score (Cosine): 8.49
+2025-03-24 17:00:18,072 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.64
+2025-03-24 17:00:18,450 - INFO - 📊 Context Recall Score (Cosine): 8.08
+2025-03-24 17:00:20,888 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.36
+2025-03-24 17:00:26,409 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:00:26,409 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 17:00:32,643 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:00:32,643 - INFO - 📊 Context Recall Score (LLM): 1.00
+2025-03-24 17:00:39,851 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:00:39,852 - INFO - 📊 Retrieval Precision Score (LLM): 6.00
+2025-03-24 17:00:46,975 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:00:46,976 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 17:00:48,491 - INFO - 📊 Context Precision Score (Cosine): 8.90
+2025-03-24 17:00:48,492 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.96
+2025-03-24 17:00:48,876 - INFO - 📊 Context Recall Score (Cosine): 8.02
+2025-03-24 17:00:51,784 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.35
+2025-03-24 17:00:57,727 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:00:57,728 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 17:01:04,197 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:01:04,198 - INFO - 📊 Context Recall Score (LLM): 10.00
+2025-03-24 17:01:11,852 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:01:11,852 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 17:01:19,334 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:01:19,334 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 17:01:20,667 - INFO - 📊 Context Precision Score (Cosine): 9.01
+2025-03-24 17:01:20,668 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.37
+2025-03-24 17:01:20,964 - INFO - 📊 Context Recall Score (Cosine): 7.60
+2025-03-24 17:01:23,124 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.07
+2025-03-24 17:01:28,604 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:01:28,605 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 17:01:33,873 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:01:33,874 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 17:01:40,437 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:01:40,437 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 17:01:46,524 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:01:46,524 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 17:01:47,949 - INFO - 📊 Context Precision Score (Cosine): 8.82
+2025-03-24 17:01:47,950 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.19
+2025-03-24 17:01:48,371 - INFO - 📊 Context Recall Score (Cosine): 7.99
+2025-03-24 17:01:51,165 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.34
+2025-03-24 17:01:57,358 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:01:57,359 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 17:02:04,000 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:02:04,001 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 17:02:12,090 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:02:12,090 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 17:02:19,669 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:02:19,670 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 17:02:21,052 - INFO - 📊 Context Precision Score (Cosine): 8.59
+2025-03-24 17:02:21,053 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.46
+2025-03-24 17:02:21,397 - INFO - 📊 Context Recall Score (Cosine): 7.89
+2025-03-24 17:02:23,965 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.36
+2025-03-24 17:02:29,503 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:02:29,503 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 17:02:37,128 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:02:37,128 - INFO - 📊 Context Recall Score (LLM): 9.00
+2025-03-24 17:02:44,969 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:02:44,969 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 17:02:53,369 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:02:53,369 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 17:02:54,792 - INFO - 📊 Context Precision Score (Cosine): 8.16
+2025-03-24 17:02:54,792 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.71
+2025-03-24 17:02:55,150 - INFO - 📊 Context Recall Score (Cosine): 7.48
+2025-03-24 17:02:58,002 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.17
+2025-03-24 17:03:03,716 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:03:03,717 - INFO - 📊 Context Precision Score (LLM): 6.00
+2025-03-24 17:03:10,165 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:03:10,166 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 17:03:16,826 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:03:16,827 - INFO - 📊 Retrieval Precision Score (LLM): 4.00
+2025-03-24 17:03:23,378 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:03:23,378 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 17:03:26,231 - INFO - 📊 Context Precision Score (Cosine): 8.20
+2025-03-24 17:03:26,232 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.43
+2025-03-24 17:03:26,622 - INFO - 📊 Context Recall Score (Cosine): 7.79
+2025-03-24 17:03:29,258 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.40
+2025-03-24 17:03:35,156 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:03:35,156 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 17:03:41,506 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:03:41,507 - INFO - 📊 Context Recall Score (LLM): 7.00
+2025-03-24 17:03:48,983 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:03:48,983 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 17:03:58,821 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:03:58,821 - INFO - 📊 Negative Retrieval Score (LLM): 3.00
+2025-03-24 17:04:00,206 - INFO - 📊 Context Precision Score (Cosine): 8.59
+2025-03-24 17:04:00,206 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.27
+2025-03-24 17:04:00,561 - INFO - 📊 Context Recall Score (Cosine): 8.45
+2025-03-24 17:04:03,143 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.50
+2025-03-24 17:04:09,056 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:04:09,057 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 17:04:14,792 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:04:14,792 - INFO - 📊 Context Recall Score (LLM): 0.00
+2025-03-24 17:04:21,653 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:04:21,654 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 17:04:28,617 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:04:28,618 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 17:04:29,951 - INFO - 📊 Context Precision Score (Cosine): 8.31
+2025-03-24 17:04:29,952 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.88
+2025-03-24 17:04:30,397 - INFO - 📊 Context Recall Score (Cosine): 7.53
+2025-03-24 17:04:33,057 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.11
+2025-03-24 17:04:39,269 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:04:39,269 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 17:04:46,028 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:04:46,028 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 17:04:53,810 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:04:53,811 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 17:05:01,287 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:05:01,288 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 17:05:02,708 - INFO - 📊 Context Precision Score (Cosine): 8.62
+2025-03-24 17:05:02,709 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.77
+2025-03-24 17:05:03,095 - INFO - 📊 Context Recall Score (Cosine): 8.08
+2025-03-24 17:05:05,740 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.41
+2025-03-24 17:05:12,040 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:05:12,041 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 17:05:18,697 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:05:18,698 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 17:05:26,680 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:05:26,680 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 17:05:34,062 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:05:34,063 - INFO - 📊 Negative Retrieval Score (LLM): 9.00
+2025-03-24 17:05:35,777 - INFO - 📊 Context Precision Score (Cosine): 8.86
+2025-03-24 17:05:35,778 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.28
+2025-03-24 17:05:36,128 - INFO - 📊 Context Recall Score (Cosine): 7.68
+2025-03-24 17:05:39,023 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.25
+2025-03-24 17:05:44,402 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:05:44,403 - INFO - 📊 Context Precision Score (LLM): 6.00
+2025-03-24 17:05:50,253 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:05:50,254 - INFO - 📊 Context Recall Score (LLM): 7.00
+2025-03-24 17:05:57,716 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:05:57,717 - INFO - 📊 Retrieval Precision Score (LLM): 6.00
+2025-03-24 17:06:05,346 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:06:05,346 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 17:06:06,620 - INFO - 📊 Context Precision Score (Cosine): 8.69
+2025-03-24 17:06:06,621 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.58
+2025-03-24 17:06:06,984 - INFO - 📊 Context Recall Score (Cosine): 7.87
+2025-03-24 17:06:09,505 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.27
+2025-03-24 17:06:15,023 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:06:15,023 - INFO - 📊 Context Precision Score (LLM): 2.00
+2025-03-24 17:06:21,372 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:06:21,372 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 17:06:29,798 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:06:29,798 - INFO - 📊 Retrieval Precision Score (LLM): 5.00
+2025-03-24 17:06:36,938 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:06:36,938 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 17:06:38,932 - INFO - 📊 Context Precision Score (Cosine): 8.44
+2025-03-24 17:06:38,933 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.75
+2025-03-24 17:06:39,280 - INFO - 📊 Context Recall Score (Cosine): 8.18
+2025-03-24 17:06:41,920 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.47
+2025-03-24 17:06:47,489 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:06:47,490 - INFO - 📊 Context Precision Score (LLM): 7.00
+2025-03-24 17:06:53,630 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:06:53,631 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 17:07:00,911 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:07:00,912 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 17:07:09,417 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:07:09,418 - INFO - 📊 Negative Retrieval Score (LLM): 9.00
+2025-03-24 17:07:10,702 - INFO - 📊 Context Precision Score (Cosine): 8.20
+2025-03-24 17:07:10,703 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.41
+2025-03-24 17:07:11,097 - INFO - 📊 Context Recall Score (Cosine): 8.00
+2025-03-24 17:07:14,232 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.43
+2025-03-24 17:07:19,944 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:07:19,944 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 17:07:27,121 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:07:27,121 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 17:07:35,207 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:07:35,208 - INFO - 📊 Retrieval Precision Score (LLM): 9.00
+2025-03-24 17:07:42,684 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:07:42,684 - INFO - 📊 Negative Retrieval Score (LLM): 2.00
+2025-03-24 17:07:44,091 - INFO - 📊 Context Precision Score (Cosine): 8.37
+2025-03-24 17:07:44,092 - INFO - 📊 Context Precision Score (Cosine + BM25): 5.90
+2025-03-24 17:07:44,464 - INFO - 📊 Context Recall Score (Cosine): 7.66
+2025-03-24 17:07:47,077 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.22
+2025-03-24 17:07:52,821 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:07:52,822 - INFO - 📊 Context Precision Score (LLM): 8.00
+2025-03-24 17:07:59,273 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:07:59,274 - INFO - 📊 Context Recall Score (LLM): 5.00
+2025-03-24 17:08:06,646 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:08:06,646 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 17:08:14,125 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:08:14,125 - INFO - 📊 Negative Retrieval Score (LLM): 6.00
+2025-03-24 17:08:15,591 - INFO - 📊 Context Precision Score (Cosine): 8.64
+2025-03-24 17:08:15,591 - INFO - 📊 Context Precision Score (Cosine + BM25): 7.52
+2025-03-24 17:08:16,002 - INFO - 📊 Context Recall Score (Cosine): 7.80
+2025-03-24 17:08:19,097 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.26
+2025-03-24 17:08:24,781 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:08:24,781 - INFO - 📊 Context Precision Score (LLM): 5.00
+2025-03-24 17:08:30,818 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:08:30,818 - INFO - 📊 Context Recall Score (LLM): 10.00
+2025-03-24 17:08:38,085 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:08:38,086 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 17:08:45,049 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:08:45,049 - INFO - 📊 Negative Retrieval Score (LLM): 5.00
+2025-03-24 17:08:46,451 - INFO - 📊 Context Precision Score (Cosine): 8.80
+2025-03-24 17:08:46,451 - INFO - 📊 Context Precision Score (Cosine + BM25): 6.29
+2025-03-24 17:08:46,823 - INFO - 📊 Context Recall Score (Cosine): 7.84
+2025-03-24 17:08:49,481 - INFO - 📊 Context Recall Score (Cosine + ROUGE + BERTScore): 5.26
+2025-03-24 17:08:54,982 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:08:54,983 - INFO - 📊 Context Precision Score (LLM): 9.00
+2025-03-24 17:09:00,717 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:09:00,718 - INFO - 📊 Context Recall Score (LLM): 3.00
+2025-03-24 17:09:07,579 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:09:07,579 - INFO - 📊 Retrieval Precision Score (LLM): 8.00
+2025-03-24 17:09:14,951 - INFO - [LMStudio] Prompt succeeded.
+2025-03-24 17:09:14,952 - INFO - 📊 Negative Retrieval Score (LLM): 8.00
+2025-03-24 17:09:14,988 - INFO - Successfully wrote evaluation results to Excel.
+
