@@ -78,5 +78,158 @@
     "negative_faithfulness": 1.5788394212722778,
     "faithfulness_llm": 5.0,
     "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who does Renji Abarai marry by the end of the series?",
+    "ground_truth_answer": "Renji Abarai marries Rukia Kuchiki after the war.",
+    "generated_answer": "I don't know. No relevant information found.",
+    "answer_chunk_similarity": 7.975289225578308,
+    "faithful_coverage": 2.2222222222222223,
+    "faithfulness_score_llm": "Key exhausted",
+    "faithful_coverage_llm": "Key exhausted"
+  },
+  {
+    "query": "What is distinctive about Renji\u2019s appearance (hair and tattoos)?",
+    "ground_truth_answer": "Renji has long crimson-red hair (often kept in a high ponytail) and he is covered in tribal tattoos that spread across his upper body and forehead.",
+    "generated_answer": "I don't know. No relevant information found.",
+    "answer_chunk_similarity": 7.471919059753418,
+    "faithful_coverage": 4.565217391304348,
+    "faithfulness_score_llm": "Key exhausted",
+    "faithful_coverage_llm": "Key exhausted"
+  },
+  {
+    "query": "What form does Renji\u2019s Zanpakut\u014d spirit take?",
+    "ground_truth_answer": "Zabimaru, Renji\u2019s Zanpakut\u014d spirit, usually manifests as a large baboon with a snake as a tail (reflecting the baboon-snake motif of the sword).",
+    "generated_answer": "I don't know. No relevant information found.",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": "Key exhausted",
+    "faithful_coverage_llm": "Key exhausted"
+  },
+  {
+    "query": "What noble rank does Byakuya Kuchiki hold in Soul Society?",
+    "ground_truth_answer": "Byakuya Kuchiki is the 28th Head of the Kuchiki Clan, which is one of the four great noble houses of Soul Society.",
+    "generated_answer": "I don't know. No relevant information found.",
+    "answer_chunk_similarity": 7.407904267311096,
+    "faithful_coverage": 5.945945945945946,
+    "faithfulness_score_llm": "Key exhausted",
+    "faithful_coverage_llm": "Key exhausted"
+  },
+  {
+    "query": "Which division does Byakuya lead, and who is his lieutenant?",
+    "ground_truth_answer": "Byakuya is the Captain of the 6th Division in the Gotei 13. His lieutenant was once Ginjir\u014d Shirogane (retired), and currently Renji Abarai serves as his lieutenant.",
+    "generated_answer": "I don't know. No relevant information found.",
+    "answer_chunk_similarity": 8.239697813987732,
+    "faithful_coverage": 3.4782608695652173,
+    "faithfulness_score_llm": "Key exhausted",
+    "faithful_coverage_llm": "Key exhausted"
+  },
+  {
+    "query": "What are the names of Byakuya Kuchiki\u2019s Shikai and Bankai?",
+    "ground_truth_answer": "Byakuya\u2019s Zanpakut\u014d is called Senbonzakura. Its Bankai is Senbonzakura Kageyoshi, which scatters into countless petal-like blades.",
+    "generated_answer": "I don't know. No relevant information found.",
+    "answer_chunk_similarity": 7.356348633766174,
+    "faithful_coverage": 4.571428571428571,
+    "faithfulness_score_llm": "Key exhausted",
+    "faithful_coverage_llm": "Key exhausted"
+  },
+  {
+    "query": "Who is Byakuya Kuchiki\u2019s adoptive sister?",
+    "ground_truth_answer": "Rukia Kuchiki is Byakuya\u2019s adopted younger sister (she was adopted into the Kuchiki family by Byakuya).",
+    "generated_answer": "I don't know. No relevant information found.",
+    "answer_chunk_similarity": 7.2058868408203125,
+    "faithful_coverage": 5.6000000000000005,
+    "faithfulness_score_llm": "Key exhausted",
+    "faithful_coverage_llm": "Key exhausted"
+  },
+  {
+    "query": "What does the title \u201cKenpachi\u201d signify, which Zaraki carries?",
+    "ground_truth_answer": "\u201cKenpachi\u201d is a title given to the strongest Shinigami warrior of a generation. Kenpachi Zaraki is the eleventh person to hold that title.",
+    "generated_answer": "I don't know. No relevant information found.",
+    "answer_chunk_similarity": 7.34874963760376,
+    "faithful_coverage": 2.608695652173913,
+    "faithfulness_score_llm": "Key exhausted",
+    "faithful_coverage_llm": "Key exhausted"
+  },
+  {
+    "query": "Which major antagonist did Ichigo Kurosaki defeat in the Fake Karakura Town battle?",
+    "ground_truth_answer": "Ichigo Kurosaki defeated S\u014dsuke Aizen in the battle at Fake Karakura Town.",
+    "generated_answer": "I don't know. No relevant information found.",
+    "answer_chunk_similarity": 8.036285042762756,
+    "faithful_coverage": 2.5531914893617023,
+    "faithfulness_score_llm": "Key exhausted",
+    "faithful_coverage_llm": "Key exhausted"
+  },
+  {
+    "query": "What is Ichigo\u2019s most distinguishing physical feature?",
+    "ground_truth_answer": "Ichigo\u2019s most distinguishing feature is his spiky orange hair.",
+    "generated_answer": "I don't know. No relevant information found.",
+    "answer_chunk_similarity": 7.297673225402832,
+    "faithful_coverage": 10.0,
+    "faithfulness_score_llm": "Key exhausted",
+    "faithful_coverage_llm": "Key exhausted"
+  },
+  {
+    "query": "What outfit does Ichigo wear when he is in his Soul Reaper form?",
+    "ground_truth_answer": "In his Shinigami (Soul Reaper) form, Ichigo wears the standard black shihakush\u014d uniform with a unique strap across his chest.",
+    "generated_answer": "I don't know. No relevant information found.",
+    "answer_chunk_similarity": 7.52440869808197,
+    "faithful_coverage": 2.201834862385321,
+    "faithfulness_score_llm": "Key exhausted",
+    "faithful_coverage_llm": "Key exhausted"
+  },
+  {
+    "query": "Why does Ichigo often wear clothing with the number 15 on it?",
+    "ground_truth_answer": "Ichigo likes wearing the number 15 on his shirts because \u201815\u2019 (\"ichi-go\") is a homonym for his name.",
+    "generated_answer": "I don't know. No relevant information found.",
+    "answer_chunk_similarity": 7.775915861129761,
+    "faithful_coverage": 3.4482758620689657,
+    "faithfulness_score_llm": "Key exhausted",
+    "faithful_coverage_llm": "Key exhausted"
+  },
+  {
+    "query": "Which Soul Reaper noted Ichigo\u2019s resemblance to Kaien Shiba?",
+    "ground_truth_answer": "J\u016bshir\u014d Ukitake remarked on Ichigo\u2019s strong resemblance to Kaien Shiba (the former lieutenant of the 13th Division).",
+    "generated_answer": "I don't know. No relevant information found.",
+    "answer_chunk_similarity": 7.9708027839660645,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": "Key exhausted",
+    "faithful_coverage_llm": "Key exhausted"
+  },
+  {
+    "query": "What happens to Ichigo\u2019s hair and height after training in the Dangai?",
+    "ground_truth_answer": "After training in the Dangai Precipice World, Ichigo\u2019s hair grows much longer and he becomes noticeably taller.",
+    "generated_answer": "I don't know. No relevant information found.",
+    "answer_chunk_similarity": 7.378355264663696,
+    "faithful_coverage": 5.806451612903226,
+    "faithfulness_score_llm": "Key exhausted",
+    "faithful_coverage_llm": "Key exhausted"
+  },
+  {
+    "query": "What is Ichigo Kurosaki\u2019s blood type?",
+    "ground_truth_answer": "Ichigo\u2019s blood type is Type A.",
+    "generated_answer": "I don't know. No relevant information found.",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": "Key exhausted",
+    "faithful_coverage_llm": "Key exhausted"
+  },
+  {
+    "query": "What position does Ichigo hold in the world of the Soul Reapers?",
+    "ground_truth_answer": "Ichigo Kurosaki serves as a Substitute Shinigami (substitute Soul Reaper).",
+    "generated_answer": "I don't know. No relevant information found.",
+    "answer_chunk_similarity": 7.916244268417358,
+    "faithful_coverage": 1.0169491525423728,
+    "faithfulness_score_llm": "Key exhausted",
+    "faithful_coverage_llm": "Key exhausted"
+  },
+  {
+    "query": "What job does Ichigo take up after the timeskip (when not fighting)?",
+    "ground_truth_answer": "In his everyday life, Ichigo works as a translator and was formerly a high school student.",
+    "generated_answer": "I don't know. No relevant information found.",
+    "answer_chunk_similarity": 8.072193264961243,
+    "faithful_coverage": 1.7391304347826089,
+    "faithfulness_score_llm": "Key exhausted",
+    "faithful_coverage_llm": "Key exhausted"
   }
 ]
