@@ -6,3 +6,5 @@ old_pipeline
 missing_test.py
 mainbot.py
 convertJson.py
+duplicateQnA.py
+bleach_characters.json
