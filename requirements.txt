@@ -18,4 +18,8 @@ dotenv
 numpy
 scikit-learn
 sentence-transformers
-
+fake-useragent
+rouge_score
+bert_score
+rank_bm25
+openpyxl

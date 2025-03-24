@@ -8,6 +8,7 @@ from rouge_score import rouge_scorer  # ROUGE-L for faithfulness evaluation
 from pipeline.retriever import Retriever
 from pipeline.generator import Generator
 from evaluation.evaluation_logger import EvaluationLogger
+from evaluation.evaluation_model import EvaluationModel
 load_dotenv()
 
 class FaithfulnessEvaluator:
@@ -15,12 +16,14 @@ class FaithfulnessEvaluator:
     Evaluates the faithfulness of LLM-generated responses for the Bleach Wiki RAG bot.
     """
 
-    def __init__(self, retriever: Retriever, generator: Generator, embedding_model="BAAI/bge-base-en"):
+    def __init__(self, retriever: Retriever, generator: Generator, evaluation_method : EvaluationModel, embedding_model="BAAI/bge-base-en"):
         self.retriever = retriever
         self.generator = generator
         self.logger = EvaluationLogger(eval_type="faithfulness")
         self.model = SentenceTransformer(embedding_model)  # Embedding model for semantic similarity
         self.rouge_scorer = rouge_scorer.RougeScorer(["rougeL"], use_stemmer=True)  # ROUGE-L Scorer
+
+        self.evaluation_method = evaluation_method
 
     def evaluate_faithfulness(self, query, ground_truth_answer, top_k=5):
         """
@@ -40,16 +43,17 @@ class FaithfulnessEvaluator:
         # Compute faithfulness metrics
         answer_chunk_similarity = self.answer_chunk_similarity("\n".join([doc["text"] for doc in retrieved_chunks]), generated_answer)
         faithful_coverage = self.compute_faithful_coverage(ground_truth_answer, generated_answer)
-        negative_faithfulness = self.compute_negative_faithfulness(query, generated_answer)
+        # negative_faithfulness = self.compute_negative_faithfulness(query, generated_answer)
 
         # LLM-based faithfulness evaluation
-        faithfulness_llm = self.llm_as_judge(retrieved_chunks, generated_answer)
-        faithful_coverage_llm = self.llm_faithful_coverage(ground_truth_answer, generated_answer)
+        faithfulness_llm = self.llm_as_judge(query, retrieved_chunks, generated_answer)
+        faithful_coverage_llm = self.llm_faithful_coverage(query, ground_truth_answer, generated_answer)
+
 
         print("\n📊 Faithfulness Evaluation Results:")
         print(f"✅ Answer-Chunk Similarity: {answer_chunk_similarity:.2f}")
         print(f"✅ Faithful Coverage (ROUGE-L): {faithful_coverage:.2f}")
-        print(f"✅ Negative Faithfulness: {negative_faithfulness:.2f}")
+        # print(f"✅ Negative Faithfulness: {negative_faithfulness:.2f}")
         print(f"🤖 Faithfulness (LLM): {faithfulness_llm}")
         print(f"🤖 Faithful Coverage (LLM): {faithful_coverage_llm}")
 
@@ -59,7 +63,7 @@ class FaithfulnessEvaluator:
             "ground_truth_answer": ground_truth_answer,
             "answer_chunk_similarity": float(answer_chunk_similarity),
             "faithful_coverage": float(faithful_coverage),
-            "negative_faithfulness": float(negative_faithfulness),
+            # "negative_faithfulness": float(negative_faithfulness),
             "faithfulness_llm": faithfulness_llm,
             "faithful_coverage_llm": faithful_coverage_llm
         }
@@ -70,9 +74,14 @@ class FaithfulnessEvaluator:
         """
         Measures the cosine similarity between generated answer and retrieved chunks.
         """
+        # Extracting text content if retrieved_chunks are dicts
+        if isinstance(retrieved_chunks[0], dict):
+            retrieved_chunks = [chunk.get("content", "") for chunk in retrieved_chunks]
+
         answer_embedding = self.model.encode([generated_answer], normalize_embeddings=True)
         chunk_embedding = self.model.encode([" ".join(retrieved_chunks)], normalize_embeddings=True)
         return float(cosine_similarity(answer_embedding, chunk_embedding)[0][0]) * 10
+
 
     def compute_faithful_coverage(self, ground_truth_answer, generated_answer):
         """
@@ -81,13 +90,13 @@ class FaithfulnessEvaluator:
         rouge_scores = self.rouge_scorer.score(ground_truth_answer, generated_answer)
         return rouge_scores["rougeL"].fmeasure * 10
 
-    def compute_negative_faithfulness(self, query, generated_answer):
-        """
-        Checks if the generated answer contains information not related to the query.
-        """
-        query_embedding = self.model.encode([query], normalize_embeddings=True)
-        answer_embedding = self.model.encode([generated_answer], normalize_embeddings=True)
-        return (1 - cosine_similarity(query_embedding, answer_embedding)[0][0]) * 10
+    # def compute_negative_faithfulness(self, query, generated_answer):
+    #     """
+    #     Checks if the generated answer contains information not related to the query.
+    #     """
+    #     query_embedding = self.model.encode([query], normalize_embeddings=True)
+    #     answer_embedding = self.model.encode([generated_answer], normalize_embeddings=True)
+    #     return (1 - cosine_similarity(query_embedding, answer_embedding)[0][0]) * 10
 
     # LLM-Based Methods
 
@@ -96,45 +105,59 @@ class FaithfulnessEvaluator:
         Uses LLM to evaluate the faithfulness of the generated response.
         """
         prompt = f"""
-        Evaluate the following generated answer's faithfulness to the retrieved context.
+        You are an expert evaluator.
 
-        Retrieved Context:
+        Given the RETRIEVED CONTEXT:
         {retrieved_chunks}
 
-        Generated Answer:
+        And the GENERATED ANSWER:
         {generated_answer}
 
-        Provide a score from 0 to 10:
-        - 10: Perfectly faithful
-        - 5: Somewhat faithful with extra information
-        - 0: Completely unfaithful
+        How **faithful** is the generated answer to the retrieved context?
+        
+        Provide a score from 0 to 10, where:
+        - 10 means the answer is **perfectly faithful** to the retrieved context.
+        - 5 means the answer is **somewhat faithful**, but adds **extra information**.
+        - 0 means the answer is **completely unfaithful**.
+
+        Respond with a single numeric score (no extra text).
         """
         try:
-            response = self.generator.generate_answer(prompt, retrieved_chunks)
+            response = self.evaluation_method.evaluate(prompt, retrieved_chunks)
             return self._parse_llm_score(response)
         except Exception as e:
             print(f"⚠️ Error in LLM Call: {e} - Key exhausted.")
             return "Key exhausted"
 
-    def llm_faithful_coverage(self, ground_truth_answer, generated_answer):
+    def llm_faithful_coverage(self, query, ground_truth_answer, generated_answer):
         """
         Uses LLM to evaluate the faithful coverage of the generated response.
         """
         prompt = f"""
-        Evaluate the overlap of the following generated answer with the ground truth answer.
+        You are an expert judge evaluating retrieval quality.
 
-        Ground Truth Answer:
-        {ground_truth_answer}
+        Given the USER QUERY:
+        "{query}"
 
-        Generated Answer:
+        And the GROUND TRUTH ANSWER:
+        "{ground_truth_answer}"
+
+        And the GENERATED ANSWER:
         {generated_answer}
 
-        ONLY provide a numeric score from 0 to 10. No additional explanation."
+        How much of the **ground truth answer** is present in the **generated answer**?
+
+        Provide a **score from 0 to 10**, where:
+        - 10 means the generated answer **fully contains all the important details** from the ground truth.
+        - 5 means it **contains partial details**.
+        - 0 means it **contains none of the important details**.
+
+        Respond strictly with a **single numeric score** (no extra text).
         """
         try:
-            response = self.generator.model.generate_content(prompt)
+            response = self.evaluation_method.evaluate(prompt)
             print(f"🔹 LLM Response for Faithful Coverage: '{response.text}'")
-            return self._parse_llm_score(response.text)
+            return self._parse_llm_score(response)
         except Exception as e:
             print(f"⚠️ Error in LLM Call: {e} - Key exhausted.")
             return "Key exhausted"

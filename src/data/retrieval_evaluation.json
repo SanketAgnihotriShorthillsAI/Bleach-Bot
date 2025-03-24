@@ -1,30 +1,1562 @@
 [
   {
     "query": "When is Ichigo Kurosaki's birthday?",
-    "context_recall_cosine": 8.534490466117859,
-    "context_precision_cosine": 8.552627563476562,
-    "context_overlap_rougeL": 0.43343653250773995,
-    "negative_retrieval_cosine": 0.0
+    "Ground Truth Answer": "Ichigo Kurosaki was born on July 15, 1985.",
+    "Context Precision": 6.44,
+    "Context Recall": 5.642162570246943,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 10.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 5.0
   },
   {
     "query": "What race is Ichigo Kurosaki listed as in the Bleach universe?",
-    "context_recall_cosine": 8.367812633514404,
-    "context_precision_cosine": 8.361002802848816,
-    "context_overlap_rougeL": 0.364741641337386,
-    "negative_retrieval_cosine": 0.0
+    "Ground Truth Answer": "Ichigo Kurosaki is a Human (with Quincy heritage).",
+    "Context Precision": 5.54,
+    "Context Recall": 5.5967879464440315,
+    "Context Precision (llm)": 0.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 0.0,
+    "Negative Retrieval (llm)": 10.0
   },
   {
     "query": "What is the name of Ichigo Kurosaki's Zanpakut\u014d in Shikai form?",
-    "context_recall_cosine": 8.707751035690308,
-    "context_precision_cosine": 8.932773470878601,
-    "context_overlap_rougeL": 0.49122807017543857,
-    "negative_retrieval_cosine": 0.0
+    "Ground Truth Answer": "Ichigo\u2019s Zanpakut\u014d in Shikai form is named Zangetsu.",
+    "Context Precision": 7.24,
+    "Context Recall": 5.813841579950345,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 10.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 5.0
   },
   {
     "query": "What is the name of Ichigo\u2019s Bankai?",
-    "context_recall_cosine": 8.684580326080322,
-    "context_precision_cosine": 8.458865880966187,
-    "context_overlap_rougeL": 0.472972972972973,
-    "negative_retrieval_cosine": 0.0
+    "Ground Truth Answer": "Ichigo Kurosaki\u2019s Bankai is called Tensa Zangetsu.",
+    "Context Precision": 7.38,
+    "Context Recall": 5.72043495595792,
+    "Context Precision (llm)": 10.0,
+    "Context Recall (llm)": 10.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 0.0
+  },
+  {
+    "query": "Who are Ichigo Kurosaki\u2019s parents?",
+    "Ground Truth Answer": "Ichigo is the son of Isshin Kurosaki and Masaki Kurosaki.",
+    "Context Precision": 5.47,
+    "Context Recall": 5.891188151800811,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": "KeyExhausted",
+    "Retrieval Precision (llm)": "KeyExhausted",
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "Which characters are Ichigo Kurosaki\u2019s sisters?",
+    "Ground Truth Answer": "Ichigo\u2019s younger twin sisters are Karin Kurosaki and Yuzu Kurosaki.",
+    "Context Precision": 6.63,
+    "Context Recall": 5.694544147868892,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 8.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 0.0
+  },
+  {
+    "query": "Who is Ichigo Kurosaki married to?",
+    "Ground Truth Answer": "Ichigo Kurosaki is married to Orihime Inoue.",
+    "Context Precision": 5.7,
+    "Context Recall": 5.543588729561566,
+    "Context Precision (llm)": 6.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 6.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What is the name of Ichigo Kurosaki\u2019s child?",
+    "Ground Truth Answer": "Ichigo\u2019s son is named Kazui Kurosaki.",
+    "Context Precision": 5.91,
+    "Context Recall": 5.678985238075256,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 8.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "Which major antagonist did Ichigo Kurosaki defeat in the Fake Karakura Town battle?",
+    "Ground Truth Answer": "Ichigo Kurosaki defeated S\u014dsuke Aizen in the battle at Fake Karakura Town.",
+    "Context Precision": 6.08,
+    "Context Recall": 5.79629402462934,
+    "Context Precision (llm)": 4.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What is Ichigo\u2019s most distinguishing physical feature?",
+    "Ground Truth Answer": "Ichigo\u2019s most distinguishing feature is his spiky orange hair.",
+    "Context Precision": 6.75,
+    "Context Recall": 5.897235686004225,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "What outfit does Ichigo wear when he is in his Soul Reaper form?",
+    "Ground Truth Answer": "In his Shinigami (Soul Reaper) form, Ichigo wears the standard black shihakush\u014d uniform with a unique strap across his chest.",
+    "Context Precision": 7.14,
+    "Context Recall": 6.087626542899695,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 6.0,
+    "Retrieval Precision (llm)": 6.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "Why does Ichigo often wear clothing with the number 15 on it?",
+    "Ground Truth Answer": "Ichigo likes wearing the number 15 on his shirts because \u201815\u2019 (\"ichi-go\") is a homonym for his name.",
+    "Context Precision": 6.29,
+    "Context Recall": 5.783535370923052,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "Which Soul Reaper noted Ichigo\u2019s resemblance to Kaien Shiba?",
+    "Ground Truth Answer": "J\u016bshir\u014d Ukitake remarked on Ichigo\u2019s strong resemblance to Kaien Shiba (the former lieutenant of the 13th Division).",
+    "Context Precision": 6.51,
+    "Context Recall": 5.821598443118009,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 6.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "What happens to Ichigo\u2019s hair and height after training in the Dangai?",
+    "Ground Truth Answer": "After training in the Dangai Precipice World, Ichigo\u2019s hair grows much longer and he becomes noticeably taller.",
+    "Context Precision": 5.8,
+    "Context Recall": 5.94586362308926,
+    "Context Precision (llm)": 6.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "What is Ichigo Kurosaki\u2019s blood type?",
+    "Ground Truth Answer": "Ichigo\u2019s blood type is Type A.",
+    "Context Precision": 7.03,
+    "Context Recall": 5.448301949124736,
+    "Context Precision (llm)": 0.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "What position does Ichigo hold in the world of the Soul Reapers?",
+    "Ground Truth Answer": "Ichigo Kurosaki serves as a Substitute Shinigami (substitute Soul Reaper).",
+    "Context Precision": 6.91,
+    "Context Recall": 5.514576441396481,
+    "Context Precision (llm)": 6.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 7.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "What job does Ichigo take up after the timeskip (when not fighting)?",
+    "Ground Truth Answer": "In his everyday life, Ichigo works as a translator and was formerly a high school student.",
+    "Context Precision": 6.32,
+    "Context Recall": 5.501294856847719,
+    "Context Precision (llm)": 2.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "Name one group Ichigo was (even unofficially) affiliated with aside from the Gotei 13.",
+    "Ground Truth Answer": "Ichigo was loosely affiliated with the Visored (a group of ex-Soul Reapers with Hollow powers) during the Arrancar arc, and later cooperated with Xcution (Fullbringers) during the Lost Substitute Shinigami arc.",
+    "Context Precision": 5.4,
+    "Context Recall": 5.6744118657692395,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "What division of the Gotei 13 is Rukia Kuchiki captain of?",
+    "Ground Truth Answer": "Rukia Kuchiki becomes the Captain of the 13th Division of the Gotei 13.",
+    "Context Precision": 6.91,
+    "Context Recall": 5.872524651178874,
+    "Context Precision (llm)": 7.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 7.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "Whom did Rukia Kuchiki succeed to become captain of the 13th Division?",
+    "Ground Truth Answer": "Rukia succeeded J\u016bshir\u014d Ukitake as the Captain of the 13th Division.",
+    "Context Precision": 6.26,
+    "Context Recall": 5.653539100120871,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 9.0
+  },
+  {
+    "query": "Who is Rukia Kuchiki\u2019s husband?",
+    "Ground Truth Answer": "Rukia Kuchiki is married to Renji Abarai.",
+    "Context Precision": 5.45,
+    "Context Recall": 5.5336073895476625,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "How is Byakuya Kuchiki related to Rukia Kuchiki?",
+    "Ground Truth Answer": "Byakuya Kuchiki is Rukia\u2019s adoptive brother (he adopted her into the Kuchiki family after she became the sister of his late wife, Hisana).",
+    "Context Precision": 8.23,
+    "Context Recall": 6.2454127517401,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 10.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "What is the name of Rukia\u2019s Zanpakut\u014d in Shikai and in Bankai?",
+    "Ground Truth Answer": "Rukia\u2019s Zanpakut\u014d is called Sode no Shirayuki in its Shikai form, and its Bankai is Hakka no Togame.",
+    "Context Precision": 6.16,
+    "Context Recall": 5.906627776180106,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "What rank did Rukia hold before becoming a Captain?",
+    "Ground Truth Answer": "Before becoming a captain, Rukia served as the Lieutenant of the 13th Division under Captain Ukitake.",
+    "Context Precision": 6.17,
+    "Context Recall": 5.725976841641927,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 8.0,
+    "Retrieval Precision (llm)": 6.0,
+    "Negative Retrieval (llm)": 4.0
+  },
+  {
+    "query": "During her battle with Aaroniero Arruruerie, what realization helped Rukia prevail?",
+    "Ground Truth Answer": "Rukia remembered Kaien Shiba\u2019s words about the \u201cheart.\u201d She realized that Kaien\u2019s heart lived on in her, which gave her the strength to destroy the impostor Aaroniero.",
+    "Context Precision": 5.51,
+    "Context Recall": 5.987853874586508,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 10.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "Which Espada did Rukia Kuchiki defeat in combat?",
+    "Ground Truth Answer": "Rukia Kuchiki managed to defeat the Noveno (9th) Espada, Aaroniero Arruruerie, in battle.",
+    "Context Precision": 6.14,
+    "Context Recall": 5.606842848358961,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 10.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "How tall is Rukia Kuchiki, and how is her stature described?",
+    "Ground Truth Answer": "Rukia is about 144 cm tall (around 4\u20199\u201d), which makes her short and petite in build.",
+    "Context Precision": 6.28,
+    "Context Recall": 5.693380446995005,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "Where did Rukia receive her formal Shinigami education?",
+    "Ground Truth Answer": "Rukia Kuchiki attended the Shin\u2019\u014d Academy in Soul Society to train as a Shinigami.",
+    "Context Precision": 6.2,
+    "Context Recall": 5.812117796618838,
+    "Context Precision (llm)": 2.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What position did S\u014dsuke Aizen hold in the Gotei 13 before betraying Soul Society?",
+    "Ground Truth Answer": "Before his betrayal, S\u014dsuke Aizen was the Captain of the 5th Division of the Gotei 13.",
+    "Context Precision": 5.75,
+    "Context Recall": 5.810401855370937,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 8.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What is the name of Aizen\u2019s Zanpakut\u014d and its primary ability?",
+    "Ground Truth Answer": "Aizen\u2019s Zanpakut\u014d is called Ky\u014dka Suigetsu. Its Shikai power is Complete Hypnosis, which can control all five senses of anyone who has seen its release.",
+    "Context Precision": 5.83,
+    "Context Recall": 5.9690951733362105,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What is known about S\u014dsuke Aizen\u2019s Bankai?",
+    "Ground Truth Answer": "Aizen\u2019s Bankai remains unknown (it was never revealed).",
+    "Context Precision": 6.01,
+    "Context Recall": 5.452776000632632,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "Which powerful artifact did Aizen seek to obtain for his plans?",
+    "Ground Truth Answer": "Aizen orchestrated events to obtain the H\u014dgyoku, a powerful orb invented by Kisuke Urahara that can break the boundaries between Hollows and Shinigami.",
+    "Context Precision": 5.5,
+    "Context Recall": 5.7168810549617035,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 8.0,
+    "Retrieval Precision (llm)": 6.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "What unethical experiments did Aizen conduct roughly a century ago?",
+    "Ground Truth Answer": "About 100 years prior, Aizen conducted secret Hollowfication experiments on Shinigami (including the future Visored), which forced them into exile after they were transformed into Hollow hybrids.",
+    "Context Precision": 5.06,
+    "Context Recall": 5.678736230284431,
+    "Context Precision (llm)": 6.0,
+    "Context Recall (llm)": 2.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 9.0
+  },
+  {
+    "query": "What atrocity did Aizen commit against the Central 46 of Soul Society?",
+    "Ground Truth Answer": "S\u014dsuke Aizen murdered all the members of the Central 46 (the governing council of Soul Society) as part of his coup.",
+    "Context Precision": 6.69,
+    "Context Recall": 5.642534070054199,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 8.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "Which two captains defected from Soul Society alongside Aizen?",
+    "Ground Truth Answer": "Gin Ichimaru and Kaname T\u014dsen sided with Aizen and left Soul Society alongside him.",
+    "Context Precision": 5.82,
+    "Context Recall": 5.627079872894698,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 7.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "After leaving Soul Society, where did Aizen establish his base of operations?",
+    "Ground Truth Answer": "Aizen retreated to Hueco Mundo and established his base in Las Noches, where he built an army of Arrancar.",
+    "Context Precision": 5.38,
+    "Context Recall": 5.351907857199585,
+    "Context Precision (llm)": 2.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "What was Aizen\u2019s ultimate goal involving the Spirit/Soul King?",
+    "Ground Truth Answer": "Aizen\u2019s ultimate goal was to overthrow the Soul King and take the \u201cthrone of heaven\u201d for himself \u2013 essentially replacing the Soul King as a godlike ruler.",
+    "Context Precision": 7.18,
+    "Context Recall": 5.77358551005013,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 4.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "How was S\u014dsuke Aizen finally defeated and subdued?",
+    "Ground Truth Answer": "Aizen was finally defeated by Ichigo Kurosaki (in a transcendent form) and then sealed by Kisuke Urahara\u2019s Kid\u014d. After his defeat, Aizen was imprisoned deep in the Muken for his crimes.",
+    "Context Precision": 5.97,
+    "Context Recall": 6.002170340634325,
+    "Context Precision (llm)": 6.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "Who temporarily released Aizen from prison during the Thousand-Year Blood War?",
+    "Ground Truth Answer": "Captain-Commander Shunsui Ky\u014draku temporarily freed Aizen from his prison in Muken to enlist his help against Yhwach during the Quincy Blood War.",
+    "Context Precision": 6.39,
+    "Context Recall": 5.75748572088456,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 2.0
+  },
+  {
+    "query": "What race is Yhwach, the antagonist of the Thousand-Year Blood War?",
+    "Ground Truth Answer": "Yhwach is a Quincy \u2013 in fact, he is the progenitor and King of the Quincies.",
+    "Context Precision": 6.44,
+    "Context Recall": 5.721824786184244,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "Approximately how old is Yhwach?",
+    "Ground Truth Answer": "Yhwach is over 1,200 years old (he lived for more than a millennium).",
+    "Context Precision": 6.23,
+    "Context Recall": 5.635583249752041,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 10.0,
+    "Retrieval Precision (llm)": 7.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What are some of the titles or epithets by which Yhwach is known?",
+    "Ground Truth Answer": "Yhwach is known as the Quincy King and the \u201cFather of the Quincy.\u201d His Schrift designation is \u201cA\u201d for \u201cThe Almighty.\u201d",
+    "Context Precision": 6.18,
+    "Context Recall": 5.668195048010493,
+    "Context Precision (llm)": 0.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "Who is Yhwach\u2019s father in the lore of Bleach?",
+    "Ground Truth Answer": "Yhwach is actually the son of the Soul King (the primordial being that maintains the world\u2019s balance).",
+    "Context Precision": 7.03,
+    "Context Recall": 5.631285049267952,
+    "Context Precision (llm)": 3.0,
+    "Context Recall (llm)": 8.0,
+    "Retrieval Precision (llm)": 1.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "What empire did Yhwach rule over?",
+    "Ground Truth Answer": "Yhwach was the Emperor of the Wandenreich, the hidden Quincy empire.",
+    "Context Precision": 6.04,
+    "Context Recall": 5.571619483528944,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What power does Yhwach\u2019s Schrift \"A\" (\"The Almighty\") grant him?",
+    "Ground Truth Answer": "Yhwach\u2019s \u201cAlmighty\u201d ability allows him to see and manipulate all possible futures, making him nearly omniscient in battle once it\u2019s active.",
+    "Context Precision": 6.07,
+    "Context Recall": 5.712071831484757,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "What significant event happened to Yhwach 1,000 years ago?",
+    "Ground Truth Answer": "A thousand years ago, Yhwach was defeated and his original empire fell. He went dormant until he reemerged in the present to initiate the Quincy Blood War.",
+    "Context Precision": 6.17,
+    "Context Recall": 5.791257682364531,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 2.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "During the final Quincy war, what did Yhwach do to the Soul King?",
+    "Ground Truth Answer": "Yhwach invaded the Soul King\u2019s Palace and killed the Soul King, even absorbing its power to further his goal of merging the realms.",
+    "Context Precision": 5.64,
+    "Context Recall": 5.804879293195519,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 7.0,
+    "Negative Retrieval (llm)": 9.0
+  },
+  {
+    "query": "How was Yhwach ultimately defeated?",
+    "Ground Truth Answer": "Yhwach was ultimately slain by Ichigo Kurosaki (with assistance from his allies, including Ury\u016b Ishida disrupting Yhwach\u2019s powers at the last moment).",
+    "Context Precision": 7.7,
+    "Context Recall": 5.516217145496668,
+    "Context Precision (llm)": 0.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 2.0,
+    "Negative Retrieval (llm)": 9.0
+  },
+  {
+    "query": "What is Orihime Inoue\u2019s race and where does she live?",
+    "Ground Truth Answer": "Orihime Inoue is a Human, a resident of Karakura Town in the Human World.",
+    "Context Precision": 6.2,
+    "Context Recall": 5.6293900807698565,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 10.0,
+    "Retrieval Precision (llm)": 7.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "What is the source of Orihime\u2019s powers?",
+    "Ground Truth Answer": "Orihime\u2019s powers come from the Shun Shun Rikka (Six Flowers of the Hibiscus Shield), six spiritual fairies that reside in her hairpins and grant her abilities.",
+    "Context Precision": 7.99,
+    "Context Recall": 5.786752107778702,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "Name a technique Orihime can use with the Shun Shun Rikka.",
+    "Ground Truth Answer": "One of Orihime\u2019s techniques is Santen Kesshun, where three of her fairies form a triangular shield to defend against attacks.",
+    "Context Precision": 6.5,
+    "Context Recall": 5.657519652784701,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "Who is Orihime\u2019s best friend from school?",
+    "Ground Truth Answer": "Orihime\u2019s best friend since middle school is Tatsuki Arisawa.",
+    "Context Precision": 5.99,
+    "Context Recall": 5.672810567873661,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 7.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "Describe Orihime Inoue\u2019s appearance (hair color).",
+    "Ground Truth Answer": "Orihime is a teenager with long, orange-brown hair (which she often clips with flower-shaped hairpins).",
+    "Context Precision": 5.85,
+    "Context Recall": 6.054351001546003,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 8.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "How does Orihime heal wounds with her ability?",
+    "Ground Truth Answer": "Orihime uses her S\u014dten Kisshun technique, in which her fairies reject an undesirable event \u2013 effectively rewinding injuries as if they never happened, to heal wounds.",
+    "Context Precision": 6.28,
+    "Context Recall": 5.751465871138273,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 8.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 9.0
+  },
+  {
+    "query": "What group of enemies kidnapped Orihime during the Arrancar arc?",
+    "Ground Truth Answer": "Orihime was taken by the Arrancar (specifically by Ulquiorra Cifer under Aizen\u2019s orders) to Las Noches in Hueco Mundo.",
+    "Context Precision": 7.5,
+    "Context Recall": 5.783669177324697,
+    "Context Precision (llm)": 7.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 4.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "What are the names of the six spirits that comprise Orihime\u2019s Shun Shun Rikka?",
+    "Ground Truth Answer": "Orihime\u2019s six spirit fairies are named Ayame, Shun\u2019\u014d, Tsubaki, Lily (Baigon and Hinagiku are often listed as well, totaling six: Shun\u2019\u014d, Ayame, Tsubaki, Hinagiku, Lily, and Baigon).",
+    "Context Precision": 6.45,
+    "Context Recall": 5.8837907456751894,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 8.0,
+    "Retrieval Precision (llm)": 6.0,
+    "Negative Retrieval (llm)": 2.0
+  },
+  {
+    "query": "What is Ury\u016b Ishida\u2019s heritage in the Bleach series?",
+    "Ground Truth Answer": "Ury\u016b Ishida is a Quincy \u2013 a descendant of a line of Quincy priests. He is the son of Ry\u016bken Ishida and was at one point considered the last Quincy in his area.",
+    "Context Precision": 7.44,
+    "Context Recall": 6.042682325193124,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 4.0,
+    "Retrieval Precision (llm)": 7.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "How is Ury\u016b Ishida distantly related to Ichigo Kurosaki?",
+    "Ground Truth Answer": "Interestingly, Ury\u016b is actually Ichigo\u2019s distant relative by blood \u2013 he is Ichigo\u2019s maternal second cousin, due to the Quincy connection in Ichigo\u2019s mother\u2019s family.",
+    "Context Precision": 7.35,
+    "Context Recall": 5.919107386816653,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "Who taught Ury\u016b Ishida his Quincy skills?",
+    "Ground Truth Answer": "Ury\u016b was trained in Quincy techniques by his grandfather, S\u014dken Ishida.",
+    "Context Precision": 6.57,
+    "Context Recall": 6.091981097443463,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "What weapon does Ury\u016b Ishida use in combat?",
+    "Ground Truth Answer": "Ury\u016b uses a Quincy bow made of spiritual energy (reishi) to fire arrows. Initially he uses a bow called Lone Sparrow, and later the Ginrei Kojaku.",
+    "Context Precision": 6.24,
+    "Context Recall": 5.951452077344093,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "What title and Schrift does Yhwach bestow upon Ury\u016b Ishida?",
+    "Ground Truth Answer": "Yhwach names Ury\u016b as his successor and gives him the Schrift \u201cA\u201d \u2013 in Ury\u016b\u2019s case, \u201cA\u201d stands for \u201cAntithesis,\u201d granting Ury\u016b a unique power in the Sternritter.",
+    "Context Precision": 5.58,
+    "Context Recall": 6.126291782478166,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "What domestic skill is Ury\u016b notably good at that surprises his friends?",
+    "Ground Truth Answer": "Ury\u016b Ishida is surprisingly very skilled at sewing, often fixing torn clothes or plushies with professional-level tailoring ability.",
+    "Context Precision": 5.82,
+    "Context Recall": 5.548947510167632,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "What high-speed movement technique can Ury\u016b use as a Quincy?",
+    "Ground Truth Answer": "Ury\u016b can use Hirenkyaku, the Quincy\u2019s high-speed movement technique (analogous to the Shinigami\u2019s flash step).",
+    "Context Precision": 6.93,
+    "Context Recall": 5.852260336619234,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "Why did Ury\u016b decide to join the Wandenreich (Yhwach\u2019s Quincy army)?",
+    "Ground Truth Answer": "Ury\u016b joined the Wandenreich to learn the truth behind his mother\u2019s death (which was caused by Yhwach\u2019s Ausw\u00e4hlen) and because he alone survived Yhwach\u2019s purge of mixed-blood Quincy, making him a subject of Yhwach\u2019s interest.",
+    "Context Precision": 6.04,
+    "Context Recall": 6.141807903948518,
+    "Context Precision (llm)": 7.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "Who is Ury\u016b Ishida\u2019s father?",
+    "Ground Truth Answer": "Ury\u016b\u2019s father is Ry\u016bken Ishida, a practicing hospital director and one of the last living Quincy (though Ry\u016bken chose not to involve himself in battles initially).",
+    "Context Precision": 5.64,
+    "Context Recall": 5.96592368587615,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 7.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "What nickname is Yasutora Sado commonly known by?",
+    "Ground Truth Answer": "Yasutora Sado is almost always referred to by his nickname \u201cChad.\u201d",
+    "Context Precision": 5.6,
+    "Context Recall": 5.372683124530634,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What is Yasutora Sado\u2019s ethnic background?",
+    "Ground Truth Answer": "Chad is of mixed Japanese and Mexican heritage; he spent part of his childhood in Mexico being raised by his abuelo (grandfather).",
+    "Context Precision": 6.22,
+    "Context Recall": 5.754276458507797,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What power awakens in Yasutora Sado\u2019s right arm?",
+    "Ground Truth Answer": "Chad awakens a Fullbring-like power focusing in his right arm, which he calls Brazo Derecho del Gigante (Right Arm of the Giant) \u2013 an armored arm that grants him immense strength.",
+    "Context Precision": 6.43,
+    "Context Recall": 5.738610096308061,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 7.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 4.0
+  },
+  {
+    "query": "What new ability does Chad develop in his left arm?",
+    "Ground Truth Answer": "Later, Chad develops an ability in his left arm called Brazo Izquierdo del Diablo (Left Arm of the Devil), which has more offensive and projectile-based powers.",
+    "Context Precision": 6.27,
+    "Context Recall": 5.73299868853982,
+    "Context Precision (llm)": 3.0,
+    "Context Recall (llm)": 3.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 1.0
+  },
+  {
+    "query": "Which organization of Fullbringers does Chad become involved with?",
+    "Ground Truth Answer": "Chad joins and fights alongside Xcution, the Fullbringer group led by K\u016bgo Ginj\u014d, during the Lost Substitute Shinigami (Fullbringer) arc.",
+    "Context Precision": 6.27,
+    "Context Recall": 5.8272039623056004,
+    "Context Precision (llm)": 2.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "What position does Renji Abarai hold for most of the series?",
+    "Ground Truth Answer": "Renji Abarai serves as the lieutenant of the 6th Division under Captain Byakuya Kuchiki through most of the series.",
+    "Context Precision": 5.66,
+    "Context Recall": 5.822723524243224,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 6.0,
+    "Negative Retrieval (llm)": 9.0
+  },
+  {
+    "query": "What is Renji Abarai\u2019s Zanpakut\u014d called?",
+    "Ground Truth Answer": "Renji\u2019s Zanpakut\u014d is named Zabimaru. Its Shikai form is a segmented blade that can extend like a whip.",
+    "Context Precision": 6.97,
+    "Context Recall": 6.058678533138452,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "Who does Renji Abarai marry by the end of the series?",
+    "Ground Truth Answer": "Renji Abarai marries Rukia Kuchiki after the war.",
+    "Context Precision": 5.53,
+    "Context Recall": 5.518053054330818,
+    "Context Precision (llm)": 10.0,
+    "Context Recall (llm)": 10.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "What is distinctive about Renji\u2019s appearance (hair and tattoos)?",
+    "Ground Truth Answer": "Renji has long crimson-red hair (often kept in a high ponytail) and he is covered in tribal tattoos that spread across his upper body and forehead.",
+    "Context Precision": 7.36,
+    "Context Recall": 6.205463886657031,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 6.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "What form does Renji\u2019s Zanpakut\u014d spirit take?",
+    "Ground Truth Answer": "Zabimaru, Renji\u2019s Zanpakut\u014d spirit, usually manifests as a large baboon with a snake as a tail (reflecting the baboon-snake motif of the sword).",
+    "Context Precision": 5.62,
+    "Context Recall": 5.974185061711137,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 7.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What noble rank does Byakuya Kuchiki hold in Soul Society?",
+    "Ground Truth Answer": "Byakuya Kuchiki is the 28th Head of the Kuchiki Clan, which is one of the four great noble houses of Soul Society.",
+    "Context Precision": 6.46,
+    "Context Recall": 6.056216872068622,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 6.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "Which division does Byakuya lead, and who is his lieutenant?",
+    "Ground Truth Answer": "Byakuya is the Captain of the 6th Division in the Gotei 13. His lieutenant was once Ginjir\u014d Shirogane (retired), and currently Renji Abarai serves as his lieutenant.",
+    "Context Precision": 5.83,
+    "Context Recall": 6.081198883611102,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 8.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What are the names of Byakuya Kuchiki\u2019s Shikai and Bankai?",
+    "Ground Truth Answer": "Byakuya\u2019s Zanpakut\u014d is called Senbonzakura. Its Bankai is Senbonzakura Kageyoshi, which scatters into countless petal-like blades.",
+    "Context Precision": 6.97,
+    "Context Recall": 5.957797155322798,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 6.0,
+    "Retrieval Precision (llm)": 7.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "Who is Byakuya Kuchiki\u2019s adoptive sister?",
+    "Ground Truth Answer": "Rukia Kuchiki is Byakuya\u2019s adopted younger sister (she was adopted into the Kuchiki family by Byakuya).",
+    "Context Precision": 6.69,
+    "Context Recall": 6.100760221481323,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 6.0,
+    "Retrieval Precision (llm)": 7.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What does the title \u201cKenpachi\u201d signify, which Zaraki carries?",
+    "Ground Truth Answer": "\u201cKenpachi\u201d is a title given to the strongest Shinigami warrior of a generation. Kenpachi Zaraki is the eleventh person to hold that title.",
+    "Context Precision": 5.69,
+    "Context Recall": 6.127082782971283,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "Which Gotei 13 division is Kenpachi Zaraki the captain of?",
+    "Ground Truth Answer": "Kenpachi Zaraki is the Captain of the 11th Division of the Gotei 13.",
+    "Context Precision": 6.82,
+    "Context Recall": 5.9730112710535925,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 7.0,
+    "Retrieval Precision (llm)": 7.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "How does Kenpachi typically fight with regard to his Zanpakut\u014d\u2019s state?",
+    "Ground Truth Answer": "Zaraki typically fights without ever releasing his Zanpakut\u014d (for most of the story he doesn\u2019t even know its name), effectively using it in a constant unreleased state relying purely on his raw power.",
+    "Context Precision": 6.76,
+    "Context Recall": 6.025750765647555,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 8.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 9.0
+  },
+  {
+    "query": "What is the purpose of the eyepatch Kenpachi wears?",
+    "Ground Truth Answer": "Kenpachi wears a special eyepatch created by the 12th Division that actively devours his spiritual power \u2013 this handicaps him by sealing away a large portion of his power so that fights last longer and are more \u201cenjoyable\u201d for him.",
+    "Context Precision": 7.34,
+    "Context Recall": 6.218008838135219,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 8.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 2.0
+  },
+  {
+    "query": "What happens when Kenpachi removes his eyepatch during battle?",
+    "Ground Truth Answer": "When Kenpachi removes his eyepatch, the vast well of spiritual pressure that was being suppressed erupts out, dramatically increasing his power and reiatsu to its full, overwhelming level.",
+    "Context Precision": 5.97,
+    "Context Recall": 5.708717442781498,
+    "Context Precision (llm)": 10.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "Who is often seen on Kenpachi Zaraki\u2019s shoulder?",
+    "Ground Truth Answer": "Yachiru Kusajishi (Kenpachi\u2019s pink-haired lieutenant) is often seen perched on his shoulder, cheerfully hanging on as he moves around.",
+    "Context Precision": 6.57,
+    "Context Recall": 5.4000436852437375,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "Which formidable Soul Reaper did Kenpachi have to fight and overcome as part of his growth in the final arc?",
+    "Ground Truth Answer": "In the Thousand-Year Blood War arc, Kenpachi fought Retsu Unohana (the first Kenpachi) in a deadly battle. Through this battle to the death, he unlocked his true strength and learned his Zanpakut\u014d\u2019s name.",
+    "Context Precision": 5.69,
+    "Context Recall": 6.024246948179432,
+    "Context Precision (llm)": 0.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 9.0
+  },
+  {
+    "query": "Who becomes the Head Captain after the death of Genry\u016bsai Yamamoto?",
+    "Ground Truth Answer": "Shunsui Ky\u014draku (previously the Captain of Squad 8) is promoted to become the new Captain-Commander (Head Captain) of the Gotei 13 after Yamamoto\u2019s death.",
+    "Context Precision": 6.67,
+    "Context Recall": 5.947132162503652,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 9.0
+  },
+  {
+    "query": "What is the name of Shunsui Ky\u014draku\u2019s Zanpakut\u014d?",
+    "Ground Truth Answer": "Shunsui Ky\u014draku\u2019s Zanpakut\u014d is called Katen Ky\u014dkotsu, which takes the form of a pair of twin swords.",
+    "Context Precision": 7.68,
+    "Context Recall": 5.932361562373274,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "What is Shunsui\u2019s signature clothing accessory?",
+    "Ground Truth Answer": "Captain Shunsui is known for his casual, flamboyant attire \u2013 he wears a straw hat (sakkat) and a pink, flower-patterned kimono draped over his uniform.",
+    "Context Precision": 6.88,
+    "Context Recall": 5.7091785343618335,
+    "Context Precision (llm)": 6.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "What secret identity did Retsu Unohana hold?",
+    "Ground Truth Answer": "Retsu Unohana was secretly the very first Kenpachi \u2013 known in the past as Yachiru Unohana \u2013 famed for her deadly sword skill.",
+    "Context Precision": 5.81,
+    "Context Recall": 5.887343988503633,
+    "Context Precision (llm)": 7.0,
+    "Context Recall (llm)": 10.0,
+    "Retrieval Precision (llm)": 2.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "Which division did Retsu Unohana captain?",
+    "Ground Truth Answer": "Unohana was the Captain of the 4th Division, which is the medical/supply division of the Gotei 13.",
+    "Context Precision": 5.58,
+    "Context Recall": 5.770748681363679,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 8.0,
+    "Retrieval Precision (llm)": 3.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What is the name of Unohana\u2019s Zanpakut\u014d?",
+    "Ground Truth Answer": "Unohana\u2019s Zanpakut\u014d is called Minazuki. In Shikai, Minazuki takes the form of a giant manta-ray-like creature that can heal people by swallowing them; in Bankai, Minazuki\u2019s form and powers are terrifying, involving a corrosive blood-like substance.",
+    "Context Precision": 6.69,
+    "Context Recall": 6.2428941914778635,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 7.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "What distinction does T\u014dshir\u014d Hitsugaya hold among the captains?",
+    "Ground Truth Answer": "T\u014dshir\u014d Hitsugaya is noted for being the youngest Shinigami in generations to become a captain in the Gotei 13.",
+    "Context Precision": 6.99,
+    "Context Recall": 5.777287428799202,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 7.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What is the name of T\u014dshir\u014d Hitsugaya\u2019s Zanpakut\u014d?",
+    "Ground Truth Answer": "Hitsugaya\u2019s Zanpakut\u014d is called Hy\u014drinmaru, widely regarded as the most powerful ice-type Zanpakut\u014d.",
+    "Context Precision": 6.47,
+    "Context Recall": 5.853950836205409,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 7.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 2.0
+  },
+  {
+    "query": "Who serves as Hitsugaya\u2019s lieutenant in the 10th Division?",
+    "Ground Truth Answer": "Rangiku Matsumoto is T\u014dshir\u014d Hitsugaya\u2019s lieutenant in the 10th Division.",
+    "Context Precision": 6.95,
+    "Context Recall": 5.724980271102598,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 8.0,
+    "Retrieval Precision (llm)": 7.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "Which Espada held the rank of Primera (1st Espada)?",
+    "Ground Truth Answer": "Coyote Starrk was the Primera Espada (Espada #1) in Aizen\u2019s Arrancar army.",
+    "Context Precision": 5.4,
+    "Context Recall": 5.602931147865117,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What aspect of death did Coyote Starrk represent?",
+    "Ground Truth Answer": "Starrk\u2019s aspect of death was \u201cSolitude\u201d (Loneliness) \u2013 he personified loneliness as a cause of death.",
+    "Context Precision": 6.45,
+    "Context Recall": 5.332928690086885,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 9.0
+  },
+  {
+    "query": "Who was the Segunda Espada and what was his aspect of death?",
+    "Ground Truth Answer": "Baraggan Louisenbairn was the Segunda (2nd) Espada. He represented the aspect of death \u201cSenescence,\u201d or the inevitability of aging (old age).",
+    "Context Precision": 6.83,
+    "Context Recall": 5.91700403205244,
+    "Context Precision (llm)": 7.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "Which rank and aspect of death did Tier Harribel embody among the Espada?",
+    "Ground Truth Answer": "Tier Harribel was the Tercera (3rd) Espada. The aspect of death she represented was \u201cSacrifice.\u201d",
+    "Context Precision": 5.45,
+    "Context Recall": 5.82418141907151,
+    "Context Precision (llm)": 7.0,
+    "Context Recall (llm)": 8.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 2.0
+  },
+  {
+    "query": "What position did Ulquiorra Cifer hold and what concept did he represent?",
+    "Ground Truth Answer": "Ulquiorra Cifer was the Cuatro Espada (#4). He embodied \u201cNihility\u201d (Nothingness) as his aspect of death, reflecting emptiness and despair.",
+    "Context Precision": 5.2,
+    "Context Recall": 5.748014077472226,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 3.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 1.0
+  },
+  {
+    "query": "Who was the 5th Espada and what aspect of death did he personify?",
+    "Ground Truth Answer": "Nnoitra Gilga was the 5th Espada, and he personified \u201cDespair\u201d as the aspect of death.",
+    "Context Precision": 5.77,
+    "Context Recall": 5.610044512993251,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What rank was Grimmjow Jaegerjaquez among the Espada?",
+    "Ground Truth Answer": "Grimmjow Jaegerjaquez was the Sexta Espada, which means he was #6 in the Espada ranks.",
+    "Context Precision": 6.14,
+    "Context Recall": 5.817096871456324,
+    "Context Precision (llm)": 7.0,
+    "Context Recall (llm)": 8.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 1.0
+  },
+  {
+    "query": "What aspect of death is associated with Grimmjow Jaegerjaquez?",
+    "Ground Truth Answer": "Grimmjow\u2019s aspect of death is \u201cDestruction.\u201d",
+    "Context Precision": 6.29,
+    "Context Recall": 5.331346257527669,
+    "Context Precision (llm)": 2.0,
+    "Context Recall (llm)": 7.0,
+    "Retrieval Precision (llm)": 6.0,
+    "Negative Retrieval (llm)": 9.0
+  },
+  {
+    "query": "Which Espada represents the aspect of \u201cIntoxication\u201d?",
+    "Ground Truth Answer": "Zommari Rureaux, the S\u00e9ptima Espada (#7), represents the aspect of death known as \u201cIntoxication.\u201d",
+    "Context Precision": 7.21,
+    "Context Recall": 5.554492688052869,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 7.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "What is Szayelaporro Granz\u2019s Espada number and what aspect does he represent?",
+    "Ground Truth Answer": "Szayelaporro Granz was the Octava Espada (#8). His aspect of death is \u201cMadness.\u201d",
+    "Context Precision": 6.19,
+    "Context Recall": 5.644760075814086,
+    "Context Precision (llm)": 7.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 7.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "Who was the Noveno Espada and what made him unique among the Espada?",
+    "Ground Truth Answer": "Aaroniero Arruruerie was the 9th Espada (Noveno). Uniquely, he was the only Gillian-class Hollow among the Espada and he embodied the aspect of \u201cGreed.\u201d",
+    "Context Precision": 5.69,
+    "Context Recall": 5.944749579609166,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 2.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "Which Espada had the number 0 and how did this come about?",
+    "Ground Truth Answer": "Yammy Llargo, initially the 10th Espada, revealed upon releasing his Resurrecci\u00f3n (Ira) that his power increases with rage, making him Espada 0 (the strongest) when fully released.",
+    "Context Precision": 6.46,
+    "Context Recall": 5.670929293448065,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "What role does Jugram Haschwalth serve in Yhwach\u2019s army?",
+    "Ground Truth Answer": "Jugram Haschwalth is Yhwach\u2019s second-in-command. He is the Sternritter Grandmaster and often referred to as Yhwach\u2019s right-hand man in the Wandenreich.",
+    "Context Precision": 5.99,
+    "Context Recall": 6.044849773308425,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "What is Haschwalth\u2019s Schrift designation and its ability?",
+    "Ground Truth Answer": "Haschwalth\u2019s Schrift is \u201cB\u201d for \u201cThe Balance.\u201d His power allows him to redirect misfortune and good fortune \u2013 essentially balancing out luck by pushing misfortune onto his opponent while he receives the fortune.",
+    "Context Precision": 7.14,
+    "Context Recall": 5.901338933170706,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What letter and epithet was given to Bazz-B among the Sternritter?",
+    "Ground Truth Answer": "Bazz-B was designated with the letter \u201cH\u201d \u2013 his epithet was \u201cThe Heat,\u201d reflecting his fire-based abilities like the Burner Finger techniques.",
+    "Context Precision": 7.56,
+    "Context Recall": 5.5358856665782445,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "Which Sternritter is known as \u201cThe Miracle,\u201d and what is his power?",
+    "Ground Truth Answer": "Gerard Valkyrie bears the Schrift \u201cM\u201d for \u201cThe Miracle.\u201d His ability causes him to grow stronger and larger in proportion to the damage he receives \u2013 injuries are \u201cmiraculously\u201d turned into increases in his power or size.",
+    "Context Precision": 6.52,
+    "Context Recall": 6.131357342110085,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What ability does Askin Nakk Le Vaar\u2019s \u201cDeathdealing\u201d grant him?",
+    "Ground Truth Answer": "Askin\u2019s Schrift \u201cD\u201d (Deathdealing) lets him calculate the lethal dosage of any substance for a target. He can manipulate the potency of substances (like turning the concentration of blood or poison in someone fatal) making him immune to them while poisoning his enemies.",
+    "Context Precision": 6.81,
+    "Context Recall": 6.3703770390201555,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What is Lille Barro\u2019s unique power as the Sternritter \u201cX\u201d?",
+    "Ground Truth Answer": "Lille Barro\u2019s Schrift is \u201cX\u201d for \u201cThe X-Axis.\u201d His power allows him to shoot through anything (his rifle\u2019s shots ignore all defenses and obstacles) and eventually to become intangible/invisible in his final form.",
+    "Context Precision": 5.8,
+    "Context Recall": 6.219633387536118,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "Who is the leader of the Visored (ex-Captains with Hollow powers) and what was his former position?",
+    "Ground Truth Answer": "Shinji Hirako is the leader of the Visored. He was formerly the Captain of the 5th Division in the Gotei 13 before he was Hollowfied by Aizen\u2019s experiments.",
+    "Context Precision": 7.12,
+    "Context Recall": 6.22077370199099,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 9.0
+  },
+  {
+    "query": "Which Visored has a notably short temper and often bickers with Shinji?",
+    "Ground Truth Answer": "Hiyori Sarugaki, the former lieutenant of the 12th Division, is a Visored with a short temper who frequently snaps at Shinji.",
+    "Context Precision": 6.03,
+    "Context Recall": 5.67578299925746,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 6.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "Who was revealed to be the first Substitute Shinigami before Ichigo?",
+    "Ground Truth Answer": "K\u016bgo Ginj\u014d was revealed to have been the first Substitute Shinigami prior to Ichigo. He later became the leader of Xcution, the Fullbringer group.",
+    "Context Precision": 5.85,
+    "Context Recall": 6.086273010048051,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 8.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 9.0
+  },
+  {
+    "query": "What is Sh\u016bkur\u014d Tsukishima\u2019s Fullbring ability called, and what does it do?",
+    "Ground Truth Answer": "Tsukishima\u2019s Fullbring is called \u201cBook of the End.\u201d By cutting someone with his blade, he can insert himself into their past memories, altering their history from their perspective.",
+    "Context Precision": 7.74,
+    "Context Recall": 5.946620495106693,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 7.0,
+    "Negative Retrieval (llm)": 3.0
+  },
+  {
+    "query": "Under whom did Moe Shishigawara serve as an underling?",
+    "Ground Truth Answer": "Moe Shishigawara was a loyal underling working for Sh\u016bkur\u014d Tsukishima during the Fullbring arc.",
+    "Context Precision": 5.64,
+    "Context Recall": 5.705379293736629,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 8.0,
+    "Retrieval Precision (llm)": 6.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "What is the name of Moe Shishigawara\u2019s Fullbring?",
+    "Ground Truth Answer": "Moe Shishigawara\u2019s Fullbring is called \u201cJackpot Knuckle,\u201d which manipulates luck in his punches (sometimes causing massive damage by \u2018hitting the jackpot\u2019).",
+    "Context Precision": 6.3,
+    "Context Recall": 5.902260072303541,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 4.0
+  },
+  {
+    "query": "What ability does Riruka Dokugamine\u2019s Fullbring give her?",
+    "Ground Truth Answer": "Riruka\u2019s Fullbring \u201cDollhouse\u201d allows her to trap objects (or people) that she finds cute into other objects (like literally placing a person inside a toy house).",
+    "Context Precision": 6.19,
+    "Context Recall": 5.993849104425043,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 7.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What is the name of Yukio\u2019s Fullbring and its effect?",
+    "Ground Truth Answer": "Yukio Hans Vorarlberna\u2019s Fullbring is called \u201cInvaders Must Die.\u201d It lets him create a video game dimension; he can draw others into a game space that he controls using his handheld console.",
+    "Context Precision": 6.41,
+    "Context Recall": 6.132090278193982,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 7.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "Who are Ichigo Kurosaki\u2019s siblings?",
+    "Ground Truth Answer": "Ichigo\u2019s siblings are his twin sisters, Yuzu Kurosaki (the older twin) and Karin Kurosaki (the younger twin).",
+    "Context Precision": 5.41,
+    "Context Recall": 5.712416284133158,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 3.0
+  },
+  {
+    "query": "Which of Ichigo\u2019s friends at school is known for being comedic and energetic?",
+    "Ground Truth Answer": "Keigo Asano, one of Ichigo\u2019s classmates, is known for his goofy, energetic personality and often provides comic relief.",
+    "Context Precision": 5.66,
+    "Context Recall": 5.786696388271042,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 2.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "Who is Ichigo\u2019s childhood friend who is a karate champion?",
+    "Ground Truth Answer": "Tatsuki Arisawa is Ichigo\u2019s childhood friend and a karate champion. She\u2019s a close friend of Orihime as well.",
+    "Context Precision": 5.52,
+    "Context Recall": 5.9522309475277195,
+    "Context Precision (llm)": 6.0,
+    "Context Recall (llm)": 8.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "What position did Kisuke Urahara hold in Soul Society before living in the human world?",
+    "Ground Truth Answer": "Kisuke Urahara was the Captain of the 12th Division and also the founder & first President of the Shinigami Research and Development Institute before he left Soul Society.",
+    "Context Precision": 7.01,
+    "Context Recall": 5.827891778875176,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 3.0,
+    "Negative Retrieval (llm)": 9.0
+  },
+  {
+    "query": "What is the name of Urahara\u2019s shop in Karakura Town?",
+    "Ground Truth Answer": "Kisuke Urahara runs the \"Urahara Shop,\" a small convenience store (which is actually a front for his operations) in Karakura Town.",
+    "Context Precision": 5.46,
+    "Context Recall": 5.835541679252008,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 7.0,
+    "Negative Retrieval (llm)": 9.0
+  },
+  {
+    "query": "Who are the employees or assistants that work at the Urahara Shop with Kisuke?",
+    "Ground Truth Answer": "At the Urahara Shop, Kisuke is assisted by Tessai Tsukabishi (his burly assistant) and two kids, Jinta Hanakari and Ururu Tsumugiya.",
+    "Context Precision": 6.84,
+    "Context Recall": 5.76197568816368,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 6.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What is the name of Kisuke Urahara\u2019s Zanpakut\u014d and one of its abilities?",
+    "Ground Truth Answer": "Urahara\u2019s Zanpakut\u014d is called Benihime (\"Crimson Princess\"). One notable ability of Benihime\u2019s Shikai is \u201cBlood Mist Shield\u201d (Chikasumi no Tate), a defensive blood-colored energy barrier; it can also fire energy blasts with commands like \"Sing, Benihime\".",
+    "Context Precision": 7.34,
+    "Context Recall": 6.308733433302194,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 7.0,
+    "Retrieval Precision (llm)": 6.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "How did Kisuke Urahara help restore Ichigo\u2019s Soul Reaper powers during the Fullbringer arc?",
+    "Ground Truth Answer": "Urahara collaborated with Rukia Kuchiki and the Gotei 13 to forge a special sword with the combined reiatsu of several captains and lieutenants. Rukia stabbed Ichigo with this sword, which acted as a Reiatsu injection to restore Ichigo\u2019s Shinigami powers.",
+    "Context Precision": 6.22,
+    "Context Recall": 6.079465761923395,
+    "Context Precision (llm)": 2.0,
+    "Context Recall (llm)": 7.0,
+    "Retrieval Precision (llm)": 7.0,
+    "Negative Retrieval (llm)": 9.0
+  },
+  {
+    "query": "What is Ichigo Kurosaki's Zanpakuto called?",
+    "Ground Truth Answer": "Zangetsu.",
+    "Context Precision": 6.85,
+    "Context Recall": 5.370506844600709,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 4.0
+  },
+  {
+    "query": "Who is the captain of the 6th Division in the Gotei 13?",
+    "Ground Truth Answer": "Byakuya Kuchiki.",
+    "Context Precision": 6.74,
+    "Context Recall": 5.506332325248887,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 10.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 9.0
+  },
+  {
+    "query": "Which Espada number does Grimmjow Jaegerjaquez hold?",
+    "Ground Truth Answer": "Number 6.",
+    "Context Precision": 5.69,
+    "Context Recall": 5.139094272220533,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 7.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "Who is Orihime Inoue's older brother?",
+    "Ground Truth Answer": "Sora Inoue.",
+    "Context Precision": 7.59,
+    "Context Recall": 5.433899292987281,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 8.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What is the name of Rukia Kuchiki's Zanpakuto?",
+    "Ground Truth Answer": "Sode no Shirayuki.",
+    "Context Precision": 6.4,
+    "Context Recall": 5.418893437127809,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "Which character can manipulate time, space, and gravity with their Zanpakuto?",
+    "Ground Truth Answer": "Sosuke Aizen.",
+    "Context Precision": 6.1,
+    "Context Recall": 5.130861202875773,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What is the full name of Uryu Ishida's father?",
+    "Ground Truth Answer": "Ryuken Ishida.",
+    "Context Precision": 6.6,
+    "Context Recall": 5.497321400556479,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 7.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 9.0
+  },
+  {
+    "query": "Who is the main antagonist during the Soul Society arc?",
+    "Ground Truth Answer": "Sosuke Aizen.",
+    "Context Precision": 6.34,
+    "Context Recall": 5.224716862042745,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 10.0,
+    "Retrieval Precision (llm)": 4.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "What is Yoruichi Shihouin's animal transformation form?",
+    "Ground Truth Answer": "A black cat.",
+    "Context Precision": 7.23,
+    "Context Recall": 5.265663220332219,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "Who is known as the \"Kenpachi\" of the 11th Division during Ichigo's first visit to Soul Society?",
+    "Ground Truth Answer": "Kenpachi Zaraki.",
+    "Context Precision": 6.22,
+    "Context Recall": 5.1961614688237505,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 7.0
+  },
+  {
+    "query": "Who is the younger sister of Byakuya Kuchiki?",
+    "Ground Truth Answer": "Hisana Kuchiki (deceased).",
+    "Context Precision": 5.64,
+    "Context Recall": 5.361409718707456,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 1.0,
+    "Retrieval Precision (llm)": 6.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "What is the name of Renji Abarai's Zanpakuto?",
+    "Ground Truth Answer": "Zabimaru.",
+    "Context Precision": 6.96,
+    "Context Recall": 5.346538213477738,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 10.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "Which Quincy technique is used by Uryu Ishida to gather spirit particles?",
+    "Ground Truth Answer": "Ransotengai.",
+    "Context Precision": 6.37,
+    "Context Recall": 5.073801279067993,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "What is Toshiro Hitsugaya's Bankai called?",
+    "Ground Truth Answer": "Daiguren Hyorinmaru.",
+    "Context Precision": 6.19,
+    "Context Recall": 5.340862325114062,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "Who serves as the Lieutenant of the 10th Division under Hitsugaya?",
+    "Ground Truth Answer": "Rangiku Matsumoto.",
+    "Context Precision": 6.46,
+    "Context Recall": 5.359281638271701,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 9.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 8.0
+  },
+  {
+    "query": "Which Espada has a split personality manifesting as two entities?",
+    "Ground Truth Answer": "Szayelaporro Granz.",
+    "Context Precision": 6.71,
+    "Context Recall": 5.168637793395522,
+    "Context Precision (llm)": 6.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 4.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "What are the names of Ichigo's younger sisters?",
+    "Ground Truth Answer": "Karin and Yuzu Kurosaki.",
+    "Context Precision": 5.43,
+    "Context Recall": 5.402491189048675,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 7.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 3.0
+  },
+  {
+    "query": "Who is the original wielder of the Quincy powers in the series?",
+    "Ground Truth Answer": "Yhwach.",
+    "Context Precision": 6.27,
+    "Context Recall": 5.504189780634692,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 0.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "Which character has a pet bird named \"Shinjiro\"?",
+    "Ground Truth Answer": "Jinta Hanakari.",
+    "Context Precision": 6.88,
+    "Context Recall": 5.111651420593262,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "Who was the previous captain of the 12th Division before Mayuri Kurotsuchi?",
+    "Ground Truth Answer": "Kisuke Urahara.",
+    "Context Precision": 5.77,
+    "Context Recall": 5.408470416481876,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 9.0
+  },
+  {
+    "query": "What is Kenpachi Zaraki's lieutenant's name?",
+    "Ground Truth Answer": "Yachiru Kusajishi.",
+    "Context Precision": 6.28,
+    "Context Recall": 5.252321052224668,
+    "Context Precision (llm)": 6.0,
+    "Context Recall (llm)": 7.0,
+    "Retrieval Precision (llm)": 6.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "Who kills Coyote Starrk, the Primera Espada?",
+    "Ground Truth Answer": "Shunsui Kyoraku.",
+    "Context Precision": 5.58,
+    "Context Recall": 5.270803639792945,
+    "Context Precision (llm)": 2.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 5.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "What is the name of Aizen's Hollow transformation technique?",
+    "Ground Truth Answer": "Hogyoku Fusion.",
+    "Context Precision": 5.75,
+    "Context Recall": 5.467071135838826,
+    "Context Precision (llm)": 7.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 9.0
+  },
+  {
+    "query": "Who is the leader of the Visoreds?",
+    "Ground Truth Answer": "Shinji Hirako.",
+    "Context Precision": 6.41,
+    "Context Recall": 5.429293494815975,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 9.0,
+    "Negative Retrieval (llm)": 2.0
+  },
+  {
+    "query": "Which character has the ability to manipulate luck with their Fullbring power?",
+    "Ground Truth Answer": "Tsukishima Shukuro.",
+    "Context Precision": 5.9,
+    "Context Recall": 5.221593640359045,
+    "Context Precision (llm)": 8.0,
+    "Context Recall (llm)": 5.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 6.0
+  },
+  {
+    "query": "Who serves as the Gate Guardian of the Seireitei?",
+    "Ground Truth Answer": "Jidanbo Ikkanzaka.",
+    "Context Precision": 7.52,
+    "Context Recall": 5.259926992799536,
+    "Context Precision (llm)": 5.0,
+    "Context Recall (llm)": 10.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 5.0
+  },
+  {
+    "query": "What is the favorite food of Rukia Kuchiki?",
+    "Ground Truth Answer": "Rabbit-shaped mochi.",
+    "Context Precision": 6.29,
+    "Context Recall": 5.255658607251249,
+    "Context Precision (llm)": 9.0,
+    "Context Recall (llm)": 3.0,
+    "Retrieval Precision (llm)": 8.0,
+    "Negative Retrieval (llm)": 8.0
   }
 ]

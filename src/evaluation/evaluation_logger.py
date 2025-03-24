@@ -1,13 +1,19 @@
 import json
 import csv
 import os
+import pandas as pd
+from openpyxl import load_workbook
+import logging
+from log_manager import setup_logger
 
 class EvaluationLogger:
-    def __init__(self, eval_type="retrieval", json_path=None, csv_path=None):
+    def __init__(self, eval_type="retrieval", json_path=None, excel_path=None):
         self.eval_type = eval_type.lower()
         self.json_path = json_path if json_path else f"data/{self.eval_type}_evaluation.json"
-        self.csv_path = csv_path if csv_path else f"data/{self.eval_type}_evaluation.csv"
-
+        # self.csv_path = csv_path if csv_path else f"data/{self.eval_type}_evaluation.csv"
+        self.excel_path = excel_path or f"data/{self.eval_type}_evaluation.xlsx"
+        self.logger = setup_logger(f"logs/{self.eval_type}_process.log")
+        
     def log(self, data):
         """Logs data to JSON only."""
         self.log_to_json(data)
@@ -123,3 +129,34 @@ class EvaluationLogger:
                 except json.JSONDecodeError:
                     return None
         return None
+    
+    def log_to_excel(self):
+        """Converts JSON log into Excel (one-time batch process)."""
+        if not os.path.exists(self.json_path):
+            self.log_to_process_file("No JSON data found for writing to Excel.")
+            return
+
+        with open(self.json_path, "r") as f:
+            try:
+                data = json.load(f)
+            except json.JSONDecodeError:
+                self.log_to_process_file("Failed to parse JSON data.")
+                return
+
+        df = pd.DataFrame(data)   # Flatten nested JSON properly
+        
+        # Ensure the correct order of columns: 'query' first, then 'ground_truth_answer', followed by others
+        # column_order = ['query', 'ground_truth_answer'] + [col for col in df.columns if col not in ['query', 'ground_truth_answer']]
+        # df = df[column_order]
+
+        if os.path.exists(self.excel_path):
+            with pd.ExcelWriter(self.excel_path, mode="a", engine="openpyxl", if_sheet_exists="overlay") as writer:
+                df.to_excel(writer, index=False, sheet_name="EvaluationResults")
+        else:
+            df.to_excel(self.excel_path, index=False, sheet_name="EvaluationResults")
+
+        self.log_to_process_file("Successfully wrote evaluation results to Excel.")
+
+    def log_to_process_file(self, message):
+        """Writes logs tracking evaluation status."""
+        self.logger.info(f"{message}\n")
