@@ -47,7 +47,7 @@ class EvaluationModel:
 
 
 class LMStudioEvaluationModel:
-    def __init__(self, api_url="http://192.168.1.6:1235/v1/chat/completions"):
+    def __init__(self, api_url="http://127.0.0.1:1234/v1/chat/completions"):
         self.api_url = api_url
         # self.model = model
 
@@ -61,7 +61,7 @@ class LMStudioEvaluationModel:
 
         for attempt in range(retries):
             try:
-                response = requests.post(self.api_url, json=payload, timeout=10)
+                response = requests.post(self.api_url, json=payload)
                 if response.status_code == 200:
                     content = response.json()['choices'][0]['message']['content'].strip()
                     logger.info("[LMStudio] Prompt succeeded.")

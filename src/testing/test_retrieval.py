@@ -13,7 +13,7 @@ logger = EvaluationLogger(eval_type="retrieval")
 # Initialize retriever, generator, and evaluator
 retriever = Retriever()
 generator = Generator()
-evaluation_model = LMStudioEvaluationModel("http://10.99.22.156:1235/v1/chat/completions")
+evaluation_model = LMStudioEvaluationModel("http://127.0.0.1:1234/v1/chat/completions")
 retrieval_eval = RetrievalEvaluator(retriever, generator,evaluation_model)
 
 # Load Ground Truth QnA

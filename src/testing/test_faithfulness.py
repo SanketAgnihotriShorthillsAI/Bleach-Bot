@@ -2,7 +2,6 @@ import json
 from pipeline.retriever import Retriever  # Adjusted import as per your retrieval.py
 from pipeline.generator import Generator  # Using your custom LLM class
 from evaluation.faithfulness_evaluation import FaithfulnessEvaluator  # Adjusted for your refactored module
-import logging
 from log_manager import setup_logger
 from evaluation.evaluation_model import LMStudioEvaluationModel
 
@@ -11,7 +10,7 @@ logger = setup_logger("logs/test_faithfulness.log")
 # ✅ Initialize retriever, generator, and evaluator
 retriever = Retriever()
 generator = Generator()
-evaluation_model = LMStudioEvaluationModel()
+evaluation_model = LMStudioEvaluationModel("http://localhost:1234/v1/chat/completions")
 faithfulness_eval = FaithfulnessEvaluator(retriever, generator, evaluation_model)
 
 # ✅ Load Ground Truth QnA from Bleach Wiki
@@ -42,7 +41,7 @@ for i, qna in enumerate(ground_truth_qna):
     result_data = {
         "query": query,
         "ground_truth_answer": ground_truth_answer,
-        "generated_answer": faithfulness_eval.generator.generate_answer(retrieved_chunks, []),
+        "generated_answer": faithfulness_eval.generator.generate_answer(query, retrieved_chunks),
         "answer_chunk_similarity": answer_similarity,
         "faithful_coverage": faithful_coverage,
         # "negative_faithfulness": negative_faithfulness,

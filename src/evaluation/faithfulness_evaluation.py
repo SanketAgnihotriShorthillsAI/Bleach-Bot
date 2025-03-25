@@ -123,7 +123,7 @@ class FaithfulnessEvaluator:
         Respond with a single numeric score (no extra text).
         """
         try:
-            response = self.evaluation_method.evaluate(prompt, retrieved_chunks)
+            response = self.evaluation_method.evaluate(prompt)
             return self._parse_llm_score(response)
         except Exception as e:
             print(f"⚠️ Error in LLM Call: {e} - Key exhausted.")
@@ -156,7 +156,7 @@ class FaithfulnessEvaluator:
         """
         try:
             response = self.evaluation_method.evaluate(prompt)
-            print(f"🔹 LLM Response for Faithful Coverage: '{response.text}'")
+            print(f"🔹 LLM Response for Faithful Coverage: '{response}'")
             return self._parse_llm_score(response)
         except Exception as e:
             print(f"⚠️ Error in LLM Call: {e} - Key exhausted.")
