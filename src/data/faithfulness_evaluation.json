@@ -3769,5 +3769,3389 @@
     "faithful_coverage": 4.705882352941177,
     "faithfulness_score_llm": 9.0,
     "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "What is the name of the Zanpakuto spirit that appears as a snake?",
+    "ground_truth_answer": "Zabimaru, Renji Abarai\u2019s Zanpakuto, has a snake-like spirit.",
+    "generated_answer": "Zabimaru\n",
+    "answer_chunk_similarity": 7.786113023757935,
+    "faithful_coverage": 1.8181818181818183,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Which character can transform into a cat at will?",
+    "ground_truth_answer": "Yoruichi Shihouin can transform into a black cat.",
+    "generated_answer": "Yoruichi Shih\u014din.\n",
+    "answer_chunk_similarity": 8.070192337036133,
+    "faithful_coverage": 1.8181818181818183,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of the gatekeeper of the Seireitei who guards the West Gate?",
+    "ground_truth_answer": "Jidanb\u014d Ikkanzaka is the gatekeeper of the West Gate.",
+    "generated_answer": "Jidanb\u014d Ikkanzaka\n",
+    "answer_chunk_similarity": 7.803187966346741,
+    "faithful_coverage": 3.636363636363636,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What technique does Shunsui Ky\u014draku use that creates a children's game scenario in battle?",
+    "ground_truth_answer": "His Shikai, Katen Ky\u014dkotsu, creates game-based reality.",
+    "generated_answer": "Shunsui Ky\u014draku uses several techniques based on children's games.  His special move, Kagome Kagome, is based on the Japanese children's game of the same name.  Another technique is based on the game Daruma-san ga Koronda, similar to red-light green-light.  A third technique, Yubikiri, is based on the Japanese version of a pinky swear.\n",
+    "answer_chunk_similarity": 7.799370288848877,
+    "faithful_coverage": 0.9090909090909092,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who became the leader of Hueco Mundo after Aizen's defeat?",
+    "ground_truth_answer": "Tier Harribel became the ruler of Hueco Mundo.",
+    "generated_answer": "Tier Harribel became the de facto ruler of Hueco Mundo after Aizen's defeat and the deaths of Baraggan and Starrk.\n",
+    "answer_chunk_similarity": 7.307864427566528,
+    "faithful_coverage": 5.517241379310345,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "What is the name of Uryu Ishida's primary weapon as a Quincy?",
+    "ground_truth_answer": "Uryu's primary weapon is his spirit bow, Ginrei Kojaku.",
+    "generated_answer": "Based on the provided text, Ury\u016b Ishida's primary weapon is his bow and Heilig Pfeil (arrows).\n",
+    "answer_chunk_similarity": 8.16759467124939,
+    "faithful_coverage": 1.4285714285714288,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Which character has a fear of ghosts despite being a Shinigami?",
+    "ground_truth_answer": "Ichigo Kurosaki ironically has a fear of ghosts.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 0.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Which character achieved Bankai in the shortest amount of time recorded?",
+    "ground_truth_answer": "Ichigo Kurosaki achieved Bankai in just three days.",
+    "generated_answer": "Ichigo Kurosaki and Zangetsu achieved Bankai in two days using Kisuke Urahara's invention.\n",
+    "answer_chunk_similarity": 7.582260370254517,
+    "faithful_coverage": 5.454545454545454,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What was the purpose of the Bount arc in the anime adaptation of Bleach?",
+    "ground_truth_answer": "The Bount arc served as a filler storyline, expanding the anime\u2019s lore.",
+    "generated_answer": "The provided text focuses on the origins and history of the Bount, explaining their creation, conflicts with Quincy and Shinigami, and persecution by humans.  It does not, however, state the purpose of the Bount arc within the Bleach anime adaptation.  Therefore, I don't know.\n",
+    "answer_chunk_similarity": 8.070914149284363,
+    "faithful_coverage": 2.439024390243903,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who is the Vice-Captain of the 10th Division under Hitsugaya?",
+    "ground_truth_answer": "Rangiku Matsumoto serves as the Vice-Captain of the 10th Division.",
+    "generated_answer": "Rangiku Matsumoto is Hitsugaya's lieutenant.  The provided text refers to her as his \"free-spirited lieutenant\".\n",
+    "answer_chunk_similarity": 7.485271692276001,
+    "faithful_coverage": 3.0769230769230766,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 7.0
+  },
+  {
+    "query": "Who was the first to defeat an Espada in combat?",
+    "ground_truth_answer": "Rukia Kuchiki defeated Aaroniero Arruruerie, the 9th Espada.",
+    "generated_answer": "I don't know.  The provided text describes battles between Espada members and mentions victories for Nel, but doesn't state who first defeated an Espada in combat against an outside force.\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 1.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who was the first character to achieve Vasto Lorde level in the series?",
+    "ground_truth_answer": "Ulquiorra Cifer reached the Vasto Lorde level.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.149709105491638,
+    "faithful_coverage": 1.875,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "Which character is known for having a comically large hammer in the World of the Living?",
+    "ground_truth_answer": "Don Kanonji uses a comically large spirit hammer.",
+    "generated_answer": "Ayon is known for having a comically large hammer (El Martillo) when enraged.\n",
+    "answer_chunk_similarity": 7.459081411361694,
+    "faithful_coverage": 4.210526315789474,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "What does the term \"Arrancar\" mean in Bleach?",
+    "ground_truth_answer": "Arrancar are Hollows who have removed their masks to gain Shinigami-like powers.",
+    "generated_answer": "I don't know.  The provided text describes Arrancar and their characteristics, but doesn't define the word's meaning.\n",
+    "answer_chunk_similarity": 8.00730586051941,
+    "faithful_coverage": 1.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the title of the individual responsible for maintaining balance between the worlds?",
+    "ground_truth_answer": "The Soul King maintains the balance between the worlds.",
+    "generated_answer": "The Soul King is the individual responsible for maintaining balance between the worlds.\n",
+    "answer_chunk_similarity": 7.775328755378723,
+    "faithful_coverage": 5.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "What is the name of Yhwach's castle in the Soul King Palace?",
+    "ground_truth_answer": "Yhwach's castle is known as the Wahrwelt.",
+    "generated_answer": "I don't know.  The provided text mentions Yhwach arriving at the Soul King Palace and using its pillars to create steps, but it doesn't mention him having a castle there.\n",
+    "answer_chunk_similarity": 8.093042373657227,
+    "faithful_coverage": 0.975609756097561,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of Ichigo Kurosaki's Hollow form?",
+    "ground_truth_answer": "Ichigo's Hollow form is often referred to as \"Hollow Ichigo\" or \"White.\"",
+    "generated_answer": "The provided text refers to Ichigo's \"inner Hollow,\"  his \"merged Hollow form,\" and a \"new Hollow form\" he gained after his Zanpakut\u014d was reforged, but it does not give any specific names for these forms.\n",
+    "answer_chunk_similarity": 7.806813716888428,
+    "faithful_coverage": 2.2222222222222223,
+    "faithfulness_score_llm": 7.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Which Espada embodies the aspect of death \"Solitude\"?",
+    "ground_truth_answer": "Coyote Starrk embodies the aspect of \"Solitude.\"",
+    "generated_answer": "Coyote Starrk embodies the aspect of death \"Solitude\".\n",
+    "answer_chunk_similarity": 7.3912835121154785,
+    "faithful_coverage": 9.333333333333334,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who founded the Shinigami Research and Development Institute?",
+    "ground_truth_answer": "Kisuke Urahara founded the institute.",
+    "generated_answer": "Kisuke Urahara founded the Shinigami Research and Development Institute.\n",
+    "answer_chunk_similarity": 7.610929012298584,
+    "faithful_coverage": 7.142857142857143,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Which character can create and manipulate ice and snow using their Zanpakuto?",
+    "ground_truth_answer": "T\u014dshir\u014d Hitsugaya uses Hy\u014drinmaru to manipulate ice.",
+    "generated_answer": "T\u014dshir\u014d Hitsugaya can create and manipulate ice and snow using his Zanpakut\u014d, Hy\u014drinmaru.\n",
+    "answer_chunk_similarity": 7.744170427322388,
+    "faithful_coverage": 4.117647058823529,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Which captain has the nickname \"Kenpachi\"?",
+    "ground_truth_answer": "Kenpachi Zaraki holds the title \"Kenpachi,\" symbolizing the strongest warrior.",
+    "generated_answer": "Based on the provided text, Kenpachi Kiganj\u014d, Kenpachi Kuruyashiki, and Kenpachi Zaraki all have the nickname \"Kenpachi\".\n",
+    "answer_chunk_similarity": 7.500364780426025,
+    "faithful_coverage": 2.9629629629629632,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of Rukia Kuchiki's Bankai?",
+    "ground_truth_answer": "Rukia's Bankai is called Hakka no Togame.",
+    "generated_answer": "Hakka no Togame (\u767d\u971e\u7f78, Censure of the White Haze; Viz \"White Haze Punishment\")\n",
+    "answer_chunk_similarity": 8.128722906112671,
+    "faithful_coverage": 3.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Which Shinigami captain is known for her love of sake?",
+    "ground_truth_answer": "Shunsui Ky\u014draku loves sake.",
+    "generated_answer": "I don't know.  The provided text mentions several captains' food preferences, but doesn't state that any have a love of sake.\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What ability does As Nodt's fear-inducing power derive from?",
+    "ground_truth_answer": "As Nodt\u2019s power, \"The Fear,\" creates paralyzing terror in his targets.",
+    "generated_answer": "As Nodt's fear-inducing power derives from his Schrift,  \"The Fear\" (\u6050\u6016, *Za Fi\u0101*).\n",
+    "answer_chunk_similarity": 7.578096389770508,
+    "faithful_coverage": 4.615384615384615,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the primary ability of Sosuke Aizen's Kyoka Suigetsu?",
+    "ground_truth_answer": "Kyoka Suigetsu controls the senses through complete hypnosis.",
+    "generated_answer": "The provided text states that Ky\u014dka Suigetsu's ability allows Aizen to create an illusion so perfect that those who see it cannot distinguish it from reality.  The text implies that proximity to Aizen affects the effectiveness of seeing through the illusion.\n",
+    "answer_chunk_similarity": 8.022608757019043,
+    "faithful_coverage": 0.9090909090909092,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 7.0
+  },
+  {
+    "query": "Who was the original Captain-Commander of the Gotei 13?",
+    "ground_truth_answer": "Genryusai Shigekuni Yamamoto was the first Captain-Commander.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the true nature of Mayuri Kurotsuchi's artificial daughter, Nemu?",
+    "ground_truth_answer": "Nemu is a modified soul created by Mayuri Kurotsuchi.",
+    "generated_answer": "Nemu Kurotsuchi is the seventh incarnation of Mayuri Kurotsuchi's Nemuri Project.  She is artificially created using a combination of Gigai and Gikon technologies, and essentially a modified soul created from Konpaku cells.  Mayuri refers to her as his daughter.\n",
+    "answer_chunk_similarity": 7.629687786102295,
+    "faithful_coverage": 1.96078431372549,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Which character served as the medic of the Visoreds?",
+    "ground_truth_answer": "Hachigen Ush\u014dda serves as the medic of the Visoreds.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who is the current leader of the Quincy Wandenreich?",
+    "ground_truth_answer": "Yhwach is the leader of the Wandenreich and the father of the Quincy.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.256204724311829,
+    "faithful_coverage": 2.325581395348837,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Which character is known for creating the Mod-Souls?",
+    "ground_truth_answer": "Kisuke Urahara created the Mod-Souls.",
+    "generated_answer": "\u014cko Yushima\n",
+    "answer_chunk_similarity": 7.963176965713501,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 7.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "Who is known as the \"Scarless King\" among the Espada?",
+    "ground_truth_answer": "Coyote Starrk, the Primera Espada, is known for his lack of scars.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 0.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "Who was the first Arrancar that Ichigo fought in the series?",
+    "ground_truth_answer": "Ichigo first fought Grand Fisher, a Hollow-turned-Arrancar.",
+    "generated_answer": "Di Roy Rinker\n",
+    "answer_chunk_similarity": 7.9589831829071045,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the name of Orihime Inoue's shield technique?",
+    "ground_truth_answer": "Orihime's shield technique is called Santen Kesshun.",
+    "generated_answer": "Orihime Inoue has several shield techniques:  Shiten K\u014dshun (\u56db\u5929\u6297\u76fe, Shield of Four Heavens' Resistance), Santen Kesshun (\u4e09\u5929\u7d50\u76fe, Three Sacred Links Shield), and S\u014dten Kisshun (\u53cc\u5929\u5e30\u76fe, Twin Sacred Return Shield).\n",
+    "answer_chunk_similarity": 7.640589475631714,
+    "faithful_coverage": 2.7777777777777777,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which captain is known for his immense spiritual pressure and combat skills without releasing his Zanpakuto?",
+    "ground_truth_answer": "Kenpachi Zaraki relies on raw power without often releasing his Zanpakuto.",
+    "generated_answer": "Kenpachi Zaraki.  The provided text states he was the only captain who didn't know his Zanpakuto's name or release, yet was still incredibly powerful.\n",
+    "answer_chunk_similarity": 7.6574647426605225,
+    "faithful_coverage": 1.6,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 7.0
+  },
+  {
+    "query": "What is the name of the main Hollow antagonist in the first arc of Bleach?",
+    "ground_truth_answer": "Grand Fisher is the main Hollow antagonist.",
+    "generated_answer": "The provided text mentions Sora Inoue, Orihime's brother, as a Hollow.  However, it doesn't definitively state he is the *main* antagonist of the first arc.  While he is a significant Hollow in the early episodes, the texts also mention other Hollows and antagonists like Baishin. Therefore, I don't know.\n",
+    "answer_chunk_similarity": 7.53576397895813,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who is the Quincy who sought revenge against the Shinigami for his mother's death?",
+    "ground_truth_answer": "Uryu Ishida initially sought revenge for his mother's death.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Which character has a fear of fighting but a talent for sewing?",
+    "ground_truth_answer": "Uryu Ishida is skilled at sewing and dislikes unnecessary violence.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the purpose of the Dangai between the World of the Living and Soul Society?",
+    "ground_truth_answer": "The Dangai is a dimensional pathway connecting the World of the Living and Soul Society.",
+    "generated_answer": "Based on the provided text, the Dangai is described as the space between Soul Society and the Human World.  Its purpose is not explicitly stated.\n",
+    "answer_chunk_similarity": 7.922712564468384,
+    "faithful_coverage": 2.4000000000000004,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who is the Quincy known as the \"Sternritter A\" \u2014 The Almighty?",
+    "ground_truth_answer": "Yhwach bears the Schrift \"A\" \u2014 The Almighty.",
+    "generated_answer": "Yhwach.\n",
+    "answer_chunk_similarity": 8.100563287734985,
+    "faithful_coverage": 2.5,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Which character is known as the \"Despair\" of the Espada?",
+    "ground_truth_answer": "Nnoitra Gilga embodies the aspect of death \"Despair.\"",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the name of Ichigo's Fullbring?",
+    "ground_truth_answer": "Ichigo's Fullbring is known as \"Bringer Light.\"",
+    "generated_answer": "The provided text does not name Ichigo's Fullbring.\n",
+    "answer_chunk_similarity": 7.678314447402954,
+    "faithful_coverage": 3.5294117647058827,
+    "faithfulness_score_llm": 10.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "Who is the most skilled healer among the Gotei 13?",
+    "ground_truth_answer": "Retsu Unohana is considered the most skilled healer.",
+    "generated_answer": "Tenjir\u014d Kirinji is stated to be the most skilled healer among the Shinigami, surpassing even Retsu Unohana.\n",
+    "answer_chunk_similarity": 7.5009870529174805,
+    "faithful_coverage": 4.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the name of Toshiro Hitsugaya's ice dragon technique?",
+    "ground_truth_answer": "Toshiro's ice dragon technique is called Hy\u014dten Hyakkas\u014d.",
+    "generated_answer": "Toshiro Hitsugaya's iconic ice dragon technique does not have a name in the main Bleach series.  However, in video games it is sometimes called Hy\u014drinmaru, and in the DS games *Blade of Fate* and *Dark Souls*, it's called Hy\u014dry\u016b T\u014dha (\u6c37\u9f8d\u51cd\u7834, Ice Dragon Freeze Blast).\n",
+    "answer_chunk_similarity": 7.64424204826355,
+    "faithful_coverage": 2.7118644067796605,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of the technique used to send souls to Soul Society?",
+    "ground_truth_answer": "The technique is called \"Kons\u014d.\"",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.247925639152527,
+    "faithful_coverage": 1.3793103448275863,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which Shinigami captain has a constant playful attitude and loves games?",
+    "ground_truth_answer": "Shunsui Ky\u014draku has a playful personality and loves games.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the name of the gate that leads into the Seireitei?",
+    "ground_truth_answer": "The four main gates are collectively called the Sh\u014dmon.",
+    "generated_answer": "The provided text mentions the Seireimon Gate, guarded by Jidanb\u014d.\n",
+    "answer_chunk_similarity": 7.498360872268677,
+    "faithful_coverage": 2.0000000000000004,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who taught Ichigo to manifest his Hollow powers through combat?",
+    "ground_truth_answer": "The Visoreds, led by Shinji Hirako, taught Ichigo.",
+    "generated_answer": "I don't know.  The provided text describes Ichigo manifesting his Hollow mask and powers, and mentions training with Hiyori to increase the duration he can maintain the masked form, but it doesn't state who taught him to manifest his Hollow powers *through combat*.\n",
+    "answer_chunk_similarity": 8.055661916732788,
+    "faithful_coverage": 0.8695652173913043,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Which Shinigami is known for his analytical mind and constant experimentation?",
+    "ground_truth_answer": "Mayuri Kurotsuchi is known for his analytical and experimental nature.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who is the original wielder of the H\u014dgyoku?",
+    "ground_truth_answer": "The H\u014dgyoku was created by Kisuke Urahara.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Which character has a Zanpakuto that manifests as a giant manta ray?",
+    "ground_truth_answer": "Retsu Unohana's Zanpakuto, Minazuki, manifests as a manta ray.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Which character can manipulate time with their Fullbring ability?",
+    "ground_truth_answer": "Yukio Hans Vorarlberna's Fullbring, Invaders Must Die, controls time in game spaces.",
+    "generated_answer": "Yukio Hanase.  The provided text states that 90 minutes passed in real time, while Ichigo only experienced a short time due to Yukio's Fullbring ability.\n",
+    "answer_chunk_similarity": 7.36747682094574,
+    "faithful_coverage": 1.8181818181818186,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Who was Ichigo's mentor in learning to use his Quincy powers?",
+    "ground_truth_answer": "Ichigo learned about his Quincy heritage from his father, Isshin Kurosaki.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What does Ulquiorra Cifer's \"Segunda Etapa\" represent?",
+    "ground_truth_answer": "It's his hidden second Resurrecci\u00f3n form, showcasing immense power.",
+    "generated_answer": "Based on the provided text, Ulquiorra Cifer's \"Segunda Etapa\" (Second Stage) is a second Resurrecci\u00f3n form.  He states that he is the only Espada capable of achieving this form, and even Aizen had not witnessed it.\n",
+    "answer_chunk_similarity": 7.829160690307617,
+    "faithful_coverage": 2.4000000000000004,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who was the lieutenant of Squad 1 under Captain-Commander Yamamoto?",
+    "ground_truth_answer": "Ch\u014djir\u014d Sasakibe served as the lieutenant.",
+    "generated_answer": "I don't know.  The provided text mentions several lieutenants, but not the lieutenant of the 1st Division under Yamamoto.\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "What is the primary duty of the Kido Corps in Soul Society?",
+    "ground_truth_answer": "The Kido Corps specializes in Kid\u014d spells and barriers.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.116905689239502,
+    "faithful_coverage": 1.5384615384615383,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the significance of Ichigo's dual Zanpakuto after training?",
+    "ground_truth_answer": "The dual blades represent his Shinigami and Quincy powers.",
+    "generated_answer": "Ichigo's true Zanpakut\u014d takes the form of two separate, purely black blades after he comes to terms with his heritage and powers in his inner world.  This represents his access to his suppressed true Zanpakut\u014d.\n",
+    "answer_chunk_similarity": 7.651289701461792,
+    "faithful_coverage": 2.0408163265306123,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which character has a sealed form that resembles a child?",
+    "ground_truth_answer": "Nelliel Tu Odelschwanck's sealed form resembles a child.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What ability does Askin Nakk Le Vaar's \"Deathdealing\" Schrift grant him?",
+    "ground_truth_answer": "It allows Askin to calculate and manipulate lethal doses of substances.",
+    "generated_answer": "Askin Nakk Le Vaar's \"Deathdealing\" Schrift grants him precise control over lethal doses.  After ingesting a substance, he can calculate its \"perfect lethal dose\" (the amount that will 100% cause death) and adjust that value.  His enhanced Deathdealing allows him to adapt to alterations in poison, as long as the base remains the same.  He also possesses physiological expertise, enabling him to use his Schrift effectively by knowing how much of a substance is needed to stay alive and then lowering the lethal dose below that level.\n",
+    "answer_chunk_similarity": 7.775983810424805,
+    "faithful_coverage": 1.2371134020618555,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who was the first Espada to reveal their Resurrecci\u00f3n?",
+    "ground_truth_answer": "Grimmjow Jaegerjaquez was the first to show his Resurrecci\u00f3n, Pantera.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.210771083831787,
+    "faithful_coverage": 2.2222222222222223,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Which Espada is associated with \"Nothingness\"?",
+    "ground_truth_answer": "Ulquiorra Cifer embodies the aspect of \"Nothingness.\"",
+    "generated_answer": "Ulquiorra Cifer is associated with \"Nothingness\" (Nihility).\n",
+    "answer_chunk_similarity": 7.225610017776489,
+    "faithful_coverage": 4.285714285714286,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "What is the name of the Zanpakuto used by Byakuya Kuchiki?",
+    "ground_truth_answer": "Byakuya's Zanpakuto is called Senbonzakura.",
+    "generated_answer": "Senbonzakura\n",
+    "answer_chunk_similarity": 7.807241678237915,
+    "faithful_coverage": 2.8571428571428568,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 10.0
+  },
+  {
+    "query": "Which character has a profound respect for traditional Japanese culture and wears a haori with a floral pattern?",
+    "ground_truth_answer": "Shunsui Ky\u014draku respects traditional culture and has a distinctive haori.",
+    "generated_answer": "I don't know.  The provided text describes the clothing of several characters, but none are described as wearing a haori with a floral pattern.  Kisuke Urahara's haori has a white diamond pattern, not a floral one.\n",
+    "answer_chunk_similarity": 8.050203323364258,
+    "faithful_coverage": 0.8163265306122448,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of the Hollow mask worn by Ichigo during battles?",
+    "ground_truth_answer": "It is often called the \"Hollow Mask\" or \"Visored Mask.\"",
+    "generated_answer": "The provided text refers to Ichigo's Hollow mask, but doesn't give it a specific name.\n",
+    "answer_chunk_similarity": 7.749758958816528,
+    "faithful_coverage": 2.2222222222222223,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who is the childlike manifestation of Kenpachi Zaraki's Zanpakuto?",
+    "ground_truth_answer": "Yachiru Kusajishi is considered a manifestation of Kenpachi's Zanpakuto.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 5.0
+  },
+  {
+    "query": "What is the name of Orihime's fairy that can reject phenomena?",
+    "ground_truth_answer": "Her fairy is named Shun'\u014d.",
+    "generated_answer": "The provided text doesn't name individual fairies and their specific abilities to reject phenomena.  It only states that Orihime has six fairies residing in her hair clips, and through various combinations of these fairies, she can reject phenomena.\n",
+    "answer_chunk_similarity": 8.238255977630615,
+    "faithful_coverage": 1.0810810810810811,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "Which Quincy possesses the Schrift \u201cE\u201d for \u201cThe Explode\u201d?",
+    "ground_truth_answer": "Bambietta Basterbine holds the Schrift \u201cE\u201d for \u201cThe Explode.\u201d",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "Which Sternritter's ability is based on the concept of \"Fear\"?",
+    "ground_truth_answer": "As Nodt's Schrift \u201cF\u201d stands for \"The Fear.\"",
+    "generated_answer": "\u00c4s N\u00f6dt's ability is based on the concept of \"Fear\".\n",
+    "answer_chunk_similarity": 7.695226669311523,
+    "faithful_coverage": 2.8571428571428577,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of the Zanpakuto spirit of Zangetsu in Ichigo's inner world?",
+    "ground_truth_answer": "The Zanpakuto spirit appears as an old man, often called \"Old Man Zangetsu.\"",
+    "generated_answer": "The provided text states that the being Ichigo knows as Zangetsu in his inner world reveals that Hollow Ichigo is Ichigo's true Zanpakut\u014d.  The text doesn't give a separate name for the Zanpakut\u014d spirit.\n",
+    "answer_chunk_similarity": 7.590282559394836,
+    "faithful_coverage": 1.1764705882352942,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Which character's Zanpakuto has the power to control sound?",
+    "ground_truth_answer": "Rojuro Otoribashi (Rose) controls sound with Kinshara.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who is the central antagonist of the \"Lost Substitute Shinigami\" arc?",
+    "ground_truth_answer": "K\u016bgo Ginj\u014d is the main antagonist of the arc.",
+    "generated_answer": "The provided text does not name a central antagonist for a specific arc called \"Lost Substitute Shinigami.\"  While Tokinada Tsunayashiro is mentioned plotting against the Substitute Shinigami system and Ichigo Kurosaki's role is highlighted, there's no explicit mention of an arc with that title and its main villain.  Therefore, I don't know.\n",
+    "answer_chunk_similarity": 8.034669160842896,
+    "faithful_coverage": 1.3114754098360653,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "Who becomes the new Captain-Commander of the Gotei 13 after Yamamoto's death?",
+    "ground_truth_answer": "Shunsui Ky\u014draku becomes the new Captain-Commander.",
+    "generated_answer": "I don't know.\n",
+    "answer_chunk_similarity": 7.919769287109375,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "Which character is known for their obsession with cutting things?",
+    "ground_truth_answer": "Nnoitra Gilga has an obsession with cutting and slicing.",
+    "generated_answer": "Retsu Unohana is known for her infatuation with crossing blades.\n",
+    "answer_chunk_similarity": 7.380836009979248,
+    "faithful_coverage": 1.0526315789473686,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who created the Hollowfication process that transformed the Visoreds?",
+    "ground_truth_answer": "Sosuke Aizen initiated the Hollowfication experiments.",
+    "generated_answer": "I don't know.  The provided text describes the effects of Hollowfication on the Visored and mentions Urahara's attempts to reverse it using the H\u014dgyoku, but it doesn't state who created the Hollowfication process itself.\n",
+    "answer_chunk_similarity": 8.393474817276001,
+    "faithful_coverage": 1.1111111111111112,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "What are the names of the twins who serve as servants to the Shihouin family?",
+    "ground_truth_answer": "The twins are named Marenoshin and Y\u016bshir\u014d Shihouin.",
+    "generated_answer": "Koganehiko and Shiroganehiko.\n",
+    "answer_chunk_similarity": 7.872723937034607,
+    "faithful_coverage": 1.6666666666666665,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Which character can regenerate limbs using their Hollow powers?",
+    "ground_truth_answer": "Grimmjow Jaegerjaquez can regenerate limbs with his Hollow abilities.",
+    "generated_answer": "The Menos Grande and Lille Barro can regenerate limbs using their Hollow powers.  The Menos Grande regrew an arm in seconds, while Lille Barro's Vollst\u00e4ndig regenerates any lost body parts, including his head.\n",
+    "answer_chunk_similarity": 7.64185905456543,
+    "faithful_coverage": 1.818181818181818,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 7.0
+  },
+  {
+    "query": "What is the technique used by Quincies to increase their speed, similar to Shinigami's Shunpo?",
+    "ground_truth_answer": "The technique is called Hirenkyaku.",
+    "generated_answer": "Hirenkyaku.\n",
+    "answer_chunk_similarity": 8.040406107902527,
+    "faithful_coverage": 3.333333333333334,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 10.0
+  },
+  {
+    "query": "What is the primary goal of Yhwach in the Thousand-Year Blood War arc?",
+    "ground_truth_answer": "Yhwach aims to merge all realms and rule over them.",
+    "generated_answer": "To kill the Soul King and create a new world.\n",
+    "answer_chunk_similarity": 7.577753067016602,
+    "faithful_coverage": 2.0000000000000004,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who is the first Soul Reaper to notice Ichigo's spiritual power?",
+    "ground_truth_answer": "Rukia Kuchiki is the first to notice Ichigo's high spiritual pressure.",
+    "generated_answer": "I don't know.  The provided text mentions Ichigo's ability to see spirits since childhood and his encounter with Ury\u016b Ishida, who notes his ability to see spirits, but it doesn't specify who was the *first* Soul Reaper to notice Ichigo's spiritual power.\n",
+    "answer_chunk_similarity": 7.98036515712738,
+    "faithful_coverage": 2.105263157894737,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "What is the name of the Hollow that killed Masaki Kurosaki?",
+    "ground_truth_answer": "The Hollow's name is Grand Fisher.",
+    "generated_answer": "The provided text doesn't name the Hollow that killed Masaki Kurosaki.  It describes several encounters with Hollows, but doesn't give a specific name.\n",
+    "answer_chunk_similarity": 8.007136583328247,
+    "faithful_coverage": 1.5384615384615383,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who holds the title of \"Substitute Shinigami\" in the series?",
+    "ground_truth_answer": "Ichigo Kurosaki is known as the Substitute Shinigami.",
+    "generated_answer": "Based on the provided text, Ichigo Kurosaki is a Substitute Shinigami.  The text also mentions K\u016bgo Ginj\u014d as the *first* Substitute Shinigami.\n",
+    "answer_chunk_similarity": 7.744802832603455,
+    "faithful_coverage": 2.7777777777777777,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of the special combat unit under the Onmitsukid\u014d that Soi Fon leads?",
+    "ground_truth_answer": "Soi Fon leads the Executive Militia, a special assassination unit of the Onmitsukid\u014d.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the name of Ukitake's illness that often weakens him?",
+    "ground_truth_answer": "Ukitake suffers from a chronic lung disease resembling tuberculosis.",
+    "generated_answer": "The provided text states that J\u016bshir\u014d Ukitake has a fatal lung disease since he was three years old.  The specific name of the illness is not mentioned.\n",
+    "answer_chunk_similarity": 8.083975315093994,
+    "faithful_coverage": 2.1621621621621623,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "What is the significance of the name \"Kenpachi\"?",
+    "ground_truth_answer": "It is a title given to the strongest combatant of each generation in the 11th Division.",
+    "generated_answer": "Based on the provided text, \"Kenpachi\" is the title bestowed upon the strongest Shinigami of each generation, the one who has slain the most enemies and won the most battles.\n",
+    "answer_chunk_similarity": 7.346285581588745,
+    "faithful_coverage": 3.043478260869565,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of the technique that allows Shinigami to purify Hollows?",
+    "ground_truth_answer": "The technique is called \"Kons\u014d\" or \"Soul Burial.\"",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who was the former captain of Squad 12 before Mayuri Kurotsuchi?",
+    "ground_truth_answer": "Kisuke Urahara was the former captain of Squad 12.",
+    "generated_answer": "Kisuke Urahara.\n",
+    "answer_chunk_similarity": 7.80872642993927,
+    "faithful_coverage": 3.636363636363636,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which Zanpakuto is associated with the power to create flowers of ice?",
+    "ground_truth_answer": "T\u014dshir\u014d Hitsugaya's Zanpakuto, Hy\u014drinmaru, can create ice flowers.",
+    "generated_answer": "Guncho Tsurara, Hitsugaya's Zanpakut\u014d ability, creates ice daggers, not flowers of ice.  The provided text does not describe any Zanpakuto with the power to create flowers of ice.\n",
+    "answer_chunk_similarity": 7.889770865440369,
+    "faithful_coverage": 1.5,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who possesses the Zanpakuto known as Benihime?",
+    "ground_truth_answer": "Kisuke Urahara wields the Zanpakuto Benihime.",
+    "generated_answer": "Kisuke Urahara possesses the Zanpakut\u014d Benihime.\n",
+    "answer_chunk_similarity": 7.325800657272339,
+    "faithful_coverage": 6.666666666666666,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which character has the ability to manipulate gravity with their Zanpakuto?",
+    "ground_truth_answer": "Sajin Komamura's Bankai has the ability to manipulate gravity.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "Which character created the artificial soul named Kon?",
+    "ground_truth_answer": "Kisuke Urahara created Kon.",
+    "generated_answer": "I don't know.  The provided text mentions Urahara retrieving Kon as \"poor merchandise,\" implying he created it, but it doesn't explicitly state that.\n",
+    "answer_chunk_similarity": 8.123795986175537,
+    "faithful_coverage": 0.6896551724137933,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of the artifact that Aizen seeks to gain ultimate power?",
+    "ground_truth_answer": "Aizen seeks the H\u014dgyoku, created by Urahara.",
+    "generated_answer": "The provided text mentions the H\u014dgyoku, which Aizen has implanted in his chest and uses to heal his wounds.  Aizen also states that the H\u014dgyoku Urahara created was beyond his comprehension.\n",
+    "answer_chunk_similarity": 8.083349466323853,
+    "faithful_coverage": 1.923076923076923,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 7.0
+  },
+  {
+    "query": "What is the aspect of death associated with Ulquiorra Cifer?",
+    "ground_truth_answer": "Ulquiorra embodies \"Nothingness\" as his aspect of death.",
+    "generated_answer": "Nihilism.\n",
+    "answer_chunk_similarity": 7.946795225143433,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the true identity of Aizen's Zanpakuto, Kyoka Suigetsu?",
+    "ground_truth_answer": "It manipulates all five senses to create complete hypnosis.",
+    "generated_answer": "The provided text states that Ky\u014dka Suigetsu's ability is perfect hypnosis, and that others, including some lieutenants, mistakenly believed it to be a water-type Zanpakut\u014d.  However, its true identity beyond its hypnotic powers is not described in the given context.\n",
+    "answer_chunk_similarity": 7.685020565986633,
+    "faithful_coverage": 0.40816326530612246,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the primary ability of Kaname Tosen's Bankai, Suzumushi Tsuishiki: Enma Korogi?",
+    "ground_truth_answer": "It deprives all senses \u2014 sight, sound, taste, smell, and spiritual sense.",
+    "generated_answer": "Kaname Tosen's Bankai, Suzumushi Tsuishiki: Enma K\u014drogi, creates a world without sight or sound, inflicting immense damage and the Weaken status effect.\n",
+    "answer_chunk_similarity": 7.433563470840454,
+    "faithful_coverage": 1.818181818181818,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Who is known as the \"Lightning Princess\" of the Shihouin family?",
+    "ground_truth_answer": "Yoruichi Shihouin is known as the \"Lightning Princess.\"",
+    "generated_answer": "Based on the provided text, Yoruichi Shih\u014din is a princess of the Shih\u014din family and uses lightning-based techniques like  Shunk\u014d: Raij\u016b Senkei - Shunry\u016b Kokuby\u014d Senki (Flash War Cry: Thunder Beast Battle Form: Flash God Black Cat Warrior Princess) and Shunshinraijin (Flashing Lightning God).  However, the text doesn't explicitly state she's known as the \"Lightning Princess\".\n",
+    "answer_chunk_similarity": 7.842206954956055,
+    "faithful_coverage": 1.785714285714286,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Which character has a habit of calling Ichigo \"Strawberry\"?",
+    "ground_truth_answer": "Renji Abarai humorously calls Ichigo \"Strawberry\" due to his name's meaning.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "Who was Ichigo's first instructor in Zanjutsu (swordsmanship)?",
+    "ground_truth_answer": "Kisuke Urahara trained Ichigo in swordsmanship.",
+    "generated_answer": "Urahara.\n",
+    "answer_chunk_similarity": 7.816706895828247,
+    "faithful_coverage": 2.5,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of the Hollow form that Ichigo achieves during his fight with Ulquiorra?",
+    "ground_truth_answer": "This form is often referred to as \"Vasto Lorde Ichigo.\"",
+    "generated_answer": "The provided text does not name the specific Hollow form Ichigo achieves.  It only refers to it as a \"new Hollow form\".\n",
+    "answer_chunk_similarity": 8.175016045570374,
+    "faithful_coverage": 1.0256410256410258,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 4.0
+  },
+  {
+    "query": "Who is known for having a scar that spans across their face, gained during the Thousand-Year Blood War?",
+    "ground_truth_answer": "Rukia Kuchiki gained a scar during the war.",
+    "generated_answer": "I don't know.  The provided text mentions a scar on Retsu Unohana's collarbone, inflicted by Kenpachi Zaraki long before the Thousand-Year Blood War, but doesn't describe any facial scars gained during that arc.\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who is the leader of the Espada, ranked number 0 when fully powered?",
+    "ground_truth_answer": "Yammy Llargo becomes Espada number 0 at full power.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.128108978271484,
+    "faithful_coverage": 1.3636363636363638,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the name of the Hollow mask that Shinji Hirako wears?",
+    "ground_truth_answer": "Shinji\u2019s Hollow mask resembles an inverted Pharaoh\u2019s mask.",
+    "generated_answer": "The provided text doesn't specify a name for Shinji Hirako's Hollow mask; it only describes its appearance (resembling a pharaoh's mask) and the effects of wearing it.\n",
+    "answer_chunk_similarity": 8.071891069412231,
+    "faithful_coverage": 3.1578947368421053,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Who is the captain of the 7th Division known for his loyalty to his friends?",
+    "ground_truth_answer": "Sajin Komamura is the captain of the 7th Division.",
+    "generated_answer": "Tetsuzaemon Iba is the captain of the 7th Division.  The provided text mentions his loyalty to Komamura, as they refused medical assistance together.\n",
+    "answer_chunk_similarity": 7.702822685241699,
+    "faithful_coverage": 3.1818181818181817,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of the Hollow form that merged with White to form Ichigo's unique powers?",
+    "ground_truth_answer": "The merged Hollow form is known as \"Hollow Ichigo\" or \"White.\"",
+    "generated_answer": "I don't know.  The provided text describes Ichigo's merged Hollow form and White's abilities, but it doesn't state that they merged to create Ichigo's powers.  It mentions White's ability to fuse with latent Shinigami powers, but not a specific merging with Ichigo's Hollow form.\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the name of the artifact that can control time in the Bleach universe?",
+    "ground_truth_answer": "The Dangai Precipice World has time-manipulating properties.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "Who are the parents of Ichika Abarai?",
+    "ground_truth_answer": "Ichika Abarai is the daughter of Rukia Kuchiki and Renji Abarai.",
+    "generated_answer": "Renji Abarai and Rukia Kuchiki are Ichika Abarai's parents.\n",
+    "answer_chunk_similarity": 7.310127019882202,
+    "faithful_coverage": 3.8095238095238098,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of the division responsible for research and development in Soul Society?",
+    "ground_truth_answer": "The 12th Division, led by Mayuri Kurotsuchi, handles research and development.",
+    "generated_answer": "The provided text refers to the Shinigami Research and Development Institute, but doesn't state what division it's under.\n",
+    "answer_chunk_similarity": 7.681535482406616,
+    "faithful_coverage": 2.5806451612903225,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who is the captain of the 9th Division known for his dedication to justice?",
+    "ground_truth_answer": "Kensei Muguruma leads the 9th Division.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 3.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Which captain is known for their battle instincts and brute strength?",
+    "ground_truth_answer": "Kenpachi Zaraki is renowned for his battle instincts and strength.",
+    "generated_answer": "The provided text states that T\u014dshir\u014d Hitsugaya has great instincts against incoming danger, but doesn't mention any other captain's battle instincts or specifically describe any captain as having brute strength.  Therefore, I don't know.\n",
+    "answer_chunk_similarity": 8.030205965042114,
+    "faithful_coverage": 1.3333333333333333,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "What is the name of the giant Hollow pet owned by Loly and Menoly in Hueco Mundo?",
+    "ground_truth_answer": "Their pet is named Ayon.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Which character can control and manipulate blood with their abilities?",
+    "ground_truth_answer": "Yhwach has control over blood using his power, Blut Vene Anhaben.",
+    "generated_answer": "The provided text mentions several characters who use Blut, a Quincy ability that involves manipulating Reishi within their blood vessels to enhance defense and offense.  However, none of the descriptions say they directly control or manipulate blood itself outside of this Reishi-enhanced context.\n",
+    "answer_chunk_similarity": 7.743357419967651,
+    "faithful_coverage": 0.4819277108433734,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "Which character uses a cane that doubles as a Zanpakuto?",
+    "ground_truth_answer": "Kisuke Urahara's cane, Benihime, is his concealed Zanpakuto.",
+    "generated_answer": "Kisuke Urahara and Kager\u014dza Inaba both use canes that double as Zanpakut\u014d.\n",
+    "answer_chunk_similarity": 7.392149567604065,
+    "faithful_coverage": 2.7272727272727275,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of the device used to regulate the balance of souls between worlds?",
+    "ground_truth_answer": "The Soul King acts as the linchpin maintaining balance.",
+    "generated_answer": "The provided text doesn't name a specific device used to regulate the balance of souls between worlds.  While it mentions the Soul King as the lynchpin holding the worlds together and its destruction causing imbalance, there's no mention of a device used for this purpose.\n",
+    "answer_chunk_similarity": 8.242983222007751,
+    "faithful_coverage": 1.9672131147540985,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which character has a Bankai named Kinshara But\u014ddan?",
+    "ground_truth_answer": "Rojuro Otoribashi (Rose) has the Bankai Kinshara But\u014ddan.",
+    "generated_answer": "R\u014dj\u016br\u014d \u014ctoribashi\n",
+    "answer_chunk_similarity": 7.639117240905762,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of the technique that Ichigo uses to concentrate his spiritual energy into a single, powerful strike?",
+    "ground_truth_answer": "Ichigo's technique is called Getsuga Tensh\u014d.",
+    "generated_answer": "Getsuga Tensh\u014d\n",
+    "answer_chunk_similarity": 7.904319167137146,
+    "faithful_coverage": 4.444444444444445,
+    "faithfulness_score_llm": 7.0,
+    "faithful_coverage_llm": 10.0
+  },
+  {
+    "query": "What is the primary ability of Soi Fon's Shikai, Suzumebachi?",
+    "ground_truth_answer": "It delivers a two-hit kill mark called Nigeki Kessatsu.",
+    "generated_answer": "Based on the provided text, Suzumebachi's Shikai form has an extended \"stinger\" approximately twice the length of Su\u00ec-F\u0113ng's fingers, increasing her striking distance.  It's also durable enough to withstand sword attacks.  The text doesn't state a *primary* ability, but rather describes several features.\n",
+    "answer_chunk_similarity": 8.017548322677612,
+    "faithful_coverage": 0.6060606060606061,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which character uses a giant club-like Zanpakuto in combat?",
+    "ground_truth_answer": "Ikkaku Madarame's Bankai, Ry\u016bmon H\u014dzukimaru, resembles a club.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the purpose of the \"Garganta\" used by Hollows?",
+    "ground_truth_answer": "Garganta is used to travel between Hueco Mundo and other realms.",
+    "generated_answer": "Based on the provided text, the Garganta is a portal used by Hollows (and Zanpakut\u014d in the case of Ikomikidomoe) to travel.\n",
+    "answer_chunk_similarity": 7.413883209228516,
+    "faithful_coverage": 3.1249999999999996,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which character has the title \"The Perfect Being\" after his fusion with the H\u014dgyoku?",
+    "ground_truth_answer": "Sosuke Aizen gains the title after his H\u014dgyoku fusion.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who did Byakuya Kuchiki promise to protect because of his late wife's wish?",
+    "ground_truth_answer": "Byakuya promised to protect Rukia Kuchiki.",
+    "generated_answer": "Byakuya Kuchiki promised to protect Rukia, his late wife Hisana's younger sister.\n",
+    "answer_chunk_similarity": 7.975289225578308,
+    "faithful_coverage": 2.8571428571428568,
+    "faithfulness_score_llm": 7.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the purpose of the Zanpakuto Rebellion arc in the Bleach anime?",
+    "ground_truth_answer": "It is a filler arc exploring the manifestations of Zanpakuto spirits.",
+    "generated_answer": "The purpose of the Zanpakut\u014d Rebellion arc in the Bleach anime is to show several Zanpakut\u014d Spirits being brainwashed by a rogue Zanpakut\u014d Spirit named Muramasa to betray their Shinigami partners.  This is not considered canon material.\n",
+    "answer_chunk_similarity": 7.552497982978821,
+    "faithful_coverage": 1.4285714285714284,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Who is the original wielder of the Zanpakuto Ry\u016bjin Jakka?",
+    "ground_truth_answer": "Genry\u016bsai Shigekuni Yamamoto wielded Ry\u016bjin Jakka.",
+    "generated_answer": "Genry\u016bsai Shigekuni Yamamoto.\n",
+    "answer_chunk_similarity": 7.862626314163208,
+    "faithful_coverage": 6.666666666666666,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 10.0
+  },
+  {
+    "query": "Who is the youngest captain in the history of the Gotei 13?",
+    "ground_truth_answer": "Toshiro Hitsugaya is the youngest captain.",
+    "generated_answer": "T\u014dshir\u014d Hitsugaya.\n",
+    "answer_chunk_similarity": 7.984485626220703,
+    "faithful_coverage": 2.2222222222222223,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which character can use the Quincy technique \"Blut Vene\" to increase defense?",
+    "ground_truth_answer": "Uryu Ishida uses Blut Vene to enhance his defense.",
+    "generated_answer": "Ichigo Kurosaki, Ury\u016b Ishida, Jugram Haschwalth, and Hikone Ubuginu can all use Blut Vene to increase their defense.\n",
+    "answer_chunk_similarity": 7.427423000335693,
+    "faithful_coverage": 4.285714285714286,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of the alternate dimension where the Quincy Wandenreich hides?",
+    "ground_truth_answer": "The Wandenreich hides in the \"Shadow Realm\" known as the Silbern.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 3.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the true identity of the Zanpakuto spirit Tobiume?",
+    "ground_truth_answer": "Tobiume is the spirit of Momo Hinamori\u2019s Zanpakuto.",
+    "generated_answer": "I don't know.  The provided text mentions a Tobiume Zanpakut\u014d spirit that appears in the anime-only Zanpakut\u014d Unknown Tales arc, but it doesn't reveal its true identity.\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "Which Espada is known for his calm and analytical demeanor?",
+    "ground_truth_answer": "Szayelaporro Granz is known for his calm and analytical approach.",
+    "generated_answer": "I don't know.  While the provided text describes Szayelaporro Granz as meticulous and intellectual, it also highlights his narcissism, flamboyance, ruthlessness, cruelty, and sadism.  It doesn't describe any Espada as having a consistently calm and analytical demeanor.\n",
+    "answer_chunk_similarity": 7.880945205688477,
+    "faithful_coverage": 2.6229508196721305,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 4.0
+  },
+  {
+    "query": "What is the name of the technique used by the Visoreds to control their Hollow powers?",
+    "ground_truth_answer": "The technique is called \"Masking\" or \"Hollowfication.\"",
+    "generated_answer": "I don't know.  The provided text describes the Visored's abilities and experiences, but doesn't name a specific technique for controlling their Hollow powers.\n",
+    "answer_chunk_similarity": 8.190687894821167,
+    "faithful_coverage": 1.0810810810810811,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which character is known for their poetic and dramatic fighting style?",
+    "ground_truth_answer": "Shunsui Ky\u014draku is known for his dramatic and poetic approach to battle.",
+    "generated_answer": "Shunsui Ky\u014draku.\n",
+    "answer_chunk_similarity": 7.937098741531372,
+    "faithful_coverage": 3.75,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "Which character\u2019s Zanpakuto can turn their blood into a weapon?",
+    "ground_truth_answer": "Kenpachi Zaraki\u2019s unnamed Zanpakuto in its Shikai state uses blood as a weapon.",
+    "generated_answer": "Unohana's Zanpakuto, Minazuki.\n",
+    "answer_chunk_similarity": 7.379468083381653,
+    "faithful_coverage": 3.333333333333333,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the name of the technique used by Ulquiorra Cifer to release his Resurrecci\u00f3n?",
+    "ground_truth_answer": "Ulquiorra\u2019s Resurrecci\u00f3n is released with the command \u201cEnclose\u201d (Murci\u00e9lago).",
+    "generated_answer": "The release command for Ulquiorra's Resurrecci\u00f3n, Murci\u00e9lago, is \"Enclose\" (\u9396\u305b, tozase; Viz \"Imprison\").\n",
+    "answer_chunk_similarity": 7.463940382003784,
+    "faithful_coverage": 4.444444444444445,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Who was the first captain to realize Aizen\u2019s betrayal?",
+    "ground_truth_answer": "Gin Ichimaru was aware of Aizen's betrayal from the beginning.",
+    "generated_answer": "Shinji Hirako.  The text states that Shinji suspected Aizen and chose him as his lieutenant to keep an eye on him.\n",
+    "answer_chunk_similarity": 7.666198015213013,
+    "faithful_coverage": 0.6060606060606062,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 4.0
+  },
+  {
+    "query": "Which Sternritter has the Schrift \u201cThe Visionary\u201d?",
+    "ground_truth_answer": "Gremmy Thoumeaux possesses the Schrift \u201cV\u201d for \u201cThe Visionary.\u201d",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.296118974685669,
+    "faithful_coverage": 3.0769230769230766,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "What does the name \u201cHueco Mundo\u201d translate to in English?",
+    "ground_truth_answer": "Hueco Mundo translates to \"Hollow World.\"",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Which Espada had a double-personality due to a split mask fragment?",
+    "ground_truth_answer": "Szayelaporro Granz exhibited a dual personality.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the primary ability of Orihime's Shiten K\u014dshun technique?",
+    "ground_truth_answer": "It acts as a reflective shield that repels attacks back at the enemy.",
+    "generated_answer": "Shiten K\u014dshun combines the offensive and defensive properties of Shun Shun Rikka.\n",
+    "answer_chunk_similarity": 7.674225568771362,
+    "faithful_coverage": 0.7692307692307693,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who uses the Zanpakuto named Wabisuke?",
+    "ground_truth_answer": "Izuru Kira wields the Zanpakuto Wabisuke.",
+    "generated_answer": "Izuru Kira uses the Zanpakut\u014d named Wabisuke.\n",
+    "answer_chunk_similarity": 7.44193971157074,
+    "faithful_coverage": 6.153846153846153,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Which character was known as the \"Heart\" of the Shiba Clan?",
+    "ground_truth_answer": "Kaien Shiba was known as the \"Heart\" of the Shiba Clan.",
+    "generated_answer": "The provided text does not state that any one character was known as the \"Heart\" of the Shiba Clan.  Kaien Shiba had a philosophy about the concept of \"heart\" as a connection between people, but this wasn't a title or designation applied to him within the clan.\n",
+    "answer_chunk_similarity": 7.751337289810181,
+    "faithful_coverage": 5.365853658536585,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 4.0
+  },
+  {
+    "query": "What is the main power of Rangiku Matsumoto's Zanpakuto, Haineko?",
+    "ground_truth_answer": "Haineko can turn into ash and be controlled to attack.",
+    "generated_answer": "Rangiku Matsumoto's Zanpakut\u014d, Haineko, allows her to create a multilayer wall of ash called \"House\" (\u30cf\u30a6\u30b9, Hausu).\n",
+    "answer_chunk_similarity": 7.596229314804077,
+    "faithful_coverage": 1.4814814814814816,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Which Quincy has the ability to manipulate Schrift power \u201cThe Balance\u201d?",
+    "ground_truth_answer": "Jugram Haschwalth has the Schrift \u201cB\u201d for \u201cThe Balance.\u201d",
+    "generated_answer": "I don't know.  The provided text describes Jugram Haschwalth's inability to absorb Reishi and his power amplification abilities, as well as Giselle Gewelle's ability to control deceased Quincy and their Schrift, and Bazz-B's history with Haschwalth.  There is no mention of a Quincy with the Schrift \"The Balance\".\n",
+    "answer_chunk_similarity": 8.156887292861938,
+    "faithful_coverage": 1.8461538461538463,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the role of the Detention Unit within the Onmitsukid\u014d?",
+    "ground_truth_answer": "The Detention Unit captures and monitors high-risk criminals in Soul Society.",
+    "generated_answer": "Based on the provided text, the Detention Unit is a part of the Onmitsukid\u014d, and its head was Kisuke Urahara.  Those detained within could not leave, but were otherwise free within the facility.  The Nest of Maggots is also associated with the Detention Unit.\n",
+    "answer_chunk_similarity": 7.666208744049072,
+    "faithful_coverage": 1.3114754098360653,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Who is known as the \"Left Arm of the Soul King\"?",
+    "ground_truth_answer": "Pernida Parnkgjas is the \"Left Arm of the Soul King.\"",
+    "generated_answer": "Pernida Parnkgjas is known as the \"Left Arm of the Soul King\".\n",
+    "answer_chunk_similarity": 7.469244003295898,
+    "faithful_coverage": 9.09090909090909,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of the Fullbring ability used by Jackie Tristan?",
+    "ground_truth_answer": "Jackie's Fullbring is called \"Dirty Boots.\"",
+    "generated_answer": "I don't know.  The provided text mentions Jackie Tristan's Fullbring and its self-destruction, but the name of the ability itself is not revealed.\n",
+    "answer_chunk_similarity": 8.364603519439697,
+    "faithful_coverage": 2.8571428571428568,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Which character has a Bankai called Daiguren Hy\u014drinmaru?",
+    "ground_truth_answer": "T\u014dshir\u014d Hitsugaya's Bankai is Daiguren Hy\u014drinmaru.",
+    "generated_answer": "T\u014dshir\u014d Hitsugaya\n",
+    "answer_chunk_similarity": 7.984485626220703,
+    "faithful_coverage": 5.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the name of the young Quincy who works under Yhwach and has a childish appearance?",
+    "ground_truth_answer": "Liltotto Lamperd works under Yhwach and has a childlike appearance.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 1.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who did Sajin Komamura make a pact with to obtain his Human Transformation Technique?",
+    "ground_truth_answer": "Komamura made a pact with his ancestor to gain the Human Transformation Technique.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.234073519706726,
+    "faithful_coverage": 1.8604651162790697,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "Which Sternritter has the ability to manipulate probabilities with his Schrift \"The Compulsory\"?",
+    "ground_truth_answer": "Gremmy Thoumeaux has the Schrift \u201cV\u201d for \"The Visionary,\" manipulating imagination.",
+    "generated_answer": "I don't know.  The provided text describes Pernida Parnkgjas's Schrift as \"The Compulsory,\" but it states this is an innate ability, not one that manipulates probabilities.\n",
+    "answer_chunk_similarity": 8.227250576019287,
+    "faithful_coverage": 1.4634146341463417,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the title of the series' final arc?",
+    "ground_truth_answer": "The final arc is titled the \"Thousand-Year Blood War.\"",
+    "generated_answer": "I don't know.\n",
+    "answer_chunk_similarity": 8.175222873687744,
+    "faithful_coverage": 2.4242424242424243,
+    "faithfulness_score_llm": 7.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which character is known for their scholarly intellect and knowledge of history?",
+    "ground_truth_answer": "Ry\u016bken Ishida is a knowledgeable and intellectual Quincy.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.12345266342163,
+    "faithful_coverage": 0.5714285714285715,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Which character is known for their love of sweets, especially candy?",
+    "ground_truth_answer": "Yachiru Kusajishi loves candy.",
+    "generated_answer": "Rin Tsubokura is known for his love of sweets, especially candy,  to the point that he always has candy in his pockets.  Yachiru Kusajishi also greatly enjoys sweets, including cakes.\n",
+    "answer_chunk_similarity": 7.516402006149292,
+    "faithful_coverage": 2.1621621621621627,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the purpose of the Senkaimon Gate?",
+    "ground_truth_answer": "The Senkaimon Gate allows travel between the World of the Living and Soul Society.",
+    "generated_answer": "Based on the provided text, the Senkaimon is a gate or tunnel that creates a passage to Soul Society.  It only stays open for a limited time (four minutes in one instance), and failure to reach Soul Society within that time results in being trapped in the Dangai.\n",
+    "answer_chunk_similarity": 7.608007192611694,
+    "faithful_coverage": 1.9354838709677415,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of the Hollow that appeared as Ichigo's inner Hollow?",
+    "ground_truth_answer": "It is known as \"Hollow Ichigo\" or \"White.\"",
+    "generated_answer": "The provided text refers to Ichigo's inner Hollow, but it doesn't give it a name.  It only states that it's his inner Hollow and that he must force it into the core of his soul.\n",
+    "answer_chunk_similarity": 8.14919114112854,
+    "faithful_coverage": 0.8,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 4.0
+  },
+  {
+    "query": "What is the name of Kisuke Urahara's shop in the World of the Living?",
+    "ground_truth_answer": "Urahara's shop is called the \"Urahara Shop.\"",
+    "generated_answer": "The provided text refers to Urahara's shop multiple times, but it never states its name.\n",
+    "answer_chunk_similarity": 7.737139463424683,
+    "faithful_coverage": 3.1999999999999993,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who is the youngest member of the Visoreds?",
+    "ground_truth_answer": "Hiyori Sarugaki is the youngest member of the Visoreds.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who was the first Shinigami to trust Ichigo and give him powers?",
+    "ground_truth_answer": "Rukia Kuchiki was the first to trust Ichigo and transfer her powers.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 4.0
+  },
+  {
+    "query": "Which character's Zanpakuto manifests as a pair of dual blades?",
+    "ground_truth_answer": "Shunsui Ky\u014draku's Zanpakuto, Katen Ky\u014dkotsu, manifests as dual blades.",
+    "generated_answer": "Ichigo's Zanpakuto.\n",
+    "answer_chunk_similarity": 7.97405481338501,
+    "faithful_coverage": 2.6666666666666665,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "Who was the first person to befriend Orihime Inoue at Karakura High School?",
+    "ground_truth_answer": "Tatsuki Arisawa was Orihime's first friend.",
+    "generated_answer": "Tatsuki Arisawa.\n",
+    "answer_chunk_similarity": 8.07401180267334,
+    "faithful_coverage": 4.444444444444445,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Which character was killed by Mayuri Kurotsuchi after attempting to escape Soul Society?",
+    "ground_truth_answer": "The Bount Sawatari was killed by Mayuri Kurotsuchi.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 0.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "What is the name of the group formed by Hollows with Shinigami abilities?",
+    "ground_truth_answer": "The Arrancar are Hollows with Shinigami abilities.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "What is the main purpose of the Shin'\u014d Academy?",
+    "ground_truth_answer": "The Shin'\u014d Academy trains future Shinigami in combat, Kid\u014d, and tactics.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "Which character created the H\u014dgyoku, an artifact capable of merging Hollows and Shinigami?",
+    "ground_truth_answer": "Kisuke Urahara created the H\u014dgyoku.",
+    "generated_answer": "Urahara created the H\u014dgyoku.\n",
+    "answer_chunk_similarity": 7.704828977584839,
+    "faithful_coverage": 9.09090909090909,
+    "faithfulness_score_llm": 7.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "What is the name of Ichigo's first Hollow opponent?",
+    "ground_truth_answer": "Fishbone D was Ichigo's first Hollow opponent.",
+    "generated_answer": "Grimmjow\n",
+    "answer_chunk_similarity": 8.011757731437683,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 4.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Which character's Zanpakuto is named Ashisogi Jiz\u014d?",
+    "ground_truth_answer": "Mayuri Kurotsuchi's Zanpakuto is Ashisogi Jiz\u014d.",
+    "generated_answer": "I don't know.  The provided text describes Ashisogi Jiz\u014d's personality and actions as a Zanpakut\u014d spirit, but it doesn't state which character wields it.\n",
+    "answer_chunk_similarity": 8.132107257843018,
+    "faithful_coverage": 1.142857142857143,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which character can regenerate from any wound as long as their heart remains intact?",
+    "ground_truth_answer": "Gerard Valkyrie has this regenerative ability due to his Schrift.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.262483477592468,
+    "faithful_coverage": 0.40816326530612246,
+    "faithfulness_score_llm": 4.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the primary ability of Gin Ichimaru's Bankai, Kamishini no Yari?",
+    "ground_truth_answer": "It extends and contracts at incredible speed and secretes a lethal poison.",
+    "generated_answer": "The primary ability of Gin Ichimaru's Bankai, Kamishini no Yari, is its tremendous extension and contraction properties.  This allows for a piercing maneuver where the extension and contraction of the blade is almost unseen.  His But\u014d technique further enhances this ability.\n",
+    "answer_chunk_similarity": 7.613319158554077,
+    "faithful_coverage": 1.9718309859154928,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which character uses a Zanpakuto called Itegumo?",
+    "ground_truth_answer": "Isane Kotetsu wields the Zanpakuto Itegumo.",
+    "generated_answer": "Isane Kotetsu uses the Zanpakut\u014d Itegumo.\n",
+    "answer_chunk_similarity": 7.614998817443848,
+    "faithful_coverage": 6.666666666666666,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Who created the Visoreds by conducting Hollowfication experiments?",
+    "ground_truth_answer": "Sosuke Aizen conducted the Hollowfication experiments that created the Visoreds.",
+    "generated_answer": "Kisuke Urahara.\n",
+    "answer_chunk_similarity": 7.80872642993927,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "Who is the first character to achieve the rank of Vasto Lorde?",
+    "ground_truth_answer": "Tier Harribel is the first confirmed Vasto Lorde.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.128491640090942,
+    "faithful_coverage": 1.9354838709677415,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Who is known as the \"Hand of God\" in the Wandenreich?",
+    "ground_truth_answer": "Gerard Valkyrie, with the Schrift \"M\" for \"The Miracle,\" is called the \"Hand of God.\"",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the ability of the Quincy technique \"Blut Arterie\"?",
+    "ground_truth_answer": "Blut Arterie increases offensive power by circulating spiritual energy through veins.",
+    "generated_answer": "Blut Arterie (\u52d5\u8840\u88c5, Bur\u016bto Aruterie; German for \"Blood Artery,\" Japanese for \"Moving Blood Guise\") is a Quincy ability.  It allows for powerful attacks; Hikone Ubuginu used it in combination with Hierro to injure Zaraki Kenpachi.  Quilge Opie stated that without Blut Arterie, he could barely scratch Ichigo Kurosaki's Bankai form.  It cannot be used while Blut Vene is active.\n",
+    "answer_chunk_similarity": 7.635900974273682,
+    "faithful_coverage": 0.8450704225352113,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "What is the name of the Hollow that killed Kaien Shiba?",
+    "ground_truth_answer": "The Hollow is named Metastacia.",
+    "generated_answer": "The provided text states that Metastacia killed Miyako Shiba.  It also states that Kaien Shiba fought and was ultimately possessed by Metastacia, but it doesn't explicitly say Metastacia *killed* Kaien.  Rukia stabbed Kaien, and his body disintegrated while Metastacia was in control of it.\n",
+    "answer_chunk_similarity": 7.512838840484619,
+    "faithful_coverage": 1.3953488372093021,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who is the former lieutenant of the 2nd Division under Soi Fon?",
+    "ground_truth_answer": "Marechiyo \u014cmaeda serves as Soi Fon's lieutenant.",
+    "generated_answer": "I don't know.  The provided text states that Marenoshin \u014cmaeda was the lieutenant of the 2nd Division under Yoruichi Shih\u014din, not Su\u00ec-F\u0113ng.\n",
+    "answer_chunk_similarity": 8.153002262115479,
+    "faithful_coverage": 1.5,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who is the first to become a Vasto Lorde among the Espada?",
+    "ground_truth_answer": "Tier Harribel is the first confirmed Vasto Lorde Espada.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 4.0
+  },
+  {
+    "query": "Which character has a Bankai named Jakuho Raikoben?",
+    "ground_truth_answer": "Soi Fon's Bankai is called Jakuho Raikoben.",
+    "generated_answer": "Su\u00ec-F\u0113ng's Bankai is Jakuh\u014d Raik\u014dben.\n",
+    "answer_chunk_similarity": 7.691259384155273,
+    "faithful_coverage": 3.5294117647058827,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Which character's Bankai is called Shirafude Ichimonji?",
+    "ground_truth_answer": "Ichib\u0113 Hy\u014dsube's Bankai is called Shirafude Ichimonji.",
+    "generated_answer": "Ichib\u0113 Hy\u014dsube's Bankai is called Shirafude Ichimonji.\n",
+    "answer_chunk_similarity": 7.637065649032593,
+    "faithful_coverage": 10.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 10.0
+  },
+  {
+    "query": "What is the name of the spiritual network that connects all realms?",
+    "ground_truth_answer": "The \"Soul Chain\" or \"Reishi Network\" connects the realms.",
+    "generated_answer": "I don't know.  The provided text describes the existence of three worlds (Soul Society, Human World, Hueco Mundo) and mentions the ability of some characters to travel between them, but it doesn't name a specific spiritual network connecting them.\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 3.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "Which character\u2019s Bankai creates a massive skeletal warrior?",
+    "ground_truth_answer": "Sajin Komamura\u2019s Bankai, Kokuj\u014d Tengen My\u014d'\u014d, summons a giant skeletal warrior.",
+    "generated_answer": "Komamura Sajin's Bankai, Kokuj\u014d Tengen My\u014d'\u014d, creates a giant living armor.\n",
+    "answer_chunk_similarity": 7.512393593788147,
+    "faithful_coverage": 7.199999999999998,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 7.0
+  },
+  {
+    "query": "Who was the first person to see through Aizen's illusions created by Kyoka Suigetsu?",
+    "ground_truth_answer": "Yhwach saw through Aizen's illusions due to his \"Almighty\" ability.",
+    "generated_answer": "I don't know.  The provided text states that Yhwach was susceptible to Kyoka Suigetsu because he had already witnessed its release, and that Shinji Hirako had suspicions but didn't fully realize the extent of Aizen's deception.  However, neither are explicitly stated to be the *first* to see through the illusion.\n",
+    "answer_chunk_similarity": 8.201843500137329,
+    "faithful_coverage": 1.4035087719298245,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who is the captain of the 8th Division after Shunsui Ky\u014draku becomes the Captain-Commander?",
+    "ground_truth_answer": "Lisa Yadomaru becomes the captain of the 8th Division.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Which Sternritter has the Schrift \u201cZ\u201d for \u201cThe Zombie\u201d?",
+    "ground_truth_answer": "Giselle Gewelle possesses the Schrift \u201cZ\u201d for \u201cThe Zombie.\u201d",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Who founded the Xcution Fullbringer group?",
+    "ground_truth_answer": "K\u016bgo Ginj\u014d founded Xcution.",
+    "generated_answer": "Sh\u016bkur\u014d Tsukishima founded Xcution.\n",
+    "answer_chunk_similarity": 7.363007068634033,
+    "faithful_coverage": 2.5806451612903225,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of the Hollow that attacked Orihime's brother, Sora Inoue?",
+    "ground_truth_answer": "The Hollow is called Acidwire.",
+    "generated_answer": "The provided text doesn't name the Hollow that attacked Sora Inoue.  It only states that it was a Hollow that attacked and was later revealed to be Sora Inoue himself.\n",
+    "answer_chunk_similarity": 8.133858442306519,
+    "faithful_coverage": 1.5384615384615385,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the name of the technique that Uryu Ishida uses to control reishi in the environment?",
+    "ground_truth_answer": "Uryu uses a technique called \"Rans\u014dtengai.\"",
+    "generated_answer": "The provided text mentions Ury\u016b Ishida absorbing and manipulating reishi, and that his absorption is enhanced in a specific form where he breaks down buildings in the Seireitei to increase his power.  However, it does not name a specific technique for controlling environmental reishi.\n",
+    "answer_chunk_similarity": 8.052855134010315,
+    "faithful_coverage": 1.2244897959183672,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Who is known as the \"Warrior Queen\" among the Quincy?",
+    "ground_truth_answer": "Bambietta Basterbine is known as the \"Warrior Queen.\"",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the primary ability of Kaname Tosen's Shikai, Suzumushi?",
+    "ground_truth_answer": "It produces high-pitched sounds to disorient opponents.",
+    "generated_answer": "Suzumushi has two Shikai abilities.  The first is unnamed in the provided text, and the second is Suzumushi Nishiki: Benihik\u014d (Crimson Flying Locusts), which transforms Suzumushi into a form that creates hundreds of blades raining down on opponents.\n",
+    "answer_chunk_similarity": 7.57585346698761,
+    "faithful_coverage": 0.6896551724137933,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Which captain is known for their artistic talent, including painting and poetry?",
+    "ground_truth_answer": "Byakuya Kuchiki has a talent for painting and poetry.",
+    "generated_answer": "I don't know.  The provided text mentions Shunsui Ky\u014draku writing a romance novel, but doesn't mention any other artistic talents like painting or poetry for any of the captains.\n",
+    "answer_chunk_similarity": 7.961515784263611,
+    "faithful_coverage": 2.1052631578947367,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which character has a Zanpakuto named Kazeshini?",
+    "ground_truth_answer": "Sh\u016bhei Hisagi wields Kazeshini.",
+    "generated_answer": "Sh\u016bhei Hisagi's Zanpakut\u014d is named Kazeshini.\n",
+    "answer_chunk_similarity": 7.6757436990737915,
+    "faithful_coverage": 6.153846153846154,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 10.0
+  },
+  {
+    "query": "Which character has a fear of insects?",
+    "ground_truth_answer": "Rangiku Matsumoto has a fear of insects.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who is the first captain to die during the Thousand-Year Blood War?",
+    "ground_truth_answer": "Genryusai Shigekuni Yamamoto is the first to fall.",
+    "generated_answer": "I don't know.  The provided text mentions the death of Yamamoto, but doesn't specify if he was the first captain to die during the Thousand-Year Blood War.\n",
+    "answer_chunk_similarity": 8.124017715454102,
+    "faithful_coverage": 2.105263157894737,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who was the first lieutenant of Squad 10 under Isshin Shiba?",
+    "ground_truth_answer": "Rangiku Matsumoto served as the lieutenant under Isshin Shiba.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 1.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the name of the giant Hollow Ichigo first encounters that leads to his meeting with Rukia?",
+    "ground_truth_answer": "The giant Hollow is Fishbone D.",
+    "generated_answer": "The provided text mentions Ichigo encountering a Hollow that is revealed to be Orihime's brother, Sora Inoue.  However, it doesn't describe this Hollow as \"giant\".\n",
+    "answer_chunk_similarity": 7.915663123130798,
+    "faithful_coverage": 1.1111111111111112,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 4.0
+  },
+  {
+    "query": "What is the main ability of Kensei Muguruma's Bankai, Tekken Tachikaze?",
+    "ground_truth_answer": "It creates explosive energy with each physical strike.",
+    "generated_answer": "Kensei Muguruma's Bankai, Tekken Tachikaze, transforms his Shikai, Tachikaze, into a pair of large knuckle blades.  Upon impact, the Bankai emits an explosive force.  The blades themselves can also destroy Hollows;  in one instance, impaling a Gillian's mask with the blade caused the Hollow's head to explode.\n",
+    "answer_chunk_similarity": 7.723268270492554,
+    "faithful_coverage": 0.9375,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which character has a Fullbring called \"Time Tells No Lies\"?",
+    "ground_truth_answer": "Giriko Kutsuzawa's Fullbring is named \"Time Tells No Lies.\"",
+    "generated_answer": "Giriko Kutsuzawa's Fullbring is called \"Time Tells No Lies\".\n",
+    "answer_chunk_similarity": 7.659209966659546,
+    "faithful_coverage": 9.0,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of the technique used to control the flow of time within the Dangai?",
+    "ground_truth_answer": "The K\u014dry\u016b, or the \"Current of Time,\" controls time in the Dangai.",
+    "generated_answer": "I don't know.  The provided text mentions time distortion in the Dangai and that Urahara's technology mitigated its effects on Ichigo's trip to Soul Society, but it doesn't name a specific technique used to control the time flow.\n",
+    "answer_chunk_similarity": 8.233274221420288,
+    "faithful_coverage": 2.0338983050847457,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the ability of Bambietta Basterbine's Schrift, \"The Explode\"?",
+    "ground_truth_answer": "It allows her to make anything she touches explode.",
+    "generated_answer": "Bambietta Basterbine's Schrift, \"The Explode,\" allows her to turn anything her Reishi makes contact with into a bomb.  These are not bombs made of Reishi, but rather Reishi that transform the contacted object into an explosive.  This allows for omni-directional attacks and significant area damage.  Even in her Vollst\u00e4ndig, she can release Reishi orbs from her wings that have the same effect.\n",
+    "answer_chunk_similarity": 7.739362716674805,
+    "faithful_coverage": 1.36986301369863,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who was responsible for performing Kons\u014d on the Plus Soul of Yuichi Shibata?",
+    "ground_truth_answer": "Rukia Kuchiki performed Kons\u014d on Yuichi Shibata.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Which character wields the Zanpakuto named Tsunzakigarasu?",
+    "ground_truth_answer": "Kaname Tosen wields the Zanpakuto Tsunzakigarasu.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the name of the spirit wolf that accompanies Sajin Komamura in battle?",
+    "ground_truth_answer": "His Bankai, Kokuj\u014d Tengen My\u014d'\u014d, manifests a giant spirit wolf.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who is the only Quincy who can completely nullify Hollow abilities?",
+    "ground_truth_answer": "Uryu Ishida can nullify Hollow abilities with the power of the Quincy Cross.",
+    "generated_answer": "Yhwach.\n",
+    "answer_chunk_similarity": 8.100563287734985,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Which character's Shikai has the ability to control rain and water?",
+    "ground_truth_answer": "J\u016bshir\u014d Ukitake's Shikai, S\u014dgyo no Kotowari, manipulates water.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "What is the true identity of the Spirit King\u2019s right arm?",
+    "ground_truth_answer": "Mimihagi is the Spirit King's right arm.",
+    "generated_answer": "I don't know.  The provided text only mentions the Soul King's left arm (which is Pernida) and his heart,  and states that his right arm was able to hold Yhwach at bay.  It does not reveal the identity of the right arm.\n",
+    "answer_chunk_similarity": 8.321347832679749,
+    "faithful_coverage": 2.1739130434782608,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 4.0
+  },
+  {
+    "query": "Which Quincy has the Schrift \u201cX\u201d for \u201cThe X-Axis\u201d?",
+    "ground_truth_answer": "Lille Barro has the Schrift \u201cX\u201d for \u201cThe X-Axis.\u201d",
+    "generated_answer": "Lille Barro.\n",
+    "answer_chunk_similarity": 7.769941091537476,
+    "faithful_coverage": 3.333333333333334,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the name of the healing technique used by the 4th Division?",
+    "ground_truth_answer": "The primary healing technique is called Kaid\u014d.",
+    "generated_answer": "The provided text mentions Bakud\u014d #73, T\u014dzansh\u014d, used by Izuru Kira, a former 4th Division member, to heal Rangiku and Momo.  It also mentions the 4th Division's \"remarkable healing powers\" and Hanatar\u014d Yamada's use of a medical pack containing supplies like salve, bandages, and rejuvenation pills.  However, there is no single named technique identified as *the* healing technique of the 4th Division.\n",
+    "answer_chunk_similarity": 8.169286251068115,
+    "faithful_coverage": 0.7792207792207793,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "What is the primary ability of Gin Ichimaru\u2019s Shikai, Shins\u014d?",
+    "ground_truth_answer": "It extends rapidly to impale enemies from a distance.",
+    "generated_answer": "Based on the provided text, Gin Ichimaru's Shikai, Shins\u014d, has the primary ability to extend its length dramatically.  The text also mentions he can use it to rain down swords (Yarisazame) and dash through a foe with a single thrust followed by rapid strikes.  However, the core ability is its extreme extension.\n",
+    "answer_chunk_similarity": 7.759307622909546,
+    "faithful_coverage": 0.8333333333333333,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who is the main antagonist of the \"Turn Back the Pendulum\" mini-arc?",
+    "ground_truth_answer": "Sosuke Aizen is the antagonist during the \"Turn Back the Pendulum\" arc.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.111963868141174,
+    "faithful_coverage": 4.2105263157894735,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "What is the main ability of the Quincy technique \"Heilig Pfeil\"?",
+    "ground_truth_answer": "Heilig Pfeil is a spiritual arrow used by Quincies to attack.",
+    "generated_answer": "The main ability of the Quincy technique \"Heilig Pfeil\" is to form and fire spiritual arrows.  Most Quincy use a Spirit Weapon to do this, but Yhwach can generate them without one, using only his finger.\n",
+    "answer_chunk_similarity": 7.703160047531128,
+    "faithful_coverage": 2.7450980392156863,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which character has a tattoo of the word \"Soul\" on their left shoulder?",
+    "ground_truth_answer": "Renji Abarai has a \"Soul\" tattoo on his shoulder.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Which Sternritter has the ability to create copies of themselves using \"The Yourself\"?",
+    "ground_truth_answer": "Royd and Loyd Lloyd possess the Schrift \u201cY\u201d for \u201cThe Yourself.\u201d",
+    "generated_answer": "Loyd Lloyd has the ability to transform himself into the exact physical likeness of another person, replicating their spiritual power and abilities using \"The Yourself\".\n",
+    "answer_chunk_similarity": 7.386837005615234,
+    "faithful_coverage": 2.702702702702702,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Which character can manipulate the wind with their Fullbring, \"Breathe\"?",
+    "ground_truth_answer": "Riruka Dokugamine\u2019s Fullbring manipulates space, not wind.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who is the first Espada to be defeated by a Soul Reaper?",
+    "ground_truth_answer": "Aaroniero Arruruerie is the first Espada defeated by Rukia Kuchiki.",
+    "generated_answer": "I don't know.  The provided text mentions Renji Abarai's defeat by Yammy Llargo, but doesn't state whether Yammy was the first Espada defeated by a Soul Reaper.\n",
+    "answer_chunk_similarity": 7.970222234725952,
+    "faithful_coverage": 2.5,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who was the previous head of the Kuchiki Clan before Byakuya?",
+    "ground_truth_answer": "Ginrei Kuchiki was the head before Byakuya Kuchiki.",
+    "generated_answer": "I don't know.  The provided text states that Byakuya would become the head of the Kuchiki Clan, and mentions his ascension to captain of the 6th division, but doesn't name his predecessor.\n",
+    "answer_chunk_similarity": 7.919769287109375,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who is the lieutenant of the 6th Division under Byakuya Kuchiki?",
+    "ground_truth_answer": "Renji Abarai serves as the lieutenant of the 6th Division.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who taught Ichigo how to regain his Shinigami powers during the Fullbring arc?",
+    "ground_truth_answer": "K\u016bgo Ginj\u014d initially trained Ichigo in Fullbring.",
+    "generated_answer": "K\u016bgo Ginjo and Xcution.\n",
+    "answer_chunk_similarity": 7.254629135131836,
+    "faithful_coverage": 3.4782608695652177,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of the dimension that exists between the World of the Living and Soul Society?",
+    "ground_truth_answer": "The dimension is known as the Dangai.",
+    "generated_answer": "I don't know.  The provided text mentions a barrier between Soul Society and the World of the Living, but doesn't name a specific dimension between them.\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "What is the name of the Quincy Schrift held by Robert Accutrone?",
+    "ground_truth_answer": "Robert Accutrone holds the Schrift \u201cN\u201d for \u201cThe Nerve.\u201d",
+    "generated_answer": "I don't know.  The provided text mentions Robert Accutrone's Schrift grants him formidable speed, but its name is not revealed.\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the name of the mountain range in Hueco Mundo where the Espada reside?",
+    "ground_truth_answer": "The Espada reside in Las Noches.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 4.0
+  },
+  {
+    "query": "Which Espada has a Zanpakuto named Tibur\u00f3n?",
+    "ground_truth_answer": "Tier Harribel wields the Zanpakuto Tibur\u00f3n.",
+    "generated_answer": "I don't know.  The provided text describes the Espada and their rankings but doesn't list the Zanpakuto names of individual members.\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "Which Shinigami captain has a fox-like appearance due to his family curse?",
+    "ground_truth_answer": "Sajin Komamura has a fox-like appearance due to his family's curse.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the origin of Ichigo Kurosaki's name?",
+    "ground_truth_answer": "Ichigo's name means 'strawberry' in Japanese, which is a pun on his spiky orange hair.",
+    "generated_answer": "The provided text states that Ichigo's father said his name means \"to protect one thing,\" which instilled in Ichigo a desire to protect his mother.  It does not, however, give the origin of the name itself.\n",
+    "answer_chunk_similarity": 8.014029860496521,
+    "faithful_coverage": 1.6666666666666665,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What does the term 'Arrancar' mean in Bleach?",
+    "ground_truth_answer": "'Arrancar' means 'to tear off' in Spanish, referring to their removed Hollow masks.",
+    "generated_answer": "I don't know.  While the provided text mentions Arrancar frequently and describes their characteristics and hierarchy, it doesn't define the word itself.\n",
+    "answer_chunk_similarity": 8.258132934570312,
+    "faithful_coverage": 1.4634146341463414,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "What is the significance of Rukia's glove that she used on Ichigo initially?",
+    "ground_truth_answer": "Rukia's glove is a special device that forcibly separates a soul from a body.",
+    "generated_answer": "I don't know.  The provided text does not mention Rukia using a glove on Ichigo.\n",
+    "answer_chunk_similarity": 8.096068501472473,
+    "faithful_coverage": 1.2903225806451615,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "How does a Shinigami's Zanpakuto return to its sealed state?",
+    "ground_truth_answer": "By suppressing their spiritual pressure, a Shinigami can seal their Zanpakuto.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the name of the technique used by Soul Reapers to perform soul burials?",
+    "ground_truth_answer": "The technique is called Kons\u014d.",
+    "generated_answer": "The provided text refers to the technique as Kons\u014d Reisai.\n",
+    "answer_chunk_similarity": 8.278024196624756,
+    "faithful_coverage": 1.0810810810810811,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "What is the nature of Ichigo's inner world?",
+    "ground_truth_answer": "Ichigo's inner world is depicted as a vast, endless cityscape with skyscrapers.",
+    "generated_answer": "Based on the provided text, Ichigo's inner world is the place where he confronts his inner Hollow (who is revealed to be his true Zanpakut\u014d), and where he can interact with manifestations of other beings, such as Kenpachi.  The text doesn't describe the nature of this world beyond that; it's presented as a location for introspection and confrontation with his inner self.\n",
+    "answer_chunk_similarity": 7.506741285324097,
+    "faithful_coverage": 1.8181818181818183,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the name of the technique used to purify Hollows and send souls to the Soul Society?",
+    "ground_truth_answer": "The technique is called Kons\u014d or Soul Burial.",
+    "generated_answer": "The provided text states that Hollows defeated by a Zanpakut\u014d are purified and sent to Soul Society, but it doesn't name the technique used.\n",
+    "answer_chunk_similarity": 7.52282977104187,
+    "faithful_coverage": 1.2121212121212122,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the technique used to suppress a Shinigami's spiritual pressure?",
+    "ground_truth_answer": "The technique is known as 'Reiatsu Suppression'.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "Which division specializes in healing and support within the Gotei 13?",
+    "ground_truth_answer": "The 4th Division, led by Retsu Unohana before the Thousand-Year Blood War.",
+    "generated_answer": "The 4th Division.\n",
+    "answer_chunk_similarity": 7.7912187576293945,
+    "faithful_coverage": 3.75,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Who created the first Hogyoku?",
+    "ground_truth_answer": "The first Hogyoku was created by Kisuke Urahara.",
+    "generated_answer": "Kisuke Urahara created the H\u014dgyoku.\n",
+    "answer_chunk_similarity": 7.7495527267456055,
+    "faithful_coverage": 2.8571428571428577,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What role does Isshin Kurosaki play in the Shiba Clan?",
+    "ground_truth_answer": "Isshin was once the head of the Shiba Clan before becoming a Kurosaki.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 5.0
+  },
+  {
+    "query": "Who was the first captain of the Gotei 13?",
+    "ground_truth_answer": "Yamamoto Genryusai Shigekuni was the founder and first Captain-Commander of the Gotei 13.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "How does a Soul Reaper achieve a Shikai?",
+    "ground_truth_answer": "By learning and calling out their Zanpakuto's name, a Soul Reaper can achieve a Shikai.",
+    "generated_answer": "I don't know.  The provided text describes the Shikai forms of several Soul Reapers (Hisagi, Ky\u014draku, and Hirako), and their release commands, but it doesn't explain the general process a Soul Reaper undergoes to achieve Shikai.\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "What is the purpose of the Spirit King in the Bleach universe?",
+    "ground_truth_answer": "The Spirit King maintains the balance between the worlds of the living and the dead.",
+    "generated_answer": "The Soul King's sole purpose is to regulate the flow of souls into and out of Soul Society and keep the flow stable.\n",
+    "answer_chunk_similarity": 7.221209406852722,
+    "faithful_coverage": 3.076923076923077,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "How does a Hollow become a Vasto Lorde?",
+    "ground_truth_answer": "A Gillian Hollow evolves into an Adjuchas, and an Adjuchas becomes a Vasto Lorde through further evolution and consuming other Hollows.",
+    "generated_answer": "Based on the provided text, the process of becoming a Vasto Lorde involves consuming other Hollows.  However, the provided text also states that consuming parts of another Hollow halts one's own growth, and that even after consuming thousands of Hollows, some groups failed to become Vasto Lorde.  The exact requirements or limits are not fully explained.\n",
+    "answer_chunk_similarity": 7.890186309814453,
+    "faithful_coverage": 1.4814814814814814,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the purpose of a Hollow mask for the Visoreds?",
+    "ground_truth_answer": "The Hollow mask amplifies their powers and grants them Hollow abilities.",
+    "generated_answer": "The provided text describes the appearances of several Visored's Hollow masks, but it does not explain their purpose.  I don't know.\n",
+    "answer_chunk_similarity": 8.113252520561218,
+    "faithful_coverage": 2.5806451612903225,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What ability does the Fullbring power 'Dirty Boots' possess?",
+    "ground_truth_answer": "When Jackie Tristan's boots are dirtied, her strength and speed increase.",
+    "generated_answer": "Based on the provided text, Dirty Boots is a Fullbring-powered kick that inflicts immense damage and Slow.\n",
+    "answer_chunk_similarity": 7.36963152885437,
+    "faithful_coverage": 1.3333333333333333,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the significance of the Dangai Precipice World?",
+    "ground_truth_answer": "It is a dimension between the human world and Soul Society, where time flows differently.",
+    "generated_answer": "I don't know.  The provided text mentions the Dangai multiple times, describing its location between Soul Society and the Human World and that it's being surveyed, but it doesn't explain its significance.\n",
+    "answer_chunk_similarity": 8.268399238586426,
+    "faithful_coverage": 2.2222222222222223,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the main task of the Kido Corps in Soul Society?",
+    "ground_truth_answer": "The Kido Corps specializes in Kido techniques like Bakudo and Hado for offensive and defensive spells.",
+    "generated_answer": "I don't know.\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "What triggers a Hollow's transformation into a Menos Grande?",
+    "ground_truth_answer": "Multiple Hollows merging together out of hunger create a Menos Grande.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "Why does Ichigo possess Quincy abilities?",
+    "ground_truth_answer": "Ichigo's mother, Masaki Kurosaki, was a Quincy.",
+    "generated_answer": "Ichigo's imprisonment by Quilge Opie transferred some of Quilge's Reiatsu to Ichigo.  This awakened memories within Ichigo's Reiatsu left by his Quincy mother, granting him access to defensive Blut.\n",
+    "answer_chunk_similarity": 7.581297159194946,
+    "faithful_coverage": 2.608695652173913,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 7.0
+  },
+  {
+    "query": "What is the significance of the Hell Butterflies in Bleach?",
+    "ground_truth_answer": "Hell Butterflies guide Soul Reapers through the Senkaimon and deliver messages.",
+    "generated_answer": "Based on the provided text, Hell Butterflies are used to aid in searching for the J\u014dkaish\u014d (devices).  They also play a role in determining whether someone is sent to the waste dimension;  without one, a person will be sent there.\n",
+    "answer_chunk_similarity": 7.696521878242493,
+    "faithful_coverage": 1.3559322033898304,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the purpose of the Reishi Cage technique used by Quincies?",
+    "ground_truth_answer": "The Reishi Cage traps opponents using gathered spiritual particles, making it difficult to escape.",
+    "generated_answer": "I don't know.  The provided text describes how several Quincies manipulate and absorb Reishi, but it doesn't mention a \"Reishi Cage\" technique.\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "Who were the first known Visored?",
+    "ground_truth_answer": "The Visored are former captains and lieutenants of the Gotei 13, including Shinji Hirako and Hiyori Sarugaki.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "Why does Isshin Kurosaki conceal his identity as a Soul Reaper?",
+    "ground_truth_answer": "To protect his family and due to his lost powers.",
+    "generated_answer": "The provided text doesn't explicitly state why Isshin Kurosaki conceals his identity as a Soul Reaper.  While it mentions him returning to the Human World without permission and Yamamoto suspecting him of hiding something, the reason for the secrecy is not revealed.\n",
+    "answer_chunk_similarity": 7.905033826828003,
+    "faithful_coverage": 0.9836065573770492,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What are the three classes of Menos Grande?",
+    "ground_truth_answer": "The three classes are Gillian, Adjuchas, and Vasto Lorde.",
+    "generated_answer": "I don't know.  The provided text mentions Menos Grande and Vasto Lorde, but doesn't list three classes of Menos Grande.\n",
+    "answer_chunk_similarity": 8.166888952255249,
+    "faithful_coverage": 2.4242424242424243,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the name of the secret underground chamber under the Sokyoku Hill?",
+    "ground_truth_answer": "The underground chamber is called the 'Shrine of Penitence.'",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "What is the relationship between Uryu Ishida and Soken Ishida?",
+    "ground_truth_answer": "Soken Ishida is Uryu's grandfather and Quincy mentor.",
+    "generated_answer": "Based on the provided text, Ury\u016b Ishida primarily interacted and trained with his paternal grandfather, S\u014dken Ishida, as a child.  Their relationship appears to have been close and positive, unlike Ury\u016b's relationship with his father.\n",
+    "answer_chunk_similarity": 7.626281380653381,
+    "faithful_coverage": 0.8108108108108109,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who was the first Espada created by Aizen?",
+    "ground_truth_answer": "Coyote Starrk was the first Espada created by Aizen.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 4.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the main purpose of the Onmitsukido?",
+    "ground_truth_answer": "They serve as Soul Society's covert operations and assassination squad.",
+    "generated_answer": "I don't know.  The provided text mentions the Onmitsukido in relation to specific characters and techniques, but doesn't state its main purpose.\n",
+    "answer_chunk_similarity": 8.194618225097656,
+    "faithful_coverage": 0.5714285714285715,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which character is known as the 'Killer of the 46 Chambers'?",
+    "ground_truth_answer": "Sosuke Aizen is known as the 'Killer of the 46 Chambers' for murdering Central 46.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 1.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Why did Rangiku Matsumoto have a missing portion of her spiritual energy?",
+    "ground_truth_answer": "It was stolen by Aizen to create the Hogyoku.",
+    "generated_answer": "I don't know.  The provided text doesn't mention Rangiku Matsumoto having a missing portion of her spiritual energy.\n",
+    "answer_chunk_similarity": 8.236829042434692,
+    "faithful_coverage": 0.6896551724137933,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "What is the significance of the Shiba Clan in Soul Society?",
+    "ground_truth_answer": "The Shiba Clan is a fallen noble family known for their bravery and connection to the Kurosaki family.",
+    "generated_answer": "Based on the provided text, the Shiba Clan is significant enough to be called upon as backup during a crisis in Soul Society (as seen in the Jidanb\u014d Ikkanzaka and K\u016bkaku Shiba plots).  However, the provided text does not offer further details on their overall significance.\n",
+    "answer_chunk_similarity": 7.8493160009384155,
+    "faithful_coverage": 1.782178217821782,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "How does a Soul Reaper become a Hollow?",
+    "ground_truth_answer": "A Soul Reaper becomes a Hollow through forced Hollowfication or losing control of their inner Hollow.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the purpose of Ichigo's Substitute Shinigami Badge?",
+    "ground_truth_answer": "It allows Ichigo to transform into his Soul Reaper form and detects Hollows nearby.",
+    "generated_answer": "The Substitute Shinigami Badge signifies Ichigo's position as a Substitute Shinigami, allowing him to remain active as a Shinigami in the Human World and separate his soul from his body to access his Shinigami form.  However, its true purpose, as explained by K\u016bgo, is to observe and restrict Ichigo's Shinigami powers.  It has no actual authority.\n",
+    "answer_chunk_similarity": 7.500708699226379,
+    "faithful_coverage": 1.6666666666666663,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "How does Mayuri Kurotsuchi control Nemu?",
+    "ground_truth_answer": "He created her as an artificial being with his scientific methods.",
+    "generated_answer": "The provided text states that Nemu is Mayuri Kurotsuchi's artificially created \"daughter,\"  created through a combination of Gigai and Gikon technologies.  It also mentions that Mayuri keeps a variety of drugs stored inside Nemu's body.  However, there is no explicit description of *how* Mayuri controls Nemu.\n",
+    "answer_chunk_similarity": 8.209059834480286,
+    "faithful_coverage": 0.8,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which character has a Fullbring ability called 'Book of the End'?",
+    "ground_truth_answer": "Sh\u016bkur\u014d Tsukishima's Fullbring, 'Book of the End,' can alter a person's memories by cutting them.",
+    "generated_answer": "Tsukishima has a Fullbring ability called 'Book of the End'.\n",
+    "answer_chunk_similarity": 7.752411365509033,
+    "faithful_coverage": 4.285714285714286,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the process of Hollowfication?",
+    "ground_truth_answer": "Hollowfication occurs when a Soul Reaper's soul is exposed to Hollow influence, causing a Hollow mask to form.",
+    "generated_answer": "I don't know.  The provided text mentions Hollowfication and its connection to agitated emotions, and that it's a forbidden technique, but it doesn't explain the process itself.\n",
+    "answer_chunk_similarity": 8.1685471534729,
+    "faithful_coverage": 0.975609756097561,
+    "faithfulness_score_llm": 7.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which Espada represents the aspect of death 'Greed'?",
+    "ground_truth_answer": "Aaroniero Arruruerie embodies the aspect of 'Greed.'",
+    "generated_answer": "Aaroniero Arruruerie represents the aspect of death 'Greed'.\n",
+    "answer_chunk_similarity": 7.771337032318115,
+    "faithful_coverage": 7.999999999999999,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the purpose of a Zanpakuto's spirit?",
+    "ground_truth_answer": "The spirit represents a part of the Soul Reaper's soul and aids them in battle.",
+    "generated_answer": "I don't know.  The provided text describes the appearances and abilities of several Zanpakut\u014d and their spirits, but it doesn't explain the purpose of a Zanpakut\u014d's spirit.\n",
+    "answer_chunk_similarity": 8.144502639770508,
+    "faithful_coverage": 1.2698412698412698,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the main ability of Nnoitra Gilga's Zanpakuto, Santa Teresa?",
+    "ground_truth_answer": "Santa Teresa can grow additional scythe-like arms, increasing his offensive capabilities.",
+    "generated_answer": "Nnoitra Gilga's Zanpakuto, Santa Teresa, transforms into a giant axe-like weapon with two crescent moon-shaped blades.  In its released state, Nnoitra gains an extra set of insect-like arms, each wielding a large scythe-like weapon.  A special ability, Santa Teresa Guada\u00f1a, involves powering up, grabbing an opponent, and stabbing them with an armblade, inflicting immense damage and paralysis.  He can also create whirlwinds by spinning the Zanpakuto by its chain.\n",
+    "answer_chunk_similarity": 7.428959012031555,
+    "faithful_coverage": 1.1363636363636362,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "What is the effect of Orihime's Shiten Koshun technique?",
+    "ground_truth_answer": "It creates a defensive shield that reflects attacks back at the enemy.",
+    "generated_answer": "Shiten K\u014dshun (\u56db\u5929\u6297\u76fe, Shield of Four Heavens' Resistance) is one of Orihime's techniques that combines Shun Shun Rikka's offensive and defensive properties.  The provided text states it blocked an attack, causing the attacker pain.\n",
+    "answer_chunk_similarity": 7.751978039741516,
+    "faithful_coverage": 1.6666666666666665,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "What is the significance of the Saketsu and Hakusui points in a Soul Reaper's body?",
+    "ground_truth_answer": "They are critical spiritual pressure points; damaging them can permanently disable a Soul Reaper's powers.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "What does the name 'Zangetsu' symbolize for Ichigo?",
+    "ground_truth_answer": "It means 'Slaying Moon,' reflecting Ichigo's role as a protector.",
+    "generated_answer": "I don't know.  The provided text describes Ichigo's personality and abilities, but doesn't explain the symbolism of the name \"Zangetsu\" for him.\n",
+    "answer_chunk_similarity": 8.054076433181763,
+    "faithful_coverage": 1.1111111111111112,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Who taught Shunsui Ky\u014draku the value of compassion during his childhood?",
+    "ground_truth_answer": "J\u016bshir\u014d Ukitake taught Shunsui Ky\u014draku the value of compassion.",
+    "generated_answer": "Isuzu taught Shunsui Ky\u014draku compassion, as evidenced by the text noting her kindness towards his brother.\n",
+    "answer_chunk_similarity": 7.666425108909607,
+    "faithful_coverage": 0.43478260869565216,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the main ability of Ryujin Jakka, Yamamoto's Zanpakuto?",
+    "ground_truth_answer": "It controls immense, destructive flames.",
+    "generated_answer": "Based on the provided text, Ry\u016bjin Jakka's main ability is to create intense flames.  While the text describes several techniques (Zanka no Tachi, Higashi: Kyokujitsujin and Taimatsu), these are all manifestations of its fundamental fiery power.\n",
+    "answer_chunk_similarity": 7.708804607391357,
+    "faithful_coverage": 0.4347826086956522,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "What does the Hollow mask symbolize for Ichigo?",
+    "ground_truth_answer": "The mask symbolizes his struggle between his Shinigami and Hollow natures.",
+    "generated_answer": "Initially, Ichigo's Hollow mask symbolized his possession by his inner Hollow.  After training with the Visored, it simply indicates he's using his Hollow powers.\n",
+    "answer_chunk_similarity": 7.559504508972168,
+    "faithful_coverage": 2.631578947368421,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the origin of Urahara's exile from Soul Society?",
+    "ground_truth_answer": "He was falsely accused of Hollowfication experiments by Central 46.",
+    "generated_answer": "I don't know.  The provided text describes some of Urahara's actions and interactions, but doesn't explain why he was exiled from Soul Society.\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the role of the K\u014dtotsu in the Dangai Precipice World?",
+    "ground_truth_answer": "The K\u014dtotsu is the Cleaner that erases anything caught in the Dangai's flow.",
+    "generated_answer": "Based on the provided text, the K\u014dtotsu is a large, dangerous entity in the Dangai Precipice World that attacks those within the area.  Amagai demonstrates the ability to control and destroy it.\n",
+    "answer_chunk_similarity": 7.641156911849976,
+    "faithful_coverage": 3.0188679245283017,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What does 'Bankai' mean?",
+    "ground_truth_answer": "'Bankai' translates to 'Final Release' and is the ultimate form of a Zanpakuto.",
+    "generated_answer": "I don't know.\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "How did Yoruichi Shihouin earn the title 'Flash Goddess'?",
+    "ground_truth_answer": "Yoruichi earned the title due to her unmatched speed and mastery of Shunpo.",
+    "generated_answer": "Yoruichi Shihouin earned the title \"Flash Goddess\" (\u77ac\u795e, Shunshin) due to her unparalleled mastery of Shunpo, a form of high-speed movement.  Her Shunpo proficiency is so great she can appear in multiple places at once, swiftly eliminating entire squadrons of Onmitsukid\u014d members.\n",
+    "answer_chunk_similarity": 7.473079562187195,
+    "faithful_coverage": 3.1250000000000004,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "How did Nanao Ise receive the Shinken Hakkyoken?",
+    "ground_truth_answer": "It was passed down through her family, the Ise Clan.",
+    "generated_answer": "Nanao's mother, Isuzu Ise, entrusted the Shinken Hakky\u014dken to Shunsui Ky\u014draku for safekeeping to protect Nanao from the Ise Curse.  Shunsui later gave it to Nanao.\n",
+    "answer_chunk_similarity": 7.543920278549194,
+    "faithful_coverage": 1.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the main function of the Shinigami Research and Development Institute?",
+    "ground_truth_answer": "It focuses on creating technology, conducting research, and developing new techniques in Soul Society.",
+    "generated_answer": "The provided text states that the Shinigami Research and Development Institute produced modern devices like televisions after the war, but it doesn't describe its main function.  I don't know.\n",
+    "answer_chunk_similarity": 7.687277793884277,
+    "faithful_coverage": 1.4285714285714284,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What does Ichigo's Quincy cross symbolize?",
+    "ground_truth_answer": "It symbolizes his Quincy heritage and his connection to Yhwach.",
+    "generated_answer": "I don't know.  The provided text mentions Quincy crosses belonging to Ury\u016b Ishida, Asguiaro Ebern, and Ry\u016bken Ishida, and even mentions a Quincy cross being added to Kon's plushie, but it doesn't describe a Quincy cross belonging to or associated with Ichigo Kurosaki.\n",
+    "answer_chunk_similarity": 8.191738724708557,
+    "faithful_coverage": 1.111111111111111,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Who is the youngest character to achieve Bankai in recorded history?",
+    "ground_truth_answer": "Toshiro Hitsugaya is the youngest to achieve Bankai.",
+    "generated_answer": "T\u014dshir\u014d Hitsugaya is the youngest Shinigami to ever achieve Bankai.\n",
+    "answer_chunk_similarity": 7.406057715415955,
+    "faithful_coverage": 7.368421052631579,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the significance of Byakuya's kenseikan?",
+    "ground_truth_answer": "It symbolizes his status as a noble in the Kuchiki Clan.",
+    "generated_answer": "The provided text states that Byakuya Kuchiki keeps his long black hair up in intricate white headpieces called kenseikan (\u727d\u661f\u7b9d, Pulled Star Insert; Viz \"Pull Star Silence\").  However, the text does not explain the significance of these headpieces.\n",
+    "answer_chunk_similarity": 7.861690521240234,
+    "faithful_coverage": 1.276595744680851,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "Which Quincy technique allows rapid self-healing?",
+    "ground_truth_answer": "Blut Vene allows Quincies to rapidly heal themselves.",
+    "generated_answer": "The provided text mentions Yhwach's ability to bestow flawless healing, where wounds the soul could not heal alone would heal.  However, this is not described as a specific Quincy technique with a name.\n",
+    "answer_chunk_similarity": 7.988007664680481,
+    "faithful_coverage": 1.1538461538461537,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "What is the primary ability of Rose's Bankai, Kinshara Butodan?",
+    "ground_truth_answer": "It manipulates soundwaves to create illusions and inflict psychological damage.",
+    "generated_answer": "Rose's Bankai, Kinshara But\u014ddan, allows him to control music to manipulate his opponent's perception of reality, making them believe they've been injured.\n",
+    "answer_chunk_similarity": 7.748020887374878,
+    "faithful_coverage": 2.0,
+    "faithfulness_score_llm": 7.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who did Mayuri Kurotsuchi create as an artificial daughter?",
+    "ground_truth_answer": "Mayuri created Nemu Kurotsuchi as his artificial daughter.",
+    "generated_answer": "Mayuri Kurotsuchi created Nemu Kurotsuchi as his artificial daughter.\n",
+    "answer_chunk_similarity": 7.305876016616821,
+    "faithful_coverage": 9.411764705882353,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Who did Ukitake sacrifice himself to protect?",
+    "ground_truth_answer": "Ukitake sacrificed himself to protect the balance of the worlds by merging with Mimihagi.",
+    "generated_answer": "The provided text doesn't state that Ukitake sacrificed himself to protect anyone.  While it mentions his death after Yhwach absorbs Mimihagi, it doesn't specify that he died protecting a particular person.\n",
+    "answer_chunk_similarity": 8.141833543777466,
+    "faithful_coverage": 2.5,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "What is the primary ability of T\u014dshir\u014d Hitsugaya's Bankai, Daiguren Hy\u014drinmaru?",
+    "ground_truth_answer": "It allows Hitsugaya to manipulate ice and create a massive dragon of ice.",
+    "generated_answer": "Based on the provided text, Hitsugaya's Bankai, Daiguren Hy\u014drinmaru, primarily causes ice to flow from Hy\u014drinmaru onto Hitsugaya, starting at his right arm, forming a dragon's head around his sword hand and encasing the sword.  The text also mentions regeneration capabilities as long as atmospheric water is present.\n",
+    "answer_chunk_similarity": 7.7772146463394165,
+    "faithful_coverage": 1.2121212121212122,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Which character can manipulate luck with their Fullbring?",
+    "ground_truth_answer": "Moe Shishigawara's Fullbring, 'Jackpot Knuckle,' can manipulate luck through punches.",
+    "generated_answer": "Moe Shishigawara.\n",
+    "answer_chunk_similarity": 7.754991054534912,
+    "faithful_coverage": 3.076923076923077,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the significance of the Shun Shun Rikka for Orihime?",
+    "ground_truth_answer": "The Shun Shun Rikka are six fairies that grant Orihime her unique healing and defensive powers.",
+    "generated_answer": "Shun Shun Rikka are six spirits residing in Orihime's hairpins, which are the source of her powers.  Their activation is tied to Orihime's desire to protect someone, specifically Ichigo.  She uses them to heal and defend, manipulating them through incantations.\n",
+    "answer_chunk_similarity": 7.660608291625977,
+    "faithful_coverage": 3.283582089552239,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the primary ability of Gin's Bankai, Kamishini no Yari?",
+    "ground_truth_answer": "It extends at extreme speed and secretes a lethal poison.",
+    "generated_answer": "Gin's Bankai, Kamishini no Yari, primarily extends and contracts at incredible speeds, almost invisibly.  It also possesses a deadly poison capable of breaking down cells.\n",
+    "answer_chunk_similarity": 7.630716562271118,
+    "faithful_coverage": 1.951219512195122,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "How does the H\u014dgyoku manifest Aizen's desires?",
+    "ground_truth_answer": "The H\u014dgyoku responds to Aizen's will, evolving him into higher forms based on his desires.",
+    "generated_answer": "The provided text states that Aizen's battles with Ichigo took place exactly as Aizen desired, implying the H\u014dgyoku facilitated this by healing his wounds and enhancing his power.  It also shows that the H\u014dgyoku allowed Aizen to seemingly subjugate it, rather than simply fusing with it, enabling him to achieve his goals.  However, the exact mechanism by which the H\u014dgyoku manifests Aizen's desires is not explicitly explained in the given text.\n",
+    "answer_chunk_similarity": 7.964502573013306,
+    "faithful_coverage": 1.9565217391304346,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the primary function of the Central 46 in Soul Society?",
+    "ground_truth_answer": "The Central 46 acts as the governing and judicial authority of Soul Society.",
+    "generated_answer": "Based on the provided text, the Central 46's primary function seems to be governance and decision-making within Soul Society.  They issue orders (like retrieving Senna), and their opinions and actions heavily influence the course of events during crises, even though they are seemingly incapable of acting decisively to protect Soul Society themselves.\n",
+    "answer_chunk_similarity": 7.750945687294006,
+    "faithful_coverage": 2.1052631578947367,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 7.0
+  },
+  {
+    "query": "Which character has a Bankai named Jakuh\u014d Raik\u014dben?",
+    "ground_truth_answer": "Soi Fon's Bankai is named Jakuh\u014d Raik\u014dben.",
+    "generated_answer": "Su\u00ec-F\u0113ng's Bankai is Jakuh\u014d Raik\u014dben.\n",
+    "answer_chunk_similarity": 7.691259384155273,
+    "faithful_coverage": 6.666666666666666,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which character has a Zanpakuto called Wabisuke?",
+    "ground_truth_answer": "Izuru Kira wields the Zanpakuto Wabisuke.",
+    "generated_answer": "Izuru Kira's Zanpakut\u014d is called Wabisuke.\n",
+    "answer_chunk_similarity": 7.53453254699707,
+    "faithful_coverage": 4.615384615384615,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Which character has a Zanpakuto named Ashisogi Jiz\u014d?",
+    "ground_truth_answer": "Mayuri Kurotsuchi wields the Zanpakuto Ashisogi Jiz\u014d.",
+    "generated_answer": "I don't know.  The provided text describes the Zanpakut\u014d spirit Ashisogi Jiz\u014d, but doesn't state which character wields it.\n",
+    "answer_chunk_similarity": 8.085408210754395,
+    "faithful_coverage": 1.875,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "What is the name of the barrier used to seal the Dangai Precipice World?",
+    "ground_truth_answer": "The barrier is known as the Dangai Barrier or the Kekkai.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "How did Isshin Kurosaki lose his Shinigami powers?",
+    "ground_truth_answer": "He sacrificed his powers to save Masaki Kurosaki from the Hollow 'White'.",
+    "generated_answer": "I don't know.  The provided text states that Isshin abandoned his Shinigami form twenty years ago, and that he has regained his powers at some point, but it doesn't explain how he lost them in the first place.\n",
+    "answer_chunk_similarity": 8.035303354263306,
+    "faithful_coverage": 1.0714285714285714,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "What is the significance of the Visored masks?",
+    "ground_truth_answer": "The masks symbolize the Hollow powers they control alongside their Shinigami abilities.",
+    "generated_answer": "The provided text describes the appearances of several Visored's Hollow masks,  including Hachigen Ush\u014dda's evolving mask and Mashiro Kuna's hornet-like mask.  It also notes that Ichigo's mask is different, as he never shifts its position while retaining Hollowfied abilities.  However, the text does not explain the significance of the Visored masks beyond their appearance and the fact that they grant increased physical enhancements.\n",
+    "answer_chunk_similarity": 8.21213185787201,
+    "faithful_coverage": 1.1111111111111112,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "How did Ichigo regain his Shinigami powers during the Fullbring arc?",
+    "ground_truth_answer": "Ichigo regained his powers through the combined efforts of Rukia Kuchiki and several captains.",
+    "generated_answer": "The provided text states that Ichigo's Fullbring and Shinigami powers would fuse, giving him power transcending that of a Shinigami.  However, it does not describe *how* this fusion happened or how he regained his Shinigami powers.  The text only shows the completion of his Fullbring training and his subsequent distrust of K\u016bgo.\n",
+    "answer_chunk_similarity": 8.05127739906311,
+    "faithful_coverage": 1.4814814814814814,
+    "faithfulness_score_llm": 7.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "What technique did Urahara use to seal Aizen?",
+    "ground_truth_answer": "Urahara used a level 99 Kid\u014d spell, 'Gory\u016btenmetsu,' to seal Aizen.",
+    "generated_answer": "Urahara placed seals on Aizen's wrists to block off the Reiatsu vents all Shinigami possess.  This seal was specifically designed for Aizen, anticipating his fusion with the H\u014dgyoku.\n",
+    "answer_chunk_similarity": 7.6741862297058105,
+    "faithful_coverage": 1.8604651162790697,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "What is the main power of Tosen's Bankai, Enma Korogi?",
+    "ground_truth_answer": "It creates a dome that blocks all senses, isolating the opponent in darkness.",
+    "generated_answer": "T\u014dsen's Bankai, Enma K\u014drogi, changes a small area, preventing opponents from seeing, hearing, and sensing spiritual energy.\n",
+    "answer_chunk_similarity": 7.529332637786865,
+    "faithful_coverage": 1.1764705882352942,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the primary role of the Gotei 13 in Soul Society?",
+    "ground_truth_answer": "They protect the Soul Society, maintain order, and purify Hollows.",
+    "generated_answer": "To protect Soul Society.\n",
+    "answer_chunk_similarity": 7.886484265327454,
+    "faithful_coverage": 4.285714285714285,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 7.0
+  },
+  {
+    "query": "What is the name of the artifact that can manipulate the balance between Shinigami and Hollows?",
+    "ground_truth_answer": "The artifact is called the H\u014dgyoku.",
+    "generated_answer": "H\u014dgyoku\n",
+    "answer_chunk_similarity": 7.9182833433151245,
+    "faithful_coverage": 4.444444444444445,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 10.0
+  },
+  {
+    "query": "Which character's Hollow mask resembles a lizard?",
+    "ground_truth_answer": "Love Aikawa's Hollow mask has a lizard-like appearance.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who can manipulate ice and snow using their Zanpakuto, Hyorinmaru?",
+    "ground_truth_answer": "Toshiro Hitsugaya can manipulate ice and snow with Hyorinmaru.",
+    "generated_answer": "T\u014dshir\u014d Hitsugaya can manipulate ice and snow using his Zanpakut\u014d, Hy\u014drinmaru.\n",
+    "answer_chunk_similarity": 7.592005729675293,
+    "faithful_coverage": 5.454545454545455,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "How did the Quincy massacre nearly exterminate the Quincy race?",
+    "ground_truth_answer": "The Shinigami saw the Quincies' methods as a threat to the balance of souls, leading to their near extermination.",
+    "generated_answer": "The provided text mentions multiple Quincy exterminations: one 1000 years prior to the events of the story, another 200 years prior, and the implication of ongoing persecution and cruel treatment detailed by Mayuri Kurotsuchi.  However, it doesn't explain *how* these massacres nearly exterminated the Quincy, only that they did.\n",
+    "answer_chunk_similarity": 8.22327733039856,
+    "faithful_coverage": 1.5789473684210527,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "What is the primary ability of Kisuke Urahara's Bankai, Kannonbiraki Benihime Aratame?",
+    "ground_truth_answer": "It can restructure anything it touches, including objects, bodies, and even spaces.",
+    "generated_answer": "Based on the provided text, Kannonbiraki Benihime Aratame's primary ability is to make changes to an opponent's body.  However, the exact nature of these changes isn't specified beyond the fact that they are temporary and only affect those within a limited range of the Bankai.  One example of its use is shown in a game where it inflicts immense damage and revives fallen teammates.\n",
+    "answer_chunk_similarity": 7.839422821998596,
+    "faithful_coverage": 0.909090909090909,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "What is the name of the area in Hueco Mundo where the Arrancar reside?",
+    "ground_truth_answer": "The area is called Las Noches.",
+    "generated_answer": "I don't know.  The provided text mentions Hueco Mundo as the location of Arrancar, but doesn't specify a particular area within Hueco Mundo where they reside.\n",
+    "answer_chunk_similarity": 8.31250011920929,
+    "faithful_coverage": 1.1764705882352942,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "What is the name of the technique used by the Quincy to manipulate reishi?",
+    "ground_truth_answer": "The technique is called 'Reishi Manipulation' or 'Reishi Control.'",
+    "generated_answer": "The provided text doesn't name a specific technique used by Quincy to manipulate Reishi.  It only describes the process of absorbing Reishi from the atmosphere and combining it with their own Reiryoku to form weapons.\n",
+    "answer_chunk_similarity": 8.220834136009216,
+    "faithful_coverage": 2.7027027027027026,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the main power of Nanao Ise's Shinken Hakkyoken?",
+    "ground_truth_answer": "It reflects the power of deities back at them.",
+    "generated_answer": "Shinken Hakky\u014dken reflects the power of the entity it is fighting.  In the context provided, it is shown diffusing the light from Lille Barro's eyes.\n",
+    "answer_chunk_similarity": 7.833076119422913,
+    "faithful_coverage": 2.2222222222222223,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "What does the title 'Kenpachi' signify in the Gotei 13?",
+    "ground_truth_answer": "It signifies the strongest warrior of each generation in the 11th Division.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the role of the Onmitsukid\u014d's Patrol Corps?",
+    "ground_truth_answer": "They monitor and secure the Rukongai districts, preventing unauthorized access to Seireitei.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 3.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the ability of Bambietta's Schrift, 'The Explode'?",
+    "ground_truth_answer": "She can make anything she touches explode.",
+    "generated_answer": "Bambietta Basterbine's Schrift, \"The Explode,\" allows her to turn anything her Reiatsu contacts into a bomb.  This creates omni-directional attacks, inflicting significant area damage.  She doesn't need to directly target opponents;  she can detonate explosions in close proximity or generate explosive energy radiating outward in a large globe.  Even while using Vollst\u00e4ndig, she can release Reishi spheres that turn things into bombs upon contact.  A single explosion from her Vollst\u00e4ndig form was powerful enough to heavily injure Shinji Hirako.  These explosions are not bombs made of Reishi, but rather Reishi that transforms the contacted object into a bomb.\n",
+    "answer_chunk_similarity": 7.7451711893081665,
+    "faithful_coverage": 0.606060606060606,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "What is the name of the Hollow form Ichigo attains during his fight with Ulquiorra?",
+    "ground_truth_answer": "Ichigo attains the Vasto Lorde form during his fight with Ulquiorra.",
+    "generated_answer": "The provided text refers to Ichigo transforming into a new Hollow form, but it does not give this form a specific name.\n",
+    "answer_chunk_similarity": 7.691913843154907,
+    "faithful_coverage": 1.2903225806451613,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Which character has a Hollow mask resembling a canine?",
+    "ground_truth_answer": "Kensei Muguruma's Hollow mask resembles a canine.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.077704906463623,
+    "faithful_coverage": 2.5,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "What is the primary ability of Grimmjow's Resurrecci\u00f3n, Pantera?",
+    "ground_truth_answer": "It enhances his speed, strength, and gives him razor-sharp claws.",
+    "generated_answer": "Based on the provided text, Grimmjow's Resurrecci\u00f3n, Pantera, allows him to use Desgarr\u00f3n as his ultimate attack and Gran Rey Cero.  He also uses  Garra de la Pantera (called Afilado in some media), and Pantera Destrucci\u00f3n.  The text doesn't specify a single \"primary\" ability.\n",
+    "answer_chunk_similarity": 7.666002511978149,
+    "faithful_coverage": 0.6451612903225806,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Which character has a fear of heights?",
+    "ground_truth_answer": "Keigo Asano has a fear of heights.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who is the main antagonist of the 'Thousand-Year Blood War' arc?",
+    "ground_truth_answer": "Yhwach is the main antagonist of the 'Thousand-Year Blood War' arc.",
+    "generated_answer": "Yhwach\n",
+    "answer_chunk_similarity": 7.998263835906982,
+    "faithful_coverage": 1.5384615384615385,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Who is the creator of the Bounts in Bleach?",
+    "ground_truth_answer": "The Bounts were created by the Shinigami Research and Development Institute as a failed experiment.",
+    "generated_answer": "The provided text states that Ran'Tao and other Shinigami were sent to investigate incidents involving Bounts, and Ran'Tao felt guilt for her role in creating them.  Therefore, Ran'Tao is implied to be a creator of the Bounts.\n",
+    "answer_chunk_similarity": 8.093985319137573,
+    "faithful_coverage": 1.6666666666666665,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "What is the ability of As Nodt's Schrift 'The Fear'?",
+    "ground_truth_answer": "It induces paralyzing fear in his opponents.",
+    "generated_answer": "\u00c4s N\u00f6dt's Schrift, \"The Fear,\" induces limitless fear in those struck by his thorns.  In its enhanced form,  seeing \u00c4s N\u00f6dt is enough to induce fear, as it penetrates through the optic nerve.\n",
+    "answer_chunk_similarity": 7.844482064247131,
+    "faithful_coverage": 1.777777777777778,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "How does Grimmjow Jaegerjaquez manifest his Resurrecci\u00f3n, Pantera?",
+    "ground_truth_answer": "Grimmjow releases his Resurrecci\u00f3n by calling out 'Grind, Pantera!'.",
+    "generated_answer": "Based on the provided text, Grimmjow's Resurrecci\u00f3n, Pantera, causes his Hollow mask to vanish.  His feline-humanoid form is retained, but his blue hair lengthens and becomes vibrantly white with a patterned blue and black gradient at the ends.\n",
+    "answer_chunk_similarity": 7.64853298664093,
+    "faithful_coverage": 1.3559322033898302,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What does the title 'Substitute Shinigami' imply for Ichigo?",
+    "ground_truth_answer": "It means Ichigo is a human with Shinigami powers authorized to protect the living world.",
+    "generated_answer": "Based on the provided text, the title \"Substitute Shinigami\" implies that Ichigo has a license to act as a Shinigami, but his powers are being observed and restricted by Soul Society through his badge.  The badge itself has no real authority beyond this observation and restriction.  K\u016bgo Ginj\u014d's actions led to the creation of the Substitute Shinigami law.\n",
+    "answer_chunk_similarity": 7.999081611633301,
+    "faithful_coverage": 1.1666666666666667,
+    "faithfulness_score_llm": 7.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the primary ability of Aizen's Zanpakuto, Kyoka Suigetsu?",
+    "ground_truth_answer": "Kyoka Suigetsu creates complete hypnosis, manipulating all five senses.",
+    "generated_answer": "Based on the provided text, Kyoka Suigetsu's primary ability is to completely control other people's senses.  The text states that Aizen's Zanpakut\u014d allows him to create illusions so convincing that they are indistinguishable from reality.  It also implies that those close to Aizen might have a chance of seeing through the illusion.\n",
+    "answer_chunk_similarity": 7.585675120353699,
+    "faithful_coverage": 1.4035087719298245,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the purpose of the Gotei 13 in Soul Society?",
+    "ground_truth_answer": "The Gotei 13 defends the Soul Society, maintains order, and purifies Hollows.",
+    "generated_answer": "The purpose of the Gotei 13 is to protect Soul Society.\n",
+    "answer_chunk_similarity": 7.7141982316970825,
+    "faithful_coverage": 4.3478260869565215,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who is the founder of the Shinigami Women's Association?",
+    "ground_truth_answer": "Yachiru Kusajishi is the founder of the Shinigami Women's Association.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 4.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who was the first to achieve the rank of Vasto Lorde?",
+    "ground_truth_answer": "Tier Harribel is the first confirmed Vasto Lorde in the series.",
+    "generated_answer": "I don't know.  The provided text mentions several characters who became Vasto Lorde, but doesn't specify who was the first.\n",
+    "answer_chunk_similarity": 8.16812813282013,
+    "faithful_coverage": 2.4242424242424248,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Who is the lieutenant of the 10th Division under Toshiro Hitsugaya?",
+    "ground_truth_answer": "Rangiku Matsumoto is the lieutenant of the 10th Division.",
+    "generated_answer": "Rangiku Matsumoto\n",
+    "answer_chunk_similarity": 7.574664354324341,
+    "faithful_coverage": 3.636363636363636,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What does the technique 'Blut Vene' do for Quincies?",
+    "ground_truth_answer": "Blut Vene enhances the defense of a Quincy by circulating reishi in their blood.",
+    "generated_answer": "Blut Vene is a defensive form of Blut, a Quincy ability that drastically increases attack and defense power by pumping Reishi through blood vessels.  Blut Vene specifically enhances defensive capabilities.  It is strong enough to stop attacks like Ury\u016b's Heilig Pfeil and even withstand a Getsuga Tensh\u014d.  It can also aid in stopping severe blood loss from wounds.\n",
+    "answer_chunk_similarity": 7.606629133224487,
+    "faithful_coverage": 3.125,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "What is the primary function of the Dangai Precipice World?",
+    "ground_truth_answer": "It serves as a dimensional pathway between the World of the Living and Soul Society.",
+    "generated_answer": "I don't know.  The provided text mentions the Dangai as a space between Soul Society and the Human World, and characters travel through it, but it doesn't state its primary function.\n",
+    "answer_chunk_similarity": 8.175016641616821,
+    "faithful_coverage": 2.5000000000000004,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Which character has a Zanpakuto named Suzumushi?",
+    "ground_truth_answer": "Kaname Tosen wields Suzumushi.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the name of the Hollow mask that Ichigo first uses?",
+    "ground_truth_answer": "It is simply known as Ichigo's Hollow Mask or the Visored Mask.",
+    "generated_answer": "The provided text doesn't name Ichigo's Hollow mask.  It describes its appearance and how Ichigo uses it, but not its name.\n",
+    "answer_chunk_similarity": 8.03576946258545,
+    "faithful_coverage": 1.1764705882352942,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Who served as the first lieutenant of Squad 1 under Yamamoto?",
+    "ground_truth_answer": "Chojiro Sasakibe was the first lieutenant under Yamamoto.",
+    "generated_answer": "I don't know.  The provided text mentions several lieutenants and captains, but doesn't specify who served as the first lieutenant of Squad 1 under Yamamoto.\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Who took over the position of Head Captain after Yamamoto's death?",
+    "ground_truth_answer": "Shunsui Ky\u014draku became the Head Captain after Yamamoto's death.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "What is the purpose of the Senzaiky\u016b in Soul Society?",
+    "ground_truth_answer": "It serves as a prison for high-profile criminals.",
+    "generated_answer": "I don't know.\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "Which Quincy technique can summon spirit weapons?",
+    "ground_truth_answer": "The technique is called Heilig Bogen, a spiritual bow.",
+    "generated_answer": "The provided text describes a technique where Quincy absorb spiritual energy (Reishi) from the atmosphere and combine it with their own spiritual energy to form weapons.  This is mentioned for James, Cang Du, Gerard Valkyrie, and Yhwach.  Yhwach's weapon is specifically described as a Reishi sword.\n",
+    "answer_chunk_similarity": 8.16283106803894,
+    "faithful_coverage": 1.1940298507462686,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 7.0
+  },
+  {
+    "query": "Which Espada is known as the 'Cero Espada'?",
+    "ground_truth_answer": "Yammy Llargo is the 'Cero Espada' at full power.",
+    "generated_answer": "I don't know.  The provided text describes the Espada and their abilities, including the Gran Rey Cero, but doesn't mention any Espada specifically called \"Cero Espada\".\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 4.0
+  },
+  {
+    "query": "What is the ability of Barragan Louisenbairn's Respira?",
+    "ground_truth_answer": "Respira ages and decays anything it touches.",
+    "generated_answer": "Baraggan Louisenbairn's Respira is a black and purple, smoke-like miasma that radiates outward from him, aging and rotting anything it touches.  It's fast enough to strike someone moving at full speed, can dissolve Kid\u014d, and its effects can continue even after the initial contact.  He can control its speed.  In one instance, it decayed Su\u00ec-F\u0113ng's arm to the point of requiring amputation.\n",
+    "answer_chunk_similarity": 7.676035165786743,
+    "faithful_coverage": 1.4634146341463417,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Who was responsible for the Hollowfication experiments on captains and lieutenants?",
+    "ground_truth_answer": "Sosuke Aizen was behind the experiments.",
+    "generated_answer": "S\u014dsuke Aizen was responsible for the Hollowfication experiments on captains and lieutenants.  Kaname T\u014dsen acted under his orders.\n",
+    "answer_chunk_similarity": 7.916766405105591,
+    "faithful_coverage": 3.0769230769230766,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Who is the original captain of the 4th Division in the Gotei 13?",
+    "ground_truth_answer": "Retsu Unohana was the original captain of the 4th Division.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "Who is the Hollow within Ichigo that manifests as Zangetsu?",
+    "ground_truth_answer": "The Hollow, known as 'White,' manifests as a version of Zangetsu.",
+    "generated_answer": "The provided text states that Hollow Ichigo is Ichigo's true Zanpakut\u014d.\n",
+    "answer_chunk_similarity": 7.238125205039978,
+    "faithful_coverage": 1.7391304347826086,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Who saved Rukia Kuchiki from her execution at Sokyoku Hill?",
+    "ground_truth_answer": "Ichigo Kurosaki saved Rukia from her execution.",
+    "generated_answer": "Yoruichi Shih\u014din saved Rukia Kuchiki from her execution at Sokyoku Hill.\n",
+    "answer_chunk_similarity": 7.341836094856262,
+    "faithful_coverage": 5.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of Urahara's Zanpakuto?",
+    "ground_truth_answer": "His Zanpakuto is called Benihime.",
+    "generated_answer": "Benihime\n",
+    "answer_chunk_similarity": 7.975494861602783,
+    "faithful_coverage": 3.333333333333334,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 10.0
+  },
+  {
+    "query": "What is the significance of the Zanpakuto spirit, Old Man Zangetsu, to Ichigo?",
+    "ground_truth_answer": "Old Man Zangetsu is a manifestation of Ichigo's Quincy powers and a representation of Yhwach.",
+    "generated_answer": "Based on the provided text, the Old Man Zangetsu represents the manifestation of Ichigo's Quincy powers.\n",
+    "answer_chunk_similarity": 7.508342266082764,
+    "faithful_coverage": 4.705882352941176,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "How did Aizen manipulate Momo Hinamori?",
+    "ground_truth_answer": "He gained her loyalty and trust, using it to his advantage.",
+    "generated_answer": "Aizen used his Zanpakut\u014d's hypnotic powers before the fight with Hitsugaya began, tricking Hitsugaya into stabbing Momo instead of Aizen.  He also planted a false letter blaming Hitsugaya for everything, including Aizen's faked death.  Furthermore, Aizen's plan involved manipulating Momo's loyalty and dependence on him to the point where he believed killing her would be a favor.  When attempts to have others kill Momo failed, Aizen himself stabbed her.\n",
+    "answer_chunk_similarity": 7.517056465148926,
+    "faithful_coverage": 0.759493670886076,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the significance of Ichigo's dual Zanpakuto after learning his true powers?",
+    "ground_truth_answer": "The dual blades represent his combined Shinigami and Quincy powers.",
+    "generated_answer": "Ichigo's dual Zanpakut\u014d represent different facets of his powers: the larger blade represents his inner Hollow (the manifestation of his Shinigami/Hollow powers), and the smaller blade represents his Quincy powers (\"the old man\").\n",
+    "answer_chunk_similarity": 7.544093132019043,
+    "faithful_coverage": 3.404255319148936,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which character is known as the 'God of Flash'?",
+    "ground_truth_answer": "Yoruichi Shihouin is known as the 'God of Flash' for her speed.",
+    "generated_answer": "Yoruichi Shih\u014din is known as the \"Flash Goddess\".\n",
+    "answer_chunk_similarity": 7.652388215065002,
+    "faithful_coverage": 5.454545454545454,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the purpose of the Seireitei Communication?",
+    "ground_truth_answer": "It is a magazine distributed within the Seireitei to provide news and information.",
+    "generated_answer": "I don't know.  The provided text mentions a \"Seireitei Communication magazine with a mail order catalog,\" but doesn't explain its purpose.\n",
+    "answer_chunk_similarity": 8.130953907966614,
+    "faithful_coverage": 1.1111111111111112,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "What is the ability of Gin Ichimaru's Bankai, Kamishini no Yari?",
+    "ground_truth_answer": "It extends incredibly fast and can secrete a deadly poison.",
+    "generated_answer": "Gin Ichimaru's Bankai, Kamishini no Yari, retains its small wakizashi form.  Its main ability is tremendous extension and contraction.  He can use this in But\u014d, a piercing maneuver where the extension and contraction is almost invisible.  But\u014d: Renjin repeats this extension and contraction multiple times rapidly.  In one instance, activating his Bankai instantly bisected several buildings.  Additionally, a special ability in other media involves leaving a poisoned shard in an enemy, inflicting immense damage and potentially instant death.\n",
+    "answer_chunk_similarity": 7.5081682205200195,
+    "faithful_coverage": 0.8791208791208791,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Who trained Ichigo to master his Hollow powers?",
+    "ground_truth_answer": "The Visoreds, led by Shinji Hirako, trained Ichigo.",
+    "generated_answer": "The provided text states that Ichigo was sent into his inner world to face his inner Hollow,  but it doesn't specify who trained him to master his Hollow powers.  While it mentions training with Yoruichi, that focused on Shunpo and not specifically Hollow power mastery.\n",
+    "answer_chunk_similarity": 8.060854077339172,
+    "faithful_coverage": 0.9302325581395348,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the name of the palace where Yhwach resides in the Soul King Palace?",
+    "ground_truth_answer": "The palace is known as the Wahrwelt.",
+    "generated_answer": "The provided text doesn't state that Yhwach resides *in* the Soul King Palace.  It mentions him arriving at and ascending the Soul King Palace, and using parts of it to create steps, but not that he has a residence within it.  I don't know.\n",
+    "answer_chunk_similarity": 8.174169659614563,
+    "faithful_coverage": 1.3043478260869565,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 7.0
+  },
+  {
+    "query": "Which character can manipulate shadows with their Zanpakuto?",
+    "ground_truth_answer": "Shuhei Hisagi's Zanpakuto, Kazeshini, can manipulate shadows.",
+    "generated_answer": "Shunsui Ky\u014draku can manipulate shadows with his Zanpakut\u014d, Katen Ky\u014dkotsu.\n",
+    "answer_chunk_similarity": 7.293987274169922,
+    "faithful_coverage": 3.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 4.0
+  },
+  {
+    "query": "Which character has the ability to manipulate time with their Fullbring?",
+    "ground_truth_answer": "Giriko Kutsuzawa's Fullbring, 'Time Tells No Lies,' manipulates time.",
+    "generated_answer": "Giriko Kutsuzawa's Fullbring, \"Time Tells No Lies,\" allows him to manipulate time.\n",
+    "answer_chunk_similarity": 7.457643747329712,
+    "faithful_coverage": 8.695652173913045,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "What is the name of Uryu Ishida's grandfather?",
+    "ground_truth_answer": "His name is Soken Ishida.",
+    "generated_answer": "S\u014dken Ishida\n",
+    "answer_chunk_similarity": 7.710310220718384,
+    "faithful_coverage": 2.5,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "How did Rukia first lose her Shinigami powers?",
+    "ground_truth_answer": "She transferred them to Ichigo to save him from a Hollow.",
+    "generated_answer": "Rukia transferred her Shinigami powers to Ichigo.\n",
+    "answer_chunk_similarity": 7.346310615539551,
+    "faithful_coverage": 3.3333333333333326,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the name of the Soul Reaper Academy in Soul Society?",
+    "ground_truth_answer": "The academy is called the Shin'\u014d Academy.",
+    "generated_answer": "Shin\u014d Academy\n",
+    "answer_chunk_similarity": 7.858503460884094,
+    "faithful_coverage": 2.5,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which character has a tattoo of the number 69 on their face?",
+    "ground_truth_answer": "Shuhei Hisagi has the tattoo of 69 on his left cheek.",
+    "generated_answer": "Sh\u016bhei Hisagi and Kazeshini both have the number \"69\" tattooed on their left cheek.\n",
+    "answer_chunk_similarity": 7.382467985153198,
+    "faithful_coverage": 5.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the primary ability of Coyote Starrk's Resurrecci\u00f3n, Los Lobos?",
+    "ground_truth_answer": "It can split his soul into multiple entities, including wolves that explode.",
+    "generated_answer": "Based on the provided text, Starrk's Resurrecci\u00f3n, Los Lobos, allows him to unleash his full power after merging with Lilynette.  His spirit wolves attack opponents, and he can use Cero Metralleta (in Soul Resurrection) and Rev\u00f3lver De Los Lobos (a large blue-green Cero from twin guns) as attacks.\n",
+    "answer_chunk_similarity": 7.581803202629089,
+    "faithful_coverage": 0.5633802816901409,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who is the youngest captain to serve in the Gotei 13?",
+    "ground_truth_answer": "Toshiro Hitsugaya is the youngest captain.",
+    "generated_answer": "T\u014dshir\u014d Hitsugaya is the youngest captain to ever serve in the Gotei 13.\n",
+    "answer_chunk_similarity": 7.174379825592041,
+    "faithful_coverage": 5.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "What is the primary ability of Barragan's Respira?",
+    "ground_truth_answer": "It ages and decays anything it touches, causing instant deterioration.",
+    "generated_answer": "Baraggan's Respira is a black and purple, smoke-like miasma that ages and rots anything it comes into contact with.  It moves quickly enough to strike someone escaping at full speed.  It can also dissolve Kid\u014d.\n",
+    "answer_chunk_similarity": 7.824386358261108,
+    "faithful_coverage": 2.5641025641025643,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "What is the main ability of Sajin Komamura's Human Transformation Technique?",
+    "ground_truth_answer": "It grants him a human form with immense power, but sacrificing his heart renders him mortal.",
+    "generated_answer": "The main ability of Sajin Komamura's Human Transformation Technique is to shed his beast form and return to his human form.  This is achieved by ritually removing his heart, resulting in a body that is virtually invulnerable to physical harm and allows for regeneration of wounds.  His Bankai is also virtually invulnerable while in this form.\n",
+    "answer_chunk_similarity": 7.586941123008728,
+    "faithful_coverage": 1.36986301369863,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Who are the Royal Guard members in charge of protecting the Soul King?",
+    "ground_truth_answer": "They are known as the Zero Division, or the Royal Guard.",
+    "generated_answer": "I don't know.  The provided text mentions the Royal Guard protects the Soul King and stays in his palace, but it doesn't name specific members.\n",
+    "answer_chunk_similarity": 8.162217736244202,
+    "faithful_coverage": 1.8181818181818183,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the primary ability of the Sternritter's Schrift 'The Jail'?",
+    "ground_truth_answer": "It creates an inescapable prison to trap enemies.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 2.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "Which character uses the Fullbring technique 'Bringer Light'?",
+    "ground_truth_answer": "Ichigo Kurosaki uses 'Bringer Light' as his Fullbring.",
+    "generated_answer": "Both Ichigo Kurosaki and Zangetsu use Bringer Light.\n",
+    "answer_chunk_similarity": 7.721104621887207,
+    "faithful_coverage": 6.25,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "What is the significance of the Hollow known as White?",
+    "ground_truth_answer": "White is a Hollow created by Aizen and is responsible for Ichigo's unique powers.",
+    "generated_answer": "White is significant because it was the first Hollow created from a Shinigami's soul.  It's also notable for its ability to hollowfy others, and to fuse with an individual's soul, essentially becoming their Zanpakut\u014d.  Aizen designed White to hollowfy Shinigami, but it can also affect Quincy.\n",
+    "answer_chunk_similarity": 7.663673162460327,
+    "faithful_coverage": 1.9047619047619047,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "What is the true purpose of the Zanpakuto Rebellion arc in the anime?",
+    "ground_truth_answer": "It is a filler arc exploring the manifested spirits of Zanpakuto.",
+    "generated_answer": "I don't know.  The provided text mentions the Zanpakut\u014d Rebellion arc and that it's non-canon, showing that several Zanpakut\u014d Spirits were brainwashed by Muramasa, but it doesn't state the arc's overall purpose.\n",
+    "answer_chunk_similarity": 8.151094913482666,
+    "faithful_coverage": 0.9302325581395349,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Which character has the ability to manipulate sound with their Zanpakuto?",
+    "ground_truth_answer": "Rojuro Otoribashi's Zanpakuto, Kinshara, manipulates sound.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the main role of the 13 Court Guard Squads?",
+    "ground_truth_answer": "To maintain balance, protect the Soul Society, and purify Hollows.",
+    "generated_answer": "The provided text focuses on the arrival of the Royal Guard and their purpose in rebuilding the Gotei 13 and taking Ichigo, Byakuya, Rukia, and Renji to the Royal Palace.  It doesn't describe the role of the 13 Court Guard Squads.  Therefore, I don't know.\n",
+    "answer_chunk_similarity": 7.866299748420715,
+    "faithful_coverage": 1.7241379310344829,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "Which Zanpakuto has the power to turn its wielder's blood into a deadly mist?",
+    "ground_truth_answer": "Retsu Unohana's Bankai, Minazuki, has this power.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 2.0
+  },
+  {
+    "query": "What is the main ability of Gin Ichimaru's Shikai, Shins\u014d?",
+    "ground_truth_answer": "Shins\u014d extends rapidly like a spear to impale opponents.",
+    "generated_answer": "The provided text states that Gin Ichimaru's Shikai, Shins\u014d,  can extend its length dramatically, maximizing the lethality of its ability to kill multiple targets in one shot.  He uses this ability with extreme speed and precise attacks.\n",
+    "answer_chunk_similarity": 7.870505452156067,
+    "faithful_coverage": 1.298701298701299,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the significance of the name 'Zangetsu'?",
+    "ground_truth_answer": "Zangetsu means 'Slaying Moon,' symbolizing Ichigo's role as a protector.",
+    "generated_answer": "I don't know.  The provided text mentions Ichigo's father saying his *own* name means \"to protect one thing,\" but it doesn't explain the significance of the name Zangetsu.\n",
+    "answer_chunk_similarity": 8.068214058876038,
+    "faithful_coverage": 0.9523809523809523,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the function of a Hell Butterfly in the series?",
+    "ground_truth_answer": "Hell Butterflies guide Soul Reapers through the Senkaimon and carry messages.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 4.0
+  },
+  {
+    "query": "What is the name of the Quincy ability that allows for high-speed movement?",
+    "ground_truth_answer": "The ability is called Hirenkyaku.",
+    "generated_answer": "Hirenkyaku\n",
+    "answer_chunk_similarity": 8.017255067825317,
+    "faithful_coverage": 3.333333333333334,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 10.0
+  },
+  {
+    "query": "Which character possesses a Bankai named Bankin?",
+    "ground_truth_answer": "Hachigen Ushoda, a Visored, uses the Kid\u014d technique Bankin.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 3.0
+  },
+  {
+    "query": "How does Urahara's Zanpakuto, Benihime, manifest its abilities?",
+    "ground_truth_answer": "Benihime can create barriers, energy blasts, and manipulate reishi.",
+    "generated_answer": "Based on the provided text, Benihime's Shikai is activated with the command \"Awaken\" (\u8d77\u304d\u308d, okiro).  In Shikai, it takes the form of a sleek, medium-sized sword with a slanted, razor-like edge.  One of its abilities,  \"Nake, Benihime\" (\u557c\u3051\u7d05\u59eb), fires powerful, destructive crimson energy blasts in the arc of the sword's swing.\n",
+    "answer_chunk_similarity": 7.726860046386719,
+    "faithful_coverage": 1.0526315789473684,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "Which Espada embodies the aspect of 'Despair'?",
+    "ground_truth_answer": "Nnoitra Gilga embodies the aspect of 'Despair'.",
+    "generated_answer": "Nnoitra Gilga embodies the aspect of 'Despair'.\n",
+    "answer_chunk_similarity": 7.525720596313477,
+    "faithful_coverage": 10.0,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 10.0
+  },
+  {
+    "query": "Who is known as the 'Lightning Princess' in the Shihouin family?",
+    "ground_truth_answer": "Yoruichi Shihouin is known as the 'Lightning Princess' due to her speed.",
+    "generated_answer": "The provided text refers to Yoruichi Shih\u014din as a \"Princess\" of the Shih\u014din family, and mentions her technique Shunk\u014d: Raij\u016b Senkei, which involves lightning-like Reiatsu.  However, it does not explicitly state she is known as the \"Lightning Princess\".\n",
+    "answer_chunk_similarity": 7.796756029129028,
+    "faithful_coverage": 2.641509433962264,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Which character becomes the 'Kenpachi' after Retsu Unohana's death?",
+    "ground_truth_answer": "Kenpachi Zaraki officially claims the title after defeating Unohana.",
+    "generated_answer": "I don't know.  The provided text states that Unohana acknowledged Zaraki as worthy of the title of Kenpachi, and she dies, but it doesn't say who *becomes* Kenpachi after her death.\n",
+    "answer_chunk_similarity": 8.141038417816162,
+    "faithful_coverage": 1.6666666666666665,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "What is the primary purpose of the Kid\u014d spells used by Shinigami?",
+    "ground_truth_answer": "Kid\u014d spells are used for offense, defense, and sealing techniques.",
+    "generated_answer": "Based on the provided text, Kid\u014d spells are used by Shinigami to bind people (as seen in Rukia's use on Ichigo), and to create barriers and binding spells that conceal Reiatsu (as demonstrated by Hachigen Ush\u014dda's abilities).  The text also shows that Kid\u014d can be used to put someone into a dream state (Shinji Hirako's ability).  A more specific primary purpose isn't explicitly stated.\n",
+    "answer_chunk_similarity": 7.499483227729797,
+    "faithful_coverage": 1.5625,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "What is the name of the special weapon used by Ichigo to regain his Shinigami powers?",
+    "ground_truth_answer": "The weapon is called the Spirit-Sword, or the Reiatsu Injection Sword.",
+    "generated_answer": "The provided text states that Ichigo regains his Shinigami powers after finding a Zanpakut\u014d hilt in his inner world, but it doesn't name a special weapon used *to* regain his powers.  The hilt itself leads to the rediscovery of his Zanpakut\u014d, Zangetsu.\n",
+    "answer_chunk_similarity": 8.037950992584229,
+    "faithful_coverage": 1.4285714285714288,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 4.0
+  },
+  {
+    "query": "What is the significance of Ichigo's inner Hollow in his development?",
+    "ground_truth_answer": "It symbolizes his struggle to balance his powers and inner conflict.",
+    "generated_answer": "Based on the provided text, Ichigo's inner Hollow represents a significant threat to his sanity and well-being, potentially causing him to lose his mind and friendships if unchecked.  His struggle with it forces him to confront his lack of pure fighting spirit and understand the importance of having reasons to fight.  Overcoming his inner Hollow requires him to force it into the core of his soul and reacquire his Shinigami powers before it consumes him completely.\n",
+    "answer_chunk_similarity": 7.6844024658203125,
+    "faithful_coverage": 0.99009900990099,
+    "faithfulness_score_llm": 7.0,
+    "faithful_coverage_llm": 6.0
+  },
+  {
+    "query": "Who is the first Shinigami to achieve Bankai in the series?",
+    "ground_truth_answer": "Renji Abarai achieves Bankai before the Soul Society arc concludes.",
+    "generated_answer": "I don't know.  The provided text states that T\u014dshir\u014d Hitsugaya is the youngest Shinigami to achieve Bankai, but it doesn't say who was the first.\n",
+    "answer_chunk_similarity": 8.094046115875244,
+    "faithful_coverage": 1.0256410256410258,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 8.0
+  },
+  {
+    "query": "How does a Hollow achieve the state of an Arrancar?",
+    "ground_truth_answer": "A Hollow removes part of its mask to gain Shinigami-like powers, becoming an Arrancar.",
+    "generated_answer": "I don't know\n",
+    "answer_chunk_similarity": 8.055185079574585,
+    "faithful_coverage": 0.0,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 0.0
+  },
+  {
+    "query": "Who first teaches Ichigo about the concept of Bankai?",
+    "ground_truth_answer": "Yoruichi Shihouin introduces Ichigo to the concept of Bankai.",
+    "generated_answer": "Yoruichi Shih\u014din first teaches Ichigo about the concept of Bankai.\n",
+    "answer_chunk_similarity": 7.502481937408447,
+    "faithful_coverage": 5.217391304347826,
+    "faithfulness_score_llm": 6.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "Which character uses a Fullbring called 'Dollhouse'?",
+    "ground_truth_answer": "Riruka Dokugamine's Fullbring is named 'Dollhouse'.",
+    "generated_answer": "Riruka Dokugamine uses the Fullbring called \"Dollhouse\".\n",
+    "answer_chunk_similarity": 7.441346645355225,
+    "faithful_coverage": 5.7142857142857135,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 9.0
+  },
+  {
+    "query": "What is the ability of Szayelaporro Granz's Resurrecci\u00f3n, Fornicar\u00e1s?",
+    "ground_truth_answer": "It allows him to control and manipulate opponents' bodies like puppets.",
+    "generated_answer": "Based on the provided text, Szayelaporro Granz's Resurrecci\u00f3n, Fornicar\u00e1s, allows him to release a black liquid that creates clones of his opponents when they touch it.\n",
+    "answer_chunk_similarity": 7.776929140090942,
+    "faithful_coverage": 2.2222222222222223,
+    "faithfulness_score_llm": 8.0,
+    "faithful_coverage_llm": 4.0
+  },
+  {
+    "query": "What is the purpose of the H\u014dgyoku according to Kisuke Urahara?",
+    "ground_truth_answer": "It bridges the gap between Hollows and Shinigami, granting desires subconsciously.",
+    "generated_answer": "According to the provided text, Kisuke Urahara initially believed the H\u014dgyoku's purpose was to dissolve the boundary between Shinigami and Hollows.  However, Aizen revealed its true ability to be materializing the inner desires of those around it.  Tokinada Tsunayashiro later accuses Urahara of creating the H\u014dgyoku for the purpose of sacrificing beings against their will.  Urahara denies this, stating it is unethical.\n",
+    "answer_chunk_similarity": 7.578718662261963,
+    "faithful_coverage": 1.142857142857143,
+    "faithfulness_score_llm": 9.0,
+    "faithful_coverage_llm": 6.0
   }
 ]
